@@ -1,0 +1,112 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="17396">
+			<yearpublished>2008</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>60</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>60</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Manoeuvre</name>
+							<name  sortindex="1">拿破崙時代</name>
+									
+			<description>Manoeuvre is a fast-playing game of battlefield command, set in the early 19th century. Multiple geomorphic game maps provide the chessboard-sized battlefields over which eight different armies of the period (France, Britain, Russia, Spain, Austria, Turkey, Prussia, and the US) clash. Each country has 8 units and a deck of cards specific to the country. move and fight in one-on-one battles. As the commanding General of a nation's army, you have at your command units and a 60-card national deck which represents your army's specific troops and unique strengths. Your job is to utilize those assets and manoeuvre your forces to achieve battlefield supremacy.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/pqjIbe4kdIy4jbAzcbTX8A__thumb/img/6EMi0CIwpQA7eakDNbPvr_WBEjI=/fit-in/200x150/filters:strip_icc()/pic309433.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/pqjIbe4kdIy4jbAzcbTX8A__original/img/apqSvYfBtlLlXuSSP1urVD0gIPE=/0x0/filters:format(jpeg)/pic309433.jpg</image>
+						
+																			<boardgamehonor objectid="21278">2008 Charles S. Roberts Best Pre-WW2 era Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8763">2008 Golden Geek Best 2-Player Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8767">2008 Golden Geek Best Wargame Nominee</boardgamehonor>
+															<boardgamehonor objectid="8414">2009 Golden Geek Best 2-Player Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="8416">2009 Golden Geek Best Wargame Nominee</boardgamehonor>
+															<boardgamehonor objectid="18872">2009 JoTa Best 2-Player Board Game Nominee</boardgamehonor>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+																						<boardgamefamily objectid="12981">Country: Austria</boardgamefamily>
+															<boardgamefamily objectid="11006">Country: France</boardgamefamily>
+															<boardgamefamily objectid="57617">Country: Great Britain</boardgamefamily>
+															<boardgamefamily objectid="63518">Country: Prussia</boardgamefamily>
+															<boardgamefamily objectid="11966">Country: Russia</boardgamefamily>
+															<boardgamefamily objectid="10310">Country: Spain</boardgamefamily>
+															<boardgamefamily objectid="11570">Country: Turkey</boardgamefamily>
+															<boardgamefamily objectid="14835">Country: USA</boardgamefamily>
+															<boardgameartist objectid="43187">Jean Baptiste Édouard Detaille</boardgameartist>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameimplementation objectid="111890">Fury of Harrows</boardgameimplementation>
+																						<boardgameversion objectid="73485">GMT edition 2010</boardgameversion>
+															<boardgameversion objectid="23863">GMT first edition</boardgameversion>
+															<boardgamepublisher objectid="52">GMT Games</boardgamepublisher>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgameartist objectid="11322">Knut Grünitz</boardgameartist>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="6515">Jeff Horger</boardgamedesigner>
+															<boardgameartist objectid="71">Rodger B. MacGowan</boardgameartist>
+																													<boardgameintegration objectid="106113">Manoeuvre: Distant Lands</boardgameintegration>
+															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+															<boardgamecategory objectid="1051">Napoleonic</boardgamecategory>
+																						<boardgamefamily objectid="61979">Players: Two Player Only Games</boardgamefamily>
+															<boardgamepodcastepisode objectid="7441">Point 2 Point 33: Manoeuver and Jeff Horger</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2940">Square Grid</boardgamemechanic>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+																						<boardgameintegration objectid="106113" inbound="true">Manoeuvre: Distant Lands</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="50">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="42" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="20">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="12" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="16">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+			
+		
+				
+		</boardgame>
+	</boardgames>

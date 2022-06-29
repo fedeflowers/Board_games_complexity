@@ -1,0 +1,87 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="17395">
+			<yearpublished>2005</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>90</playingtime>
+			<minplaytime>90</minplaytime>
+			<maxplaytime>90</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Prussia&#039;s Glory II: Four Battles of the Seven Years War, 1757-1759</name>
+									
+			<description>GMT's grand tactical, light-moderate Seven Years War battle series continues with four more battles in Prussia's Glory II. Players can enact some of the war's most famous battles in games playable in a single sitting. PG II hones the original PG system with some slight changes, and introduces Optional rules that further break out combat arms differences, such as Austrian Croat Sniper Attacks, Howitzer fire, and advanced Cavalry facets. The game also expands on the PG visual feast of Prussian, Austrian, French, Empire, Saxon, and Russian icon units with the Hanoverian-Allied army, featuring new heavy dragoon cavalry, and a striking red-dominant color scheme. Each battle includes one or more variants to allow players to explore historical possibilities involving larger/smaller forces present, or Alternate History battles that reverse attacker/defender roles on the same fields.&lt;br/&gt;&lt;br/&gt;4 battles are included :&lt;br/&gt;Prague: Last Day of the World&lt;br/&gt;The Golden Sun of Kolin&lt;br/&gt;Krefeld: Ferdinand Ascendant &lt;br/&gt;Inferno: Kunersdorf&lt;br/&gt;&lt;br/&gt;The new optional rules provide a richer mix of tactical chrome, while the selected actions serve to round out GMT's coverage of the war's most famous battles. PG I and II may also serve as a tactical complement to GMT's upcoming Clash of Monarchs, a card-driven, strategic treatment of the Seven Years War in Europe.&lt;br/&gt;&lt;br/&gt;Complexity 4.5; solitaire suitability 8.&lt;br/&gt;&lt;br/&gt;Components&lt;br/&gt;792 5/8&amp;quot; full-color die-cut counters. &lt;br/&gt;Two 22&amp;quot;x34&amp;quot; full-color back-printed mapsheets &lt;br/&gt;18 page Rulebook &lt;br/&gt;14 page Scenario/Playbook&lt;br/&gt;2 11x17&amp;quot; Player Aid Cards &lt;br/&gt;2 6-sided dice&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/KlQRvznto-zxuV43xU1MpA__thumb/img/dpt6ThYEbqwq4B0ALcq_A2IQl3A=/fit-in/200x150/filters:strip_icc()/pic149174.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/KlQRvznto-zxuV43xU1MpA__original/img/KR6WBC0WowkEkHwhpkGkdYm3uOU=/0x0/filters:format(jpeg)/pic149174.jpg</image>
+						
+												<boardgamecategory objectid="2726">Age of Reason</boardgamecategory>
+																						<boardgameversion objectid="43083">English edition</boardgameversion>
+															<boardgamepublisher objectid="52">GMT Games</boardgamepublisher>
+															<boardgamemechanic objectid="2026">Hexagon Grid</boardgamemechanic>
+															<boardgamefamily objectid="9793">History: Age of Kings</boardgamefamily>
+															<boardgamefamily objectid="58131">History: Seven Years War</boardgamefamily>
+															<boardgamedesigner objectid="1363">Bob Kalinowski</boardgamedesigner>
+															<boardgameartist objectid="71">Rodger B. MacGowan</boardgameartist>
+															<boardgameartist objectid="11929">Leland Myrick</boardgameartist>
+																													<boardgameartist objectid="140">Mark Simonitch</boardgameartist>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+			
+		
+				
+		</boardgame>
+	</boardgames>
