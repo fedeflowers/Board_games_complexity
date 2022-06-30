@@ -352,28 +352,28 @@
 																						<boardgameintegration objectid="295770" inbound="true">Frosthaven</boardgameintegration>
 															<boardgameintegration objectid="291457" inbound="true">Gloomhaven: Jaws of the Lion</boardgameintegration>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1328">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1329">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="129" />
 					<result value="Recommended" numvotes="577" />
-					<result value="Not Recommended" numvotes="301" />
+					<result value="Not Recommended" numvotes="302" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="322" />
-					<result value="Recommended" numvotes="731" />
+					<result value="Recommended" numvotes="732" />
 					<result value="Not Recommended" numvotes="78" />
 				</results>					
 			
 		<results numplayers="3">		
 					<result value="Best" numvotes="645" />
-					<result value="Recommended" numvotes="443" />
+					<result value="Recommended" numvotes="444" />
 					<result value="Not Recommended" numvotes="32" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="407" />
+					<result value="Best" numvotes="408" />
 					<result value="Recommended" numvotes="512" />
 					<result value="Not Recommended" numvotes="148" />
 				</results>					
@@ -381,7 +381,7 @@
 		<results numplayers="4+">		
 					<result value="Best" numvotes="6" />
 					<result value="Recommended" numvotes="47" />
-					<result value="Not Recommended" numvotes="734" />
+					<result value="Not Recommended" numvotes="735" />
 				</results>					
 	</poll>
 
