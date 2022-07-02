@@ -152,7 +152,7 @@
 																						<boardgamedesigner objectid="6">Martin Wallace</boardgamedesigner>
 															<boardgameimplementation objectid="28720" inbound="true">Brass: Lancashire</boardgameimplementation>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="697">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="698">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="0" />
@@ -167,7 +167,7 @@
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="374" />
+					<result value="Best" numvotes="375" />
 					<result value="Recommended" numvotes="224" />
 					<result value="Not Recommended" numvotes="5" />
 				</results>					

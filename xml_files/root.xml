@@ -242,28 +242,28 @@
 															<boardgameeditor objectid="67958">Joshua Yearsley</boardgameeditor>
 															<boardgamepublisher objectid="8147">YOKA Games</boardgamepublisher>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="758">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="759">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="1" />
-					<result value="Recommended" numvotes="69" />
+					<result value="Recommended" numvotes="70" />
 					<result value="Not Recommended" numvotes="443" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="14" />
-					<result value="Recommended" numvotes="214" />
+					<result value="Recommended" numvotes="215" />
 					<result value="Not Recommended" numvotes="362" />
 				</results>					
 			
 		<results numplayers="3">		
 					<result value="Best" numvotes="135" />
-					<result value="Recommended" numvotes="463" />
+					<result value="Recommended" numvotes="464" />
 					<result value="Not Recommended" numvotes="49" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="601" />
+					<result value="Best" numvotes="602" />
 					<result value="Recommended" numvotes="98" />
 					<result value="Not Recommended" numvotes="9" />
 				</results>					

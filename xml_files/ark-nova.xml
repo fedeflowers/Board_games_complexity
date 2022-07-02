@@ -28,6 +28,7 @@
 																																				<boardgamepodcastepisode objectid="420401">Ark Nova Discussion</boardgamepodcastepisode>
 																																				<boardgameaccessory objectid="365692">Ark Nova: Board Game Amplifier Acrylic Overlay</boardgameaccessory>
 															<boardgameaccessory objectid="357875">Ark Nova: Eurohell Design Insert</boardgameaccessory>
+															<boardgameaccessory objectid="366164">Ark Nova: Eurohell Design Upgrade Coins</boardgameaccessory>
 															<boardgameaccessory objectid="360411">Ark Nova: Folded Space Insert</boardgameaccessory>
 																						<boardgameartist objectid="11462">Loïc Billiau</boardgameartist>
 															<boardgamepublisher objectid="30958">Capstone Games</boardgamepublisher>
@@ -96,29 +97,29 @@
 															<boardgamepodcastepisode objectid="432501">[#185] Trio Nova - Vertiefungsstunde</boardgamepodcastepisode>
 																						<boardgamepublisher objectid="22609">テンデイズゲームズ(TendaysGames)</boardgamepublisher>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="632">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="635">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="69" />
-					<result value="Recommended" numvotes="272" />
+					<result value="Recommended" numvotes="275" />
 					<result value="Not Recommended" numvotes="64" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="380" />
-					<result value="Recommended" numvotes="170" />
+					<result value="Best" numvotes="381" />
+					<result value="Recommended" numvotes="172" />
 					<result value="Not Recommended" numvotes="20" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="190" />
-					<result value="Recommended" numvotes="280" />
+					<result value="Best" numvotes="192" />
+					<result value="Recommended" numvotes="281" />
 					<result value="Not Recommended" numvotes="36" />
 				</results>					
 			
 		<results numplayers="4">		
 					<result value="Best" numvotes="33" />
-					<result value="Recommended" numvotes="172" />
+					<result value="Recommended" numvotes="175" />
 					<result value="Not Recommended" numvotes="277" />
 				</results>					
 			

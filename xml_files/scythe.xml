@@ -390,28 +390,28 @@
 															<boardgamemechanic objectid="2974">Zone of Control</boardgamemechanic>
 															<boardgamepodcastepisode objectid="190383">[Jeux du mois] Octobre 2016 &amp;ndash; Captain Sonar &amp;amp; Scythe</boardgamepodcastepisode>
 																				
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1228">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1229">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="55" />
-					<result value="Recommended" numvotes="467" />
+					<result value="Recommended" numvotes="468" />
 					<result value="Not Recommended" numvotes="280" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="49" />
-					<result value="Recommended" numvotes="592" />
+					<result value="Recommended" numvotes="593" />
 					<result value="Not Recommended" numvotes="328" />
 				</results>					
 			
 		<results numplayers="3">		
 					<result value="Best" numvotes="277" />
-					<result value="Recommended" numvotes="632" />
+					<result value="Recommended" numvotes="633" />
 					<result value="Not Recommended" numvotes="80" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="757" />
+					<result value="Best" numvotes="758" />
 					<result value="Recommended" numvotes="267" />
 					<result value="Not Recommended" numvotes="17" />
 				</results>					
