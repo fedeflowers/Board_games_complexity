@@ -52,9 +52,7 @@ determines the order in which each Activation Group is activated.","1"
 "shuffle cards","1"
 "All remaining Activation Markers are drawn randomly, one at
 a time, from the Pool.","1"
-"A unit may never move into or
-through a hex containing an enemy combat unit.","0"
-"",""
+"A unit may never move into or through a hex containing an enemy combat unit.","0"
 "Draw 2 Final Scoring cards and place them next 
 to your zoo map. You may look at them at any 
 time, but make sure to keep them hidden from 
@@ -228,7 +226,7 @@ managed zoo","0"
  (.5)	Disordered	units	that	have	not	charged,	moved	or	Fired	
  may	undertake	Rally	attempts	at	the	end	of	their	Command	
  Activation	Sequence,	after	all	movement	and	combat	has	been	
- completed.,",""
+ completed.,","0"
 "Macedonian Wing Commanders are used to issue Contingent
  Commands, as per 5.6.,
  A unit may
