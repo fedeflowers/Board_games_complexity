@@ -130,6 +130,7 @@
 															<boardgameexpansion objectid="347812">Marvel Champions: The Card Game – The Vision Hero Pack</boardgameexpansion>
 															<boardgameexpansion objectid="294306">Marvel Champions: The Card Game – The Wrecking Crew Scenario Pack</boardgameexpansion>
 															<boardgameexpansion objectid="295782">Marvel Champions: The Card Game – Thor Hero Pack</boardgameexpansion>
+															<boardgameaccessory objectid="365820">Marvel Champions: The Card Game – Tower Rex Organizer</boardgameaccessory>
 															<boardgameexpansion objectid="345587">Marvel Champions: The Card Game – Valkyrie Hero Pack</boardgameexpansion>
 															<boardgameexpansion objectid="335739">Marvel Champions: The Card Game – Venom Hero Pack</boardgameexpansion>
 															<boardgameexpansion objectid="342671">Marvel Champions: The Card Game – War Machine Hero Pack</boardgameexpansion>
@@ -154,36 +155,36 @@
 															<boardgamemechanic objectid="2897">Variable Set-up</boardgamemechanic>
 																						<boardgameeditor objectid="67958">Joshua Yearsley</boardgameeditor>
 													
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="541">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="543">
 			
 		<results numplayers="1">		
-					<result value="Best" numvotes="329" />
+					<result value="Best" numvotes="331" />
 					<result value="Recommended" numvotes="156" />
 					<result value="Not Recommended" numvotes="23" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="348" />
+					<result value="Best" numvotes="350" />
 					<result value="Recommended" numvotes="135" />
 					<result value="Not Recommended" numvotes="6" />
 				</results>					
 			
 		<results numplayers="3">		
 					<result value="Best" numvotes="49" />
-					<result value="Recommended" numvotes="249" />
+					<result value="Recommended" numvotes="251" />
 					<result value="Not Recommended" numvotes="91" />
 				</results>					
 			
 		<results numplayers="4">		
 					<result value="Best" numvotes="6" />
 					<result value="Recommended" numvotes="110" />
-					<result value="Not Recommended" numvotes="268" />
+					<result value="Not Recommended" numvotes="270" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="1" />
 					<result value="Recommended" numvotes="1" />
-					<result value="Not Recommended" numvotes="317" />
+					<result value="Not Recommended" numvotes="319" />
 				</results>					
 	</poll>
 

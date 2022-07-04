@@ -97,36 +97,36 @@
 															<boardgamepodcastepisode objectid="432501">[#185] Trio Nova - Vertiefungsstunde</boardgamepodcastepisode>
 																						<boardgamepublisher objectid="22609">テンデイズゲームズ(TendaysGames)</boardgamepublisher>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="635">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="637">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="69" />
-					<result value="Recommended" numvotes="275" />
+					<result value="Recommended" numvotes="276" />
 					<result value="Not Recommended" numvotes="64" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="381" />
-					<result value="Recommended" numvotes="172" />
+					<result value="Best" numvotes="380" />
+					<result value="Recommended" numvotes="173" />
 					<result value="Not Recommended" numvotes="20" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="192" />
+					<result value="Best" numvotes="193" />
 					<result value="Recommended" numvotes="281" />
 					<result value="Not Recommended" numvotes="36" />
 				</results>					
 			
 		<results numplayers="4">		
 					<result value="Best" numvotes="33" />
-					<result value="Recommended" numvotes="175" />
+					<result value="Recommended" numvotes="176" />
 					<result value="Not Recommended" numvotes="277" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="2" />
 					<result value="Recommended" numvotes="3" />
-					<result value="Not Recommended" numvotes="308" />
+					<result value="Not Recommended" numvotes="309" />
 				</results>					
 	</poll>
 

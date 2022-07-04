@@ -81,42 +81,42 @@
 															<boardgameintegration objectid="167355" inbound="true">Nemesis</boardgameintegration>
 															<boardgameimplementation objectid="167355" inbound="true">Nemesis</boardgameimplementation>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="43">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="44">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="4" />
-					<result value="Recommended" numvotes="14" />
+					<result value="Recommended" numvotes="15" />
 					<result value="Not Recommended" numvotes="16" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="6" />
-					<result value="Recommended" numvotes="14" />
+					<result value="Recommended" numvotes="15" />
 					<result value="Not Recommended" numvotes="13" />
 				</results>					
 			
 		<results numplayers="3">		
 					<result value="Best" numvotes="3" />
-					<result value="Recommended" numvotes="25" />
+					<result value="Recommended" numvotes="26" />
 					<result value="Not Recommended" numvotes="4" />
 				</results>					
 			
 		<results numplayers="4">		
 					<result value="Best" numvotes="17" />
-					<result value="Recommended" numvotes="12" />
+					<result value="Recommended" numvotes="13" />
 					<result value="Not Recommended" numvotes="4" />
 				</results>					
 			
 		<results numplayers="5">		
 					<result value="Best" numvotes="14" />
-					<result value="Recommended" numvotes="10" />
+					<result value="Recommended" numvotes="11" />
 					<result value="Not Recommended" numvotes="8" />
 				</results>					
 			
 		<results numplayers="5+">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="0" />
-					<result value="Not Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="18" />
 				</results>					
 	</poll>
 

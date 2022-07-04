@@ -196,7 +196,7 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="105">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="106">
 			<results>		
 					<result value="2" numvotes="1" />
 					<result value="3" numvotes="0" />
@@ -205,7 +205,7 @@
 					<result value="6" numvotes="0" />
 					<result value="8" numvotes="5" />
 					<result value="10" numvotes="7" />
-					<result value="12" numvotes="23" />
+					<result value="12" numvotes="24" />
 					<result value="14" numvotes="53" />
 					<result value="16" numvotes="15" />
 					<result value="18" numvotes="0" />
