@@ -80,7 +80,33 @@
 
 			
 			
-			
+						<statistics page="1">
+												<ratings >
+					<usersrated>176</usersrated>
+					<average>6.70739</average>
+					<bayesaverage>5.60279</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7467" bayesaverage="5.60279" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1179" bayesaverage="6.034" />
+												
+											</ranks>
+					
+					<stddev>1.40357</stddev>
+					<median>0</median>
+					<owned>563</owned>
+					<trading>10</trading>
+					<wanting>19</wanting>
+					<wishing>62</wishing>
+					<numcomments>88</numcomments>
+					<numweights>28</numweights>
+					<averageweight>2.8214</averageweight>
+				</ratings>
+															</statistics>
+		
 		
 				
 		</boardgame>

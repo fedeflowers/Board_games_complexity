@@ -263,16 +263,16 @@
 																						<boardgamepublisher objectid="44209">Ігромаг</boardgamepublisher>
 																						<boardgameimplementation objectid="68448" inbound="true">7 Wonders</boardgameimplementation>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="989">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="990">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="9" />
 					<result value="Recommended" numvotes="57" />
-					<result value="Not Recommended" numvotes="720" />
+					<result value="Not Recommended" numvotes="721" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="956" />
+					<result value="Best" numvotes="957" />
 					<result value="Recommended" numvotes="22" />
 					<result value="Not Recommended" numvotes="3" />
 				</results>					
@@ -280,7 +280,7 @@
 		<results numplayers="2+">		
 					<result value="Best" numvotes="5" />
 					<result value="Recommended" numvotes="5" />
-					<result value="Not Recommended" numvotes="754" />
+					<result value="Not Recommended" numvotes="755" />
 				</results>					
 	</poll>
 
@@ -315,7 +315,33 @@
 
 			
 			
-			
+						<statistics page="1">
+												<ratings >
+					<usersrated>75106</usersrated>
+					<average>8.10506</average>
+					<bayesaverage>7.98118</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19" bayesaverage="7.98118" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="21" bayesaverage="7.94473" />
+												
+											</ranks>
+					
+					<stddev>1.18393</stddev>
+					<median>0</median>
+					<owned>120765</owned>
+					<trading>741</trading>
+					<wanting>934</wanting>
+					<wishing>9344</wishing>
+					<numcomments>10123</numcomments>
+					<numweights>2345</numweights>
+					<averageweight>2.2239</averageweight>
+				</ratings>
+															</statistics>
+		
 		
 				
 		</boardgame>

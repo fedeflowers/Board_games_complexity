@@ -440,7 +440,7 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="264">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="265">
 			<results>		
 					<result value="2" numvotes="2" />
 					<result value="3" numvotes="0" />
@@ -449,7 +449,7 @@
 					<result value="6" numvotes="4" />
 					<result value="8" numvotes="13" />
 					<result value="10" numvotes="48" />
-					<result value="12" numvotes="90" />
+					<result value="12" numvotes="91" />
 					<result value="14" numvotes="89" />
 					<result value="16" numvotes="16" />
 					<result value="18" numvotes="2" />
@@ -460,7 +460,33 @@
 
 			
 			
-			
+						<statistics page="1">
+												<ratings >
+					<usersrated>69002</usersrated>
+					<average>8.2033</average>
+					<bayesaverage>8.04977</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16" bayesaverage="8.04977" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="14" bayesaverage="8.01943" />
+												
+											</ranks>
+					
+					<stddev>1.43822</stddev>
+					<median>0</median>
+					<owned>92577</owned>
+					<trading>656</trading>
+					<wanting>1865</wanting>
+					<wishing>20118</wishing>
+					<numcomments>10426</numcomments>
+					<numweights>2742</numweights>
+					<averageweight>3.4296</averageweight>
+				</ratings>
+															</statistics>
+		
 		
 				
 		</boardgame>

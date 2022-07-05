@@ -79,7 +79,7 @@
 															<boardgamepodcastepisode objectid="7445">Point 2 Point 29: C&amp;amp;C Ancients and Lys Fulda</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="7435">Point 2 Point 39: They&#039;re Ba-ack and Pursuit of Glory</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="26606">Point 2 Point 43: Jason Flies Solo</boardgamepodcastepisode>
-																													<boardgamepodcastepisode objectid="414387">S.2 Episode 3 - Top 3 Games We Want!</boardgamepodcastepisode>
+																																				<boardgamepodcastepisode objectid="414387">S.2 Episode 3 - Top 3 Games We Want!</boardgamepodcastepisode>
 															<boardgamemechanic objectid="2822">Scenario / Mission / Campaign Game</boardgamemechanic>
 															<boardgameversion objectid="23874">Second edition</boardgameversion>
 																						<boardgamefamily objectid="50">Series: Commands &amp; Colors</boardgamefamily>
@@ -148,7 +148,33 @@
 
 			
 			
-			
+						<statistics page="1">
+												<ratings >
+					<usersrated>8312</usersrated>
+					<average>7.77162</average>
+					<bayesaverage>7.34084</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="177" bayesaverage="7.34084" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="21" bayesaverage="7.65463" />
+												
+											</ranks>
+					
+					<stddev>1.41119</stddev>
+					<median>0</median>
+					<owned>11120</owned>
+					<trading>289</trading>
+					<wanting>594</wanting>
+					<wishing>2685</wishing>
+					<numcomments>2713</numcomments>
+					<numweights>1031</numweights>
+					<averageweight>2.6916</averageweight>
+				</ratings>
+															</statistics>
+		
 		
 				
 		</boardgame>
