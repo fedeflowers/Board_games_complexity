@@ -49,6 +49,7 @@
 															<boardgamehonor objectid="71308">2021 Graf Ludo Best Family Game Graphics Nominee</boardgamehonor>
 															<boardgamehonor objectid="72576">2021 Nederlandse Spellenprijs Best Expert Game Nominee</boardgamehonor>
 															<boardgamehonor objectid="73559">2021 Nederlandse Spellenprijs Best Expert Game Winner</boardgamehonor>
+															<boardgamehonor objectid="76296">2022 GEEKS d&#039;OURO Best Translated Board Game of the Year Nominee</boardgamehonor>
 															<boardgamepublisher objectid="42875">Abraxas</boardgamepublisher>
 															<boardgameversion objectid="477038">Abraxas Korean edition</boardgameversion>
 																						<boardgamecategory objectid="1089">Animals</boardgamecategory>
@@ -222,28 +223,28 @@
 															<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
 															<boardgamepublisher objectid="8147">YOKA Games</boardgamepublisher>
 													
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="594">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="595">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="16" />
-					<result value="Recommended" numvotes="214" />
+					<result value="Recommended" numvotes="215" />
 					<result value="Not Recommended" numvotes="103" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="162" />
-					<result value="Recommended" numvotes="313" />
+					<result value="Recommended" numvotes="314" />
 					<result value="Not Recommended" numvotes="29" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="299" />
+					<result value="Best" numvotes="300" />
 					<result value="Recommended" numvotes="164" />
 					<result value="Not Recommended" numvotes="9" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="95" />
+					<result value="Best" numvotes="96" />
 					<result value="Recommended" numvotes="254" />
 					<result value="Not Recommended" numvotes="81" />
 				</results>					
@@ -251,7 +252,7 @@
 		<results numplayers="4+">		
 					<result value="Best" numvotes="1" />
 					<result value="Recommended" numvotes="10" />
-					<result value="Not Recommended" numvotes="266" />
+					<result value="Not Recommended" numvotes="267" />
 				</results>					
 	</poll>
 
@@ -266,12 +267,12 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="144">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="145">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
 					<result value="4" numvotes="0" />
-					<result value="5" numvotes="1" />
+					<result value="5" numvotes="2" />
 					<result value="6" numvotes="1" />
 					<result value="8" numvotes="31" />
 					<result value="10" numvotes="43" />
@@ -288,29 +289,29 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>34737</usersrated>
-					<average>8.08738</average>
-					<bayesaverage>7.88435</bayesaverage>
+					<usersrated>34765</usersrated>
+					<average>8.08772</average>
+					<bayesaverage>7.88472</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="29" bayesaverage="7.88435" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="29" bayesaverage="7.88472" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="33" bayesaverage="7.85639" />
-														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3" bayesaverage="7.9007" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="33" bayesaverage="7.85661" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3" bayesaverage="7.90087" />
 												
 											</ranks>
 					
-					<stddev>1.27925</stddev>
+					<stddev>1.27939</stddev>
 					<median>0</median>
-					<owned>53108</owned>
-					<trading>298</trading>
-					<wanting>1509</wanting>
-					<wishing>14993</wishing>
-					<numcomments>4760</numcomments>
-					<numweights>1039</numweights>
-					<averageweight>2.8114</averageweight>
+					<owned>53151</owned>
+					<trading>301</trading>
+					<wanting>1512</wanting>
+					<wishing>14990</wishing>
+					<numcomments>4762</numcomments>
+					<numweights>1041</numweights>
+					<averageweight>2.8117</averageweight>
 				</ratings>
 															</statistics>
 		

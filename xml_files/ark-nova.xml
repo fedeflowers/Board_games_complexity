@@ -97,36 +97,36 @@
 															<boardgamepodcastepisode objectid="432501">[#185] Trio Nova - Vertiefungsstunde</boardgamepodcastepisode>
 																						<boardgamepublisher objectid="22609">テンデイズゲームズ(TendaysGames)</boardgamepublisher>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="639">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="642">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="70" />
-					<result value="Recommended" numvotes="278" />
-					<result value="Not Recommended" numvotes="64" />
+					<result value="Recommended" numvotes="279" />
+					<result value="Not Recommended" numvotes="65" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="382" />
-					<result value="Recommended" numvotes="173" />
+					<result value="Best" numvotes="384" />
+					<result value="Recommended" numvotes="174" />
 					<result value="Not Recommended" numvotes="20" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="193" />
-					<result value="Recommended" numvotes="282" />
+					<result value="Best" numvotes="194" />
+					<result value="Recommended" numvotes="284" />
 					<result value="Not Recommended" numvotes="36" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="33" />
+					<result value="Best" numvotes="34" />
 					<result value="Recommended" numvotes="176" />
-					<result value="Not Recommended" numvotes="278" />
+					<result value="Not Recommended" numvotes="280" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="2" />
 					<result value="Recommended" numvotes="3" />
-					<result value="Not Recommended" numvotes="310" />
+					<result value="Not Recommended" numvotes="312" />
 				</results>					
 	</poll>
 
@@ -141,7 +141,7 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="88">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="90">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -150,9 +150,9 @@
 					<result value="6" numvotes="0" />
 					<result value="8" numvotes="2" />
 					<result value="10" numvotes="12" />
-					<result value="12" numvotes="28" />
+					<result value="12" numvotes="29" />
 					<result value="14" numvotes="40" />
-					<result value="16" numvotes="5" />
+					<result value="16" numvotes="6" />
 					<result value="18" numvotes="1" />
 					<result value="21 and up" numvotes="0" />
 				</results>					
@@ -163,28 +163,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>11732</usersrated>
-					<average>8.66367</average>
-					<bayesaverage>8.18798</bayesaverage>
+					<usersrated>11803</usersrated>
+					<average>8.66247</average>
+					<bayesaverage>8.18961</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7" bayesaverage="8.18798" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7" bayesaverage="8.18961" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="4" bayesaverage="8.28325" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="4" bayesaverage="8.28427" />
 												
 											</ranks>
 					
-					<stddev>1.30523</stddev>
+					<stddev>1.30754</stddev>
 					<median>0</median>
-					<owned>18697</owned>
-					<trading>64</trading>
-					<wanting>1109</wanting>
-					<wishing>8111</wishing>
-					<numcomments>1758</numcomments>
-					<numweights>793</numweights>
-					<averageweight>3.7074</averageweight>
+					<owned>18797</owned>
+					<trading>66</trading>
+					<wanting>1110</wanting>
+					<wishing>8120</wishing>
+					<numcomments>1771</numcomments>
+					<numweights>796</numweights>
+					<averageweight>3.7073</averageweight>
 				</ratings>
 															</statistics>
 		
