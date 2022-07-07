@@ -1,0 +1,104 @@
+What is Reorder Point
+Reading Time 5 mins
+Maintaining the inventory is not as easy as one would think. A company must have enough items to supply customers, plus more items in case of unexpected increased demand. But buying too many items beforehand is not an option since it will increase the inventory maintenance costs.
+
+So, how to find the right balance? By calculating reorder points for each item in the inventory! Keep reading the article to find out what a reorder point is and how you calculate it.
+
+Understanding Reorder Point
+Reorder Point or ROP is a system that controls and manages the business’s inventory. ROP helps maintain appropriate levels of assets in the inventory to prevent shortages or overbuying specific products. The system reminds management when it’s time to reorder items from a vendor or supplier as soon as the levels of these items drop below a predetermined point.
+
+Some businesses also prefer including safety stock in the calculation of a reorder point. Safety stock is an extra inventory a company has in case of a sudden increase in demand. In that case, the business won’t experience any shortages and will be able to cover the demand.
+
+The ROP system has many advantages. That’s why most businesses working in retail or manufacturing calculate reorder points. The system prevents any shortages or over-ordering of products/materials.
+
+It’s crucial to understand that each item has its importance to the production or retail process. This means that the reorder point is different for every separate item. ROP also depends on discounts when the demand might be increased. Such factors as delivery time availability of safety stock also affect the reorder point.
+
+In combination with such a system as Enterprise Resource Planning (ERP), the reorder point can be automated and easier to perform. But even without advanced software, small businesses can take advantage of ROP.
+
+Benefits of Reorder Point
+Calculating the reorder point for each item has several advantages:
+
+Smooth inventory flow without any shortages or overbuying of items. Thanks to ROP, the company develops a more advanced inventory strategy.
+The stock is always available for further retail or usage in manufacturing processes.
+Helps with determining any possible procurement problems. That way, company managers can resolve issues early on to avoid disrupting business processes.
+Keeps expenses reasonable. Overbuying negatively affects the financial health of the company. ROP determines when to reorder specific items to avoid unnecessary expenses on maintaining the inventory.
+Helps make good decisions related to the procurement process.
+Undoubtedly, calculating reorder points is critical to a company’s financial health. Every business maintaining an inventory should consider calculating a reorder point to improve business processes. Keep reading the article to find the formula to calculate ROP.
+
+ROP Formula
+The reorder point formula is simple, although it includes several factors as shown below:
+
+ROP = (Average daily usage rate x Lead time) + Safety stock.
+
+The average daily usage rate means how much of a certain product is sold during an average day. Lead time means the number of days/hours between making an order and getting the product. And as mentioned, safety stock is reserved for the business in case of unexpected demand.
+
+In simple words, to calculate a reorder point for a specific item, learn how many pieces you sell on a usual day. Then multiply that number by lead time to find the lead demand. If you don’t have a safety stock, remove it from the calculation.
+
+How to Calculate Reorder Point?
+You have to calculate the following to find the ROP of an item:
+
+Average daily usage.
+Lead time.
+Safety stock level (if a company has it).
+Read further to figure out how to calculate mentioned parts of the equation.
+
+What is Reorder Point
+Average Daily Usage
+Calculating average daily usage shows the number of sales of a specific product your company makes on an average day. To calculate the quantity, choose a period of measurement.
+
+Note, if your company is often affected by seasonality (for example, fashion retail), then calculate the average daily usage of an item for each season and then run the formula during each season.
+
+If a company needs to be highly accurate, it’s possible to use the formula to learn the number of sales per month and then per year based on the results.
+
+To make it easier to understand the formula, check the following examples:
+
+MarketExample is an online store that sells products. The store needs to find out the average daily usage of their highly popular ice tea sold in bottles. The period of measurement is one month.
+
+Number of bottles sold: 300
+Number of days in the month: 31
+The average daily usage = 300 / 31.
+
+The MarketExample store sells an average of 9.7 of these bottles.
+
+Lead Time
+The next step is to find out how much time it takes for an item to arrive upon its reorder. It’s an easy step. Add all periods affecting the time from a reorder to arrival. The calculation should include such periods as approvals (if any), processing of order forms, delivery, etc. Overall, everything affects the time of item’s arrival to the inventory.
+
+Then calculate reorder delay. It’s a critical step, but retailers often omit it. If vendors or suppliers work only during certain days (i.e., only during business days), then include this delay in the equation.
+
+Now let’s take a look at formula examples.
+
+MarketExample orders bottles of ice tea from a local vendor. It takes a day to approve the order, one day for the order date to arrive at the warehouse, and one day to receive, process, and place a new order upon its delivery. In this case, the supply delay is:
+
+1 + 1 + 1 = 3 (days)
+
+But there is one critical condition — local vendor accepts orders only on Mondays. Meaning the reorder delay is around six days.
+
+This condition changes the situation and complicates the task, so the store has to be prepared. The store can’t be sure that the stock will be sold at the same rate at all times.
+
+According to the supply delay, lead time calculation is as follows:
+
+3 + 6 = 9 (days)
+
+MarketExample has to consider 9 days of average lead time.
+
+Safety Stock Level
+Using safety stock protects the business from unexpected situations. Many different factors can affect the supply, for example, seasonal demand, bigger delays when delivering the item, etc.
+
+Having safety stock helps with these difficult to predict factors. But to have safety stock, you need to calculate how many items the store needs.
+
+The safety stock equation is as follows:
+
+(max daily usage) * (max lead time) – (avg daily usage) * (avg lead time) = safety stock.
+
+You have average lead time and average daily usage, and now it’s time to calculate maximum daily usage and maximum lead time. Maximum daily usage is the maximum a daily usage could go, for example, 20. Maximum lead time is the longest delay during a given period, for example, 13.
+
+(20 x 13) – (9.7 x 9) = 172.7
+
+Now you have everything to calculate ROP:
+
+(9.7 x 9) + 172.7 = 260
+
+When the stock drops to 260, the manager should take care of a reorder.
+
+Final Thoughts
+A reorder point system helps with a smooth inventory flow. ROP prevents items from running out, customer and income loss. Moreover, a business avoids unnecessary expenditure caused by overbuying to prevent shortages. Consider calculating ROP if you want your business to strive.

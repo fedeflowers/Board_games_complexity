@@ -287,12 +287,12 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="165">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="166">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
 					<result value="4" numvotes="0" />
-					<result value="5" numvotes="1" />
+					<result value="5" numvotes="2" />
 					<result value="6" numvotes="0" />
 					<result value="8" numvotes="10" />
 					<result value="10" numvotes="28" />
@@ -309,29 +309,29 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>35993</usersrated>
-					<average>8.09595</average>
-					<bayesaverage>7.89344</bayesaverage>
+					<usersrated>36010</usersrated>
+					<average>8.09585</average>
+					<bayesaverage>7.89339</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="28" bayesaverage="7.89344" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="28" bayesaverage="7.89339" />
 												
 							
-														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="15" bayesaverage="7.73" />
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="29" bayesaverage="7.87728" />
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="14" bayesaverage="7.73009" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="29" bayesaverage="7.87717" />
 												
 											</ranks>
 					
-					<stddev>1.43246</stddev>
+					<stddev>1.43261</stddev>
 					<median>0</median>
-					<owned>55113</owned>
-					<trading>349</trading>
+					<owned>55136</owned>
+					<trading>351</trading>
 					<wanting>1713</wanting>
-					<wishing>15899</wishing>
-					<numcomments>5369</numcomments>
-					<numweights>1448</numweights>
-					<averageweight>3.7445</averageweight>
+					<wishing>15904</wishing>
+					<numcomments>5373</numcomments>
+					<numweights>1449</numweights>
+					<averageweight>3.744</averageweight>
 				</ratings>
 															</statistics>
 		

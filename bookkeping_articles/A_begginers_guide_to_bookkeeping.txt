@@ -1,0 +1,72 @@
+The Beginner's Guide to Bookkeeping
+BY ROSEMARY CARLSON Updated on September 17, 2020
+Image shows three panels: one shows boxes of inventory, the next shows a debt notice, the third shows two people shaking hands and someone handing over a briefcase. Text reads: "Beginners' accounting termsÃ¢ÂÂassets: what the company owns, such as its inventory and accounts receivables. Liabilities: what a company owes to suppliers (accounts payable), bank and business loans, mortgages, and any other debt on the books. Equity: any ownership a business owner and any investors have in the firm"
+Image by Daniel Fishel ÃÂ© The Balance 2019
+
+Bookkeeping is the process of recording all financial transactions made by a business. Bookkeepers are responsible for recording, classifying, and organizing every financial transaction that is made through the course of business operations. Bookkeeping differs from accounting. The accounting process uses the books kept by the bookkeeper to prepare the end of the year accounting statements and accounts.
+
+Very small businesses may choose a simple bookkeeping system that records each financial transaction in much the same manner as a checkbook. Businesses that have more complex financial transactions usually choose to use the double-entry accounting process.
+
+What is Bookkeeping?
+Bookkeeping is the process of keeping track of every financial transaction made by a business firm from the opening of the firm to the closing of the firm. Depending on the type of accounting system used by the business, each financial transaction is recorded based on supporting documentation. That documentation may be a receipt, an invoice, a purchase order, or some similar type of financial record showing that the transaction took place.
+
+The bookkeeping transactions can be recorded by hand in a journal or using a spreadsheet program like Microsoft Excel. Most businesses now use specialized bookkeeping computer programs to keep books that show their financial transactions. Bookkeepers can use either single-entry or double-entry bookkeeping to record financial transactions. Bookkeepers have to understand the firm's chart of accounts and how to use debits and credits to balance the books.1﻿
+
+The bookkeeping process should allow for communication of the financial results of the firm at the end of the year for income tax purposes and the preparation of financial statements by the firm's accountant.
+
+How Does Bookkeeping Differ From Accounting?
+Bookkeeping in a business firm is an important, but preliminary, function to the actual accounting function. A bookkeeper collects the documentation for each financial transaction, records the transactions in the accounting journal, classifies each transaction as one or more debits and one or more credits, and organizes the transactions according to the firm's chart of account.
+
+The financial transactions are all recorded, but they have to be summarized at the end of specific time periods. Some firms require quarterly reports. Other smaller firms may require reports only at the end of the year in preparation for doing taxes.
+
+At the end of the appropriate time period, the accountant takes over and analyzes, reviews, interprets and reports financial information for the business firm. The accountant also prepares year-end financial statements and the proper accounts for the firm. The year-end reports prepared by the accountant have to adhere to the standards established by the Financial Accounting Standards Board (FASB). These rules are called Generally Accepted Accounting Principles (GAAP).
+
+What Do You Need to Set Up Bookkeeping for Your Business?
+One of the first decisions you have to make when setting up your bookkeeping system is whether or not to use a cash or accrual accounting system. If you are operating a small, one-person business from home or even a larger consulting practice from a one-person office, you might want to stick with cash accounting.2﻿
+
+If you use cash accounting, you record your transaction when cash changes hands. Using accrual accounting, you record purchases or sales immediately, even if the cash doesn't change hands until a later time, Sometimes firms start their business using cash accounting and switch to accrual accounting as they grow.
+
+If you are going to offer your customers credit or if you are going to request credit from your suppliers, then you have to use an accrual accounting system.
+
+You also have to decide, as a new business owner, if you are going to use single-entry or double-entry bookkeeping. Single-entry bookkeeping is much like keeping your check register. You record transactions as you pay bills and make deposits into your company account. It only works if your company is relatively small with a low volume of transactions.
+
+If your company is larger and more complex, you need to set up a double-entry bookkeeping system. Two entries, at least, are made for each transaction. At least one debit is made to one account, and at least one credit is made to another account. That is the key to double-entry accounting.
+
+Companies also have to set up their computerized accounting systems when they set up bookkeeping for their businesses. Most companies use computer software to keep track of their accounting journal with their bookkeeping entries. Very small firms may use a basic spreadsheet, like Microsoft Excel. Larger businesses adopt more sophisticated software to keep track of their accounting journals.
+
+Lastly, the business must set up its chart of accounts. The chart of accounts may change over time as the business grows and changes.
+
+The chart of accounts lists every account the business needs and should have. Each account has a number and a name. Subaccounts are also listed.
+
+Understanding Assets, Liabilities, and Equity When Balancing the Books
+Effective bookkeeping requires an understanding of the firm's basic accounts. These accounts and their sub-accounts make up the company's chart of accounts. Assets, liabilities, and equity make up the accounts that compose the company's balance sheet.3﻿
+
+Assets are what the company owns such as its inventory and accounts receivables. Assets also include fixed assets which are generally the plant, equipment, and land. If you look you look at the format of a balance sheet, you will see the asset accounts listed in the order of their liquidity. Asset accounts start with the cash account since cash is perfectly liquid. After the cash account, there is the inventory, receivables, and fixed assets accounts. Those are tangible assets. You can touch them. Firms also have intangible assets such as customer goodwill that may be listed on the balance sheet.
+
+Liabilities are what the company owes like what they owe to their suppliers, bank and business loans, mortgages, and any other debt on the books. The liability accounts on a balance sheet include both current and long-term liabilities. Current liabilities are usually accounts payable and accruals. Accounts payable are usually what the business owes to its suppliers, credit cards, and bank loans. Accruals will consist of taxes owed including sales tax owed and federal, state, social security, and Medicare tax on the employees which are generally paid quarterly. Long-term liabilities have a maturity of greater than one year and include items like mortgage loans.
+
+Equity is the investment a business owner, and any other investors, have in the firm. The equity accounts include all the claims the owners have against the company. The business owner has an investment, and it may be the only investment in the firm. If the firm has taken on other investors, that is reflected here.
+
+In bookkeeping, you have to balance your books at the end of the year. The bookkeeper has to keep careful track of these items and be sure the transactions that deal with assets, liabilities, and equity are recorded correctly and in the right place. There is a key formula you can use to make sure your books always balance. That formula is called the accounting equation:
+
+Assets = Liabilities + Equity
+
+The accounting equation means that everything the business owns (assets) is balanced against claims against the business (liabilities and equity). Liabilities are claims based on what you owe vendors and lenders. Owners of the business have claims against the remaining assets (equity).
+
+Income Statement and Bookkeeping: Revenue, Expenses, and Costs
+The income statement is developed by using revenue from sales and other sources, expenses, and costs. In bookkeeping, you have to record each financial transaction in the accounting journal that falls into one of these three categories.
+
+The information from a company's balance sheet and income statement gives the accountant, at the end of the year, a full financial picture of the firm's bookkeeping transactions in the accounting journal.
+
+Revenue is all the income a business receives in selling its products or services.4﻿ Costs, also known as the cost of goods sold, is all the money a business spends to buy or manufacture the goods or services it sells to its customers. The Purchases account on the chart of accounts tracks goods purchased.
+
+Expenses are all the money that is spent to run the company that is not specifically related to a product or service sold.5﻿ An example of an expense account is Salaries and Wages or Selling and Administrative expenses.
+
+A bookkeeper is responsible for identifying the accounts in which transactions should be recorded. For example, if the business makes a cash sale to a customer and your business uses double-entry bookkeeping, you would record the cash received in the asset account called Cash and the sale would be recorded in the revenue account called Sales.
+
+Key Takeaways
+Bookkeeping is the process of keeping track of every financial transaction made by a business firm from the opening of the firm to the closing of the firm.
+Accounting analyzes, reviews, interprets, and reports financial information for the business firm. The accountant also prepares year-end financial statements and the proper accounts for the firm.
+In cash accounting, you record your transaction when cash changes hands. Using accrual accounting, you record purchases or sales immediately, even if the cash doesn't change hands until a later time,
+Effective bookkeeping requires an understanding of the firm's basic accounts. These accounts and their sub-accounts make up the company's chart of accounts.
+A business's six basic accounts are Assets, Liabilities, Equity, Revenue, Expenses, and Costs.

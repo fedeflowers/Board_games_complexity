@@ -1,0 +1,75 @@
+What Is Obsolete Inventory?
+Reading Time 4 mins
+If you own a business with an inventory, the most critical thing is to maintain it properly. Without keeping an eye on the inventory, it may become obsolete. This article focuses on obsolete inventory and ways of treating it.
+
+Understanding Obsolete Inventory
+Obsolete inventory is an inventory a business still owns even though the firm should have sold it. When a business can’t sell the inventory in the markets, its price decreases significantly. If a company doesn’t do anything, it may become useless.
+
+If an inventory becomes obsolete, the company must follow generally accepted accounting principles (GAAP) and either write it down or write it off in the financial statements.
+
+Which method to choose? If the inventory’s market value decreases below the cost reported in the financial statements, the company should write down the inventory. If the inventory becomes invaluable and the business can’t sell it anymore, the accountant should write it off from the books.
+
+Obsolete Inventory In Accounting
+In accounting, companies must treat obsolete inventory according to GAAP. The general rules require businesses to create an inventory reserve account dedicated to obsolete inventory in their balance sheets.
+
+The companies must also expense their obsolete inventory during its disposal. Eventually, it reduces profits or results in losses. Businesses report their inventory obsolescence by debiting their expense accounts while also crediting their contra asset accounts.
+
+When the business debits an expense account, it means that the money the firm spent on the now obsolete inventory is considered an expense. An accountant should also report the contra asset account on the balance sheet right below the related asset account. As a result, the company reduces the net reported value of the asset account.
+
+A few examples of the expense accounts include:
+
+COGS;
+inventory obsolescence accounts;
+loss on inventory write-down.
+The contra asset account could consist of an obsolete inventory allowance and an obsolete inventory reserve. If the write-down of an inventory is relatively small, then accountants should charge the cost of goods sold. If the write-down is big, the accountant should charge the expense to an alternative account.
+
+What Is Obsolete Inventory?
+Why Is Obsolete Inventory A Bad Occurrence?
+The main goal of creating an inventory is to sell it and gain profit. An obsolete inventory is one that you can’t sell, and thus, it’s a loss of profit. An obsolete inventory is no longer an asset.
+
+At the end of the accounting period (or at the end of the fiscal year), the company must report the unsellable inventory as a write-off or write down according to GAAP. Given new technology and clients’ high expectations, the lifecycle of the goods is becoming shorter in all industries.
+
+As a result, inventory may become obsolete faster, and companies must take action to avoid this occurrence since it’s a loss of profit. GAAP rules state that the business must reduce obsolete inventory costs. If the firm fails to do so, the following amounts on the company’s financial statements will be overstated:
+
+Profits.
+Current assets.
+Inventory.
+Owner’s or stockholders’ equity.
+Working capital.
+Obsolete inventory disposal enables the company to reduce its tax burden and maintain realistic financial statements.
+
+What Causes Obsolete Inventory?
+Several factors may lead to obsolete inventory. These factors include:
+
+Bad inventory management.
+Lack of inventory transparency.
+Lack of supply chain data.
+Incorrect inventory forecasting.
+Let us dive into the details.
+
+Bad Inventory Management
+Without proper inventory management tools, it’s impossible to track inventory levels. As a result, the company may buy too many products that don’t even meet the demand of the customers.
+
+Moreover, suppose a business can’t track the items which are moving slowly or taking too much of the storage space. In that case, it may be impossible to figure out how much inventory obsolescence the business is accumulating.
+
+Lack Of Inventory Visibility
+Lack of visibility may lead to unseen inventory obsolescence. In turn, this leads to an increase in expenses. Visibility of the inventory should always be a priority given that its lack results in not understanding when to restock specific items.
+
+Lack Of Supply Chain Data
+A supply chain enables a business to restock goods on time. The company supplies the clients’ demands thanks to having the necessary data. The company must take care of supply chain forecasting, which includes having insights into production lead times, warehousing, shipping, etc.
+
+Incorrect Inventory Forecasting
+It’s possible for companies to fail to forecast the product demand based on the historical sales data. This factor leads to obsolete inventory since there is no demand, and the business can’t sell its inventory.
+
+Identifying Obsolete Inventory
+Your best bet to identify the inventory obsolescence is to use the right inventory tools and mechanisms. For example, implementing an inventory tracking system enables the company to track the delivery time to the warehouse and research sales and buying trends. That way, you get valuable help when making decisions about the inventory, such as when to repurchase the inventory, discontinue specific items, etc.
+
+There is also a way to prevent the risk of overspending because of inventory obsolescence. Conducting regular audits enables the business to identify the obsolescence before it cuts into the company’s profits.
+
+What To Do With Obsolete Inventory?
+There are more than enough methods to deal with obsolete inventory. Business owners should understand that obsolete inventory is inevitable, but they should treat it to prevent profit loss. Here’s what a company may do:
+
+Write off obsolete inventory. If the company can’t sell the inventory, it’s not an asset. An accountant may write off the stock as a loss on the company’s financial statement. The business may reduce tax liability thanks to a write-off.
+Remarket goods. If the company’s management notices some items that may become obsolete, they may offer a remarketing of items. The company should check if they may sell these items on different markets or to different audiences.
+Put items on sale. The company may still try to sell items if they have the potential. The idea is to offer a discount to get at least some profit rather than to write off the inventory and record it as a loss.
+Whichever option the company chooses, it’s critical to always use inventory management systems to prevent inventory obsolescence.

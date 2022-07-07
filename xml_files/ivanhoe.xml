@@ -127,7 +127,7 @@
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2456" bayesaverage="6.02982" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2457" bayesaverage="6.02982" />
 												
 							
 														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="778" bayesaverage="6.10565" />
@@ -136,8 +136,8 @@
 					
 					<stddev>1.3429</stddev>
 					<median>0</median>
-					<owned>2633</owned>
-					<trading>104</trading>
+					<owned>2632</owned>
+					<trading>103</trading>
 					<wanting>73</wanting>
 					<wishing>245</wishing>
 					<numcomments>670</numcomments>

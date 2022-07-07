@@ -1,0 +1,54 @@
+ccrual accounting definition
+July 05, 2022
+Related Courses
+Accountants’ Guidebook
+
+Bookkeeper Education Bundle
+
+Bookkeeping Guidebook
+
+What is Accrual Accounting?
+Accrual accounting is the recording of revenue when earned and expenses when incurred. Thus, economic events are recorded, irrespective of the dates on which any associated cash flows occur. This approach is intended to record revenues and all related expenses within the same time period, which is known as the matching principle. Accrual accounting results in the most accurate picture of how well a business is actually performing.
+
+How Accrual Accounting Works
+Under accrual accounting, the accountant records not only the revenues associated with a sale, but also the related expenses. By recording both amounts in the same reporting period, a firm’s financial statements provide the most accurate view of its profitability. This means that the accountant records revenue as soon as revenue can be recognized, which usually means that the related goods have shipped or services have been provided. To do so, the accountant needs access to the seller’s shipping documents (which states the number of units shipped) and the sales order (which states the price to be charged). An invoice can then be created from these documents. In addition, the accountant records the cost of the goods shipped; this cost comes from the database of inventory costs. Under accrual accounting, the associated cash flows are less important. Since the sale has already been recorded, the eventual receipt of cash from a customer has no impact on the sales figure; instead, it merely represents a reduction of accounts receivable.
+
+When is Accrual Accounting Required?
+Accrual basis accounting conforms to the generally accepted accounting principles (GAAP) and international financial reporting standards (IFRS) frameworks. Accrual accounting is required by these two major accounting frameworks, because it results in the most accurate representation of the financial results and financial position of a business. It is also required if the owners of a business want its financial statements to be audited. Auditors will not provide an opinion if the books are not compiled using the accrual basis of accounting.
+
+Accrual Basis vs. Cash Basis
+Small businesses may use the less-complex cash basis of accounting. The cash basis is not considered as accurate as accrual accounting, since the recognition of transactions under the cash basis may be accelerated or delayed in accordance with when cash is received or paid. This results in more variability in reported profits and losses. However, less knowledge of accounting is needed to operate a cash basis system, so many smaller businesses that cannot afford a trained accountant use it. The Internal Revenue Service sets a threshold gross receipts test for taxpayers, below which it allows them to report taxable income using the cash basis of accounting. Above that threshold level, taxable income must be reported using the accrual basis of accounting.
+
+Modified Accrual Accounting
+Under modified accrual accounting, revenues are recognized when they become available and measurable. Availability arises when the revenue is available to finance current expenditures to be paid within 60 days. Measurability occurs when the cash flow from the revenue can be reasonably estimated.
+
+Under modified accrual accounting, expenditures are recognized when liabilities are incurred. This is the same approach used under the accrual basis of accounting, though inventory and prepaid items can be recognized as expenditures when purchased, rather than first being capitalized as an asset. In addition, depreciation expense is not recognized. Instead, assets are charged to expense when purchased. This approach is used by government entities.
+
+How Does Accrual Accounting Impact the Financial Statements?
+The primary impact of accrual accounting is on the income statement, since the reported net profit or loss of a business can be substantially altered by the recordation of accrual basis transactions. Since accrual accounting can result in substantial differences from the results reported under the cash basis of accounting, you can view the statement of cash flows to see how cash flows have impacted the organization.
+
+Example of Accrual Accounting
+An electrician business that uses accrual accounting installs lights for a client. The bill is $2,000, which the client has 30 days to pay. The business records an account receivable as soon as it generates the bill, and also records the cost of the electricians in the same reporting period. This results in the recognition of a profit in the first month. Thirty days later, the client pays the bill, so the business replaces the receivable by recording the cash received.
+
+Advantages of Accrual Accounting
+There are several advantages to using accrual accounting. First, it provides the most accurate view of the financial results of a business. It also provides a good view of the expected cash inflows and outflows of an organization, since it results in reported values for accounts receivable and accounts payable. This means that financial statement users have a clearer picture of the short-term cash flows associated with these accounts.
+
+Disadvantages of Accrual Accounting
+The main problem with accrual accounting is the extra level of knowledge required to operate this system. A poorly-trained accountant might make the wrong accrual entries or forget to reverse them, resulting in financial statements that are less accurate than statements derived under the cash basis of accounting.
+
+Bookkeeping
+ 
+ 
+Next
+Search
+College Textbooks
+
+Accounting Books
+
+Finance Books
+
+Operations Books
+
+CPA Exam Study Guides
+
+Send us your e-mail address to receive monthly course discounts *
