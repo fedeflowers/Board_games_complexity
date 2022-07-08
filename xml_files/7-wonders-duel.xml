@@ -263,16 +263,16 @@
 																						<boardgamepublisher objectid="44209">Ігромаг</boardgamepublisher>
 																						<boardgameimplementation objectid="68448" inbound="true">7 Wonders</boardgameimplementation>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="990">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="991">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="9" />
 					<result value="Recommended" numvotes="57" />
-					<result value="Not Recommended" numvotes="721" />
+					<result value="Not Recommended" numvotes="722" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="957" />
+					<result value="Best" numvotes="958" />
 					<result value="Recommended" numvotes="22" />
 					<result value="Not Recommended" numvotes="3" />
 				</results>					
@@ -280,7 +280,7 @@
 		<results numplayers="2+">		
 					<result value="Best" numvotes="5" />
 					<result value="Recommended" numvotes="5" />
-					<result value="Not Recommended" numvotes="755" />
+					<result value="Not Recommended" numvotes="756" />
 				</results>					
 	</poll>
 
@@ -317,28 +317,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>75153</usersrated>
-					<average>8.10507</average>
-					<bayesaverage>7.98111</bayesaverage>
+					<usersrated>75185</usersrated>
+					<average>8.10496</average>
+					<bayesaverage>7.98108</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19" bayesaverage="7.98111" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19" bayesaverage="7.98108" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="21" bayesaverage="7.94462" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="21" bayesaverage="7.94455" />
 												
 											</ranks>
 					
-					<stddev>1.18392</stddev>
+					<stddev>1.18401</stddev>
 					<median>0</median>
-					<owned>120841</owned>
-					<trading>741</trading>
-					<wanting>934</wanting>
-					<wishing>9353</wishing>
-					<numcomments>10132</numcomments>
-					<numweights>2349</numweights>
-					<averageweight>2.2239</averageweight>
+					<owned>120888</owned>
+					<trading>739</trading>
+					<wanting>933</wanting>
+					<wishing>9357</wishing>
+					<numcomments>10136</numcomments>
+					<numweights>2350</numweights>
+					<averageweight>2.2238</averageweight>
 				</ratings>
 															</statistics>
 		

@@ -1,0 +1,511 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="167791">
+			<yearpublished>2016</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>120</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>12</age>
+
+							<name  sortindex="3">A Mars terraformálása</name>
+							<name  sortindex="1">Mars: Teraformace</name>
+							<name  sortindex="1">Teraformiranje Marsa</name>
+							<name  sortindex="1">Terraformacja Marsa</name>
+							<name  sortindex="1">Terraformarea Planetei Marte</name>
+							<name primary="true" sortindex="1">Terraforming Mars</name>
+							<name  sortindex="1">Покорение Марса</name>
+							<name  sortindex="1">Тераформирай Марс</name>
+							<name  sortindex="1">Тераформування Марса</name>
+							<name  sortindex="1">टेराफॉर्मिंग मार्स</name>
+							<name  sortindex="1">พลิกพิภพดาวอังคาร</name>
+							<name  sortindex="1">テラフォーミング・マーズ</name>
+							<name  sortindex="1">殖民火星</name>
+							<name  sortindex="1">重塑火星</name>
+							<name  sortindex="1">테라포밍 마스</name>
+									
+			<description>In the 2400s, mankind begins to terraform the planet Mars. Giant corporations, sponsored by the World Government on Earth, initiate huge projects to raise the temperature, the oxygen level, and the ocean coverage until the environment is habitable. In Terraforming Mars, you play one of those corporations and work together in the terraforming process, but compete for getting victory points that are awarded not only for your contribution to the terraforming, but also for advancing human infrastructure throughout the solar system, and doing other commendable things.&lt;br/&gt;&lt;br/&gt;The players acquire unique project cards (from over two hundred different ones) by buying them to their hand. The projects (cards) can represent anything from introducing plant life or animals, hurling asteroids at the surface, building cities, to mining the moons of Jupiter and establishing greenhouse gas industries to heat up the atmosphere. The cards can give you immediate bonuses, as well as increasing your production of different resources. Many cards also have requirements and they become playable when the temperature, oxygen, or ocean coverage increases enough. Buying cards is costly, so there is a balance between buying cards (3 megacredits per card) and actually playing them (which can cost anything between 0 to 41 megacredits, depending on the project). Standard Projects are always available to complement your cards.&lt;br/&gt;&lt;br/&gt;Your basic income, as well as your basic score, is based on your Terraform Rating (starting at 20), which increases every time you raise one of the three global parameters. However, your income is complemented with your production, and you also get VPs from many other sources.&lt;br/&gt;&lt;br/&gt;Each player keeps track of their production and resources on their player boards, and the game uses six types of resources: MegaCredits, Steel, Titanium, Plants, Energy, and Heat. On the game board, you compete for the best places for your city tiles, ocean tiles, and greenery tiles. You also compete for different Milestones and Awards worth many VPs. Each round is called a generation (guess why) and consists of the following phases:&lt;br/&gt;&lt;br/&gt;1) Player order shifts clockwise.&lt;br/&gt;2) Research phase: All players buy cards from four privately drawn.&lt;br/&gt;3) Action phase: Players take turns doing 1-2 actions from these options: Playing a card, claiming a Milestone, funding an Award, using a Standard project, converting plant into greenery tiles (and raising oxygen), converting heat into a temperature raise, and using the action of a card in play. The turn continues around the table (sometimes several laps) until all players have passed.&lt;br/&gt;4) Production phase: Players get resources according to their terraform rating and production parameters.&lt;br/&gt;&lt;br/&gt;When the three global parameters (temperature, oxygen, ocean) have all reached their goal, the terraforming is complete, and the game ends after that generation. Count your Terraform Rating and other VPs to determine the winning corporation!&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__thumb/img/BTxqxgYay5tHJfVoJ2NF5g43_gA=/fit-in/200x150/filters:strip_icc()/pic3536616.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__original/img/thIqWDnH9utKuoKVEUqveDixprI=/0x0/filters:format(jpeg)/pic3536616.jpg</image>
+						
+												<boardgamepublisher objectid="18575">FryxGames</boardgamepublisher>
+															<boardgameaccessory objectid="334522">Terraforming Mars: reDrewno Insert</boardgameaccessory>
+																						<boardgamepodcastepisode objectid="289517">#100: Episode One Hundred! Our Top Tens &amp;amp; Listener Q&amp;amp;A</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="299749">#105: Blue Lagoon review; Proving Grounds &amp;amp; Aerion</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="240120">#13: We&#039;re Still Right</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="185051">#24: The HYPE Episode! Gen Con 2016 Preview; Rocky Road a la Mode preview; Among the Stars on tap</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="222835">#2: Terraforming Mars and Dexterity Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="190645">#31: Terraforming Mars review &amp;amp; on-tap; Dan, Live from Essen; Great American Beer Festival 2016</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="192092">#33: Captain Sonar on tap; Extra Life &amp;amp; MACE gaming weekends</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="195407">#36: 2016, A Year in Review</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="208676">#48: Near and Far six-pack review and on tap, Thrash and Roll, Secret Hitler, Jaipur app</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="211691">#53: Dice Forge review; Pit Crew on tap; Terraforming Mars: Hellas; Wordsy; Word Domination</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="286111">#63: Hype Men</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="228931">#67: Expandapalooza! Expansions for Scythe, Terraforming Mars, Tash Kalar &amp;amp; More</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="245514">#78: The 2017 Redux! Tokyo Highway, Circle the Wagons on tap, Carcassonne: Amazonas</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="265307">#87: Cryptid six-pack &amp;amp; on tap, Terraforming Mars Digital, Orbis, Carcassonne: The Catapult</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="281874">#96: Expandapalooza 2</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="287002">#99: Variants: Hero Realms v. Star Realms</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="288361">022 – The one thing you need to know as a Game Designer</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="239719">1P 148 - Terraforming Mars</boardgamepodcastepisode>
+															<boardgamehonor objectid="61792">2016 Board Game Quest Awards Best Strategy/Euro Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="61794">2016 Board Game Quest Awards Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="61800">2016 Board Game Quest Awards Game of the Year Winner</boardgamehonor>
+															<boardgamehonor objectid="45263">2016 Cardboard Republic Architect Laurel Nominee</boardgamehonor>
+															<boardgamehonor objectid="46037">2016 Cardboard Republic Architect Laurel Winner</boardgamehonor>
+															<boardgamehonor objectid="40553">2016 Golden Geek Best Solo Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="40555">2016 Golden Geek Best Strategy Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="40224">2016 Golden Geek Board Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="65444">2016 Jocul Anului în România Advanced Finalist</boardgamehonor>
+															<boardgamehonor objectid="65443">2016 Jocul Anului în România Advanced Winner</boardgamehonor>
+															<boardgamehonor objectid="64691">2016 Meeples&#039; Choice Nominee</boardgamehonor>
+															<boardgamehonor objectid="64687">2016 Meeples&#039; Choice Winner</boardgamehonor>
+															<boardgamehonor objectid="40431">2016 Swiss Gamers Award Nominee</boardgamehonor>
+															<boardgamehonor objectid="45000">2017 Best Science Fiction or Fantasy Board Game Nominee</boardgamehonor>
+															<boardgamepodcastepisode objectid="225471">2017 Board Game Retrospective</boardgamepodcastepisode>
+															<boardgamehonor objectid="46168">2017 Deutscher Spiele Preis Best Family/Adult Game Winner</boardgamehonor>
+															<boardgamehonor objectid="42165">2017 Diana Jones Award for Excellence in Gaming Nominee</boardgamehonor>
+															<boardgamehonor objectid="46990">2017 Goblin Magnifico Nominee</boardgamehonor>
+															<boardgamehonor objectid="45036">2017 Gouden Ludo Best Expert Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="64065">2017 Gra Roku Advanced Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="64062">2017 Gra Roku Advanced Game of the Year Winner</boardgamehonor>
+															<boardgamehonor objectid="64061">2017 Gra Roku Game of the Year Winner</boardgamehonor>
+															<boardgamehonor objectid="64127">2017 Hra roku Recommended</boardgamehonor>
+															<boardgamehonor objectid="46075">2017 International Gamers Award - General Strategy: Multi-player Nominee</boardgamehonor>
+															<boardgamehonor objectid="42305">2017 Jogo do Ano Nominee</boardgamehonor>
+															<boardgamehonor objectid="65400">2017 Juego del Año Recommended</boardgamehonor>
+															<boardgamehonor objectid="65460">2017 JUG Adult Game of the Year Finalist</boardgamehonor>
+															<boardgamehonor objectid="41953">2017 Kennerspiel des Jahres Nominee</boardgamehonor>
+															<boardgamehonor objectid="65362">2017 Lys Passioné Finalist</boardgamehonor>
+															<boardgamehonor objectid="65354">2017 Lys Passioné Winner</boardgamehonor>
+															<boardgamehonor objectid="57415">2017 Spiel der Spiele Hit für Experten Recommended</boardgamehonor>
+															<boardgamehonor objectid="55616">2017 Tric Trac d&#039;Argent</boardgamehonor>
+															<boardgamehonor objectid="55613">2017 Tric Trac Nominee</boardgamehonor>
+															<boardgamehonor objectid="47069">2018 As d&#039;Or - Jeu de l&#039;Année Expert Nominee</boardgamehonor>
+															<boardgamehonor objectid="47066">2018 As d&#039;Or - Jeu de l&#039;Année Expert Winner</boardgamehonor>
+															<boardgamehonor objectid="53366">2018 Guldbrikken Best Expert Game Winner</boardgamehonor>
+															<boardgamehonor objectid="64768">2018 Japan Boardgame Prize Voters&#039; Selection Winner</boardgamehonor>
+															<boardgamehonor objectid="64169">2018 MinD-Spielepreis Complex Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="64192">2018 MinD-Spielepreis Complex Game Winner</boardgamehonor>
+															<boardgamehonor objectid="64489">2019 Vuoden Peli Strategy Game of the Year Winner</boardgamehonor>
+															<boardgamepodcastepisode objectid="228740">81 – The Family Gamers Podcast – The Mansky Caper</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="233138">88 – The Family Gamers Podcast – Fundraising with GameWright GameNight</boardgamepodcastepisode>
+																																				<boardgamepublisher objectid="3475">Arclight</boardgamepublisher>
+																						<boardgamepodcastepisode objectid="211773">Board Game Buffet Episode 1 Terraforming Mars</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="292268">Board Game Kiki Episode 5: Art</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="325216">Board Game Kiki Episode 7: Holiday Gift Guide</boardgamepodcastepisode>
+															<boardgamepublisher objectid="46980">Brädspel.se</boardgamepublisher>
+																																				<boardgameversion objectid="410171">Bulgarian edition</boardgameversion>
+															<boardgameversion objectid="364943">Chinese edition</boardgameversion>
+															<boardgameversion objectid="568760">Chinese edition</boardgameversion>
+																						<boardgamemechanic objectid="2984">Closed Drafting</boardgamemechanic>
+															<boardgamepodcastepisode objectid="189294">clp039 – cubelove podcast – Terraforming Mars</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="206627">clp054 – cubelove podcast – Another Games Episode</boardgamepodcastepisode>
+															<boardgamefamily objectid="64952">Components: Map (Global Scale)</boardgamefamily>
+															<boardgamefamily objectid="65191">Components: Multi-Use Cards</boardgamefamily>
+															<boardgamemechanic objectid="2912">Contracts</boardgamemechanic>
+																						<boardgamepodcastepisode objectid="171300">Cult of the New Board Game Podcast Episode 010 – Our 2016 Wishlist</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="179184">Cult of the New Board Game Podcast Episode 017 – Our Podcast Subscriptions</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="190710">Cult of the New Board Game Podcast Episode 030a – New Releases, News, Kickstarters</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="191132">Cult of the New Board Game Podcast Episode 030b – Essen 2016</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="195245">Cult of the New Board Game Podcast Episode 035 – Top 25 of 2016</boardgamepodcastepisode>
+															<boardgameversion objectid="388940">Czech edition</boardgameversion>
+															<boardgameversion objectid="451731">Danish edition</boardgameversion>
+															<boardgamepodcastepisode objectid="368302">Den svære 2&#039;er</boardgamepodcastepisode>
+																													<boardgameversion objectid="350368">Dutch edition</boardgameversion>
+																						<boardgamepodcastepisode objectid="336830">E1 | Games | Our Top 5 Board Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="371142">E20 | Games | Terraforming Mars ft. Charles Mruz</boardgamepodcastepisode>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamemechanic objectid="2043">Enclosure</boardgamemechanic>
+															<boardgamemechanic objectid="2875">End Game Bonuses</boardgamemechanic>
+															<boardgameversion objectid="546377">English edition 2019</boardgameversion>
+															<boardgameversion objectid="256624">English first edition, first printing</boardgameversion>
+															<boardgameversion objectid="349581">English first edition, second printing</boardgameversion>
+															<boardgameversion objectid="360032">English first edition, third printing</boardgameversion>
+															<boardgamecategory objectid="1084">Environmental</boardgamecategory>
+															<boardgamepodcastepisode objectid="198903">Ep 051 – Real Time Board Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="200391">Ep 053 – LIVE!! @ New World Gaming</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="195789">Ep 10 - Terraforming Mars &amp;amp; Caverna</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="292145">Ep 10- Top 3 Ugly Games &amp;amp; TTS Con Announcement</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="228039">Ep 4 - Azul Review and Getting Peeved</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="284255">ep 52: LPT Martian Vacation</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227763">Ep. #14: Boardgame Apps</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227767">Ep. 10: PacifiCon Game Expo</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227765">Ep. 12: The Strongman of Stronghold Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227762">Ep. 15: ConQuest Avalon 2016 Convention Coverage</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227761">Ep. 16: Vox Populi #1</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="436039">Ep.113 Terraforming Mars VS Ares Expedition, Different Versions, and Game Lengths</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227758">Episode #18: Gaming Podcasts #1</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227754">Episode #22: Cooperative Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227750">Episode #26: Conventional Wisdom</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227740">Episode #36: Summer Vacation Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227739">Episode #37: Card Drafting Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227738">Episode #38: Two Player Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227735">Episode #41: Party Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227723">Episode #52: An Interview with Diane Sauer</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="230097">Episode #67: Play and Playability</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="233868">Episode #72: Save the Books!</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="430886">Episode 015: The Secret Buddy</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="214313">Episode 06 - Tak Vs Santorini</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="298162">Episode 106 :: Best Boardgames - Brawling Brothers Blend 2019</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="336009">Episode 121 :: Noel &amp;amp; Jordan&#039;s Top 10 Board Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="343623">Episode 124 :: Isle of Cats Review + Interview with designer Frank West</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="362638">Episode 132 :: The Brawlers Blend 2020</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="360731">Episode 14: War Chest, Call To Adventure, Bob&#039;s Your Uncle</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="199157">Episode 16 - Greg Spence of The Broken Token</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="190735">Episode 16 - Terraforming Mars and the Kickstarter Effect</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="233973">Episode 17 - #Yolobits (Featuring Grimm Forest, Charterstone, Clank!InSpace!, Joraku, Near&amp;amp;Far, Medina, and more!)</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="295966">Episode 17 - Res Arcana and 10 Essential Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="325218">Episode 17 - Solitaire Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="360726">Episode 19: Machi Koro Legacy, Res Arcana, Terraforming Mars</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="336974">Episode 20 - Drafting Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="241017">Episode 21 - Maturity Is Out The Window (Featuring Ganz Schon Clever, Joraku, Citrus, Cat Lady, Transatlantic, Terraforming Mars, Barony, Pixie Queen, Altiplano, Riverboat, and more!)</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227753">Episode 23: Board Game Challenges Report for Quarter #1</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227751">Episode 25: Engine Building Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="212469">Episode 25b: The one about Gen Con day 2</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="213325">Episode 26: The one all about Gen Con 2017</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="214255">Episode 27: The one about buying low, selling high, and getting lucky</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="233987">Episode 3 - The dirty, stanky episode</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="209976">Episode 36 - Dice Tower Con Mini-Interviews &amp;amp; Wrapup</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="211152">Episode 38 - Stephen Buonocore of Stronghold Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="227737">Episode 39: Space Themed Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="428487">Episode 3: Cabin Con Recap</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="195640">Episode 42 :: Board Game of the Year 2016 - Brawling Brothers Awards</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="200096">Episode 46 :: SaltCon Recap - The Grimm Forest Kickstarter Preview</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="208631">Episode 47 - Bluffing Games with Two</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="204373">Episode 48 :: 2 Year Anniversary Celebration - Watch It Played &amp;amp; The Secret Cabal</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="370689">Episode 49 - Special Guest: Stephen Buonocore, Pandemic Legacy Season 1, The Quacks of Quedlinburg, Imperial Settlers: Rise of the Empire, Architects of the West Kingdom</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="360740">Episode 5 - Brass: Birmingham, King of Tokyo: Dark Edition, Awkward Guests</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="273930">Episode 5 - Terraforming Mars &amp;amp; Concordia</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="211784">Episode 5 - Proselytizing for the Hobby</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="205747">Episode 50 :: Top 20 Board Games of All-Time + Big Bad Celebration Giveaway</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="207766">Episode 52 :: Spoils of War Review + HeavyCon 2017 Recap</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="317019">Episode 52: Habitat Building</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="211749">Episode 56 :: The Climbers Review + 2017 Gen Con Preview</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="252737">Episode 58 - Unpopular Opinions</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="225368">Episode 64 :: Escape Room Games Review - Questions with Cat</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="378052">Episode 64:  Dune Imperium, Paladins of the West Kingdom, Zombie Teenz Evolution</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="175473">Episode 67- Kingdom Death: Monster and Women Representations in Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="379027">Episode 67: Oriflamme, Paladins of the West Kingdom, Dwellings of Eldervale</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="199611">Episode 70 - Interview with Renegade Game Studios Scott Gaeta</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="240564">Episode 73 :: Castell Review + Top Board Games according to BGG Rankings</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="192563">Episode 86- Terraforming Mars and Game Therapy</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="267176">Episode 89 :: The Re-Envisioning</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="325567">Episode 94 - Did You Notice A Theme?</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="362657">Episode 94: Council of 4, Terraforming Mars, The Search for Planet X, Acquire, The Networks</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="203876">Episode 95- RobbCon 2017</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="190627">Episode 98 -- The Long, Dark Music of Your Soul</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="191234">Episode 99 -- Between a Box and a Nearby Wall</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="195665">Episode Charlie - 2016 Retrospective</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="198936">Episode Five - Terraforming Mars, Solarius Mission, Key Harvest</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="209816">Eric Lang - Giochi spaziali - Il Dado Incantato #30</boardgamepodcastepisode>
+																						<boardgamepodcastepisode objectid="207586">ET121: Terraforming this and that</boardgamepodcastepisode>
+															<boardgamepublisher objectid="22560">Fantasmagoria</boardgamepublisher>
+															<boardgameversion objectid="473097">Finnish edition</boardgameversion>
+																						<boardgameexpansion objectid="296298">French Championship Promo Cards (fan expansion for Terraforming Mars)</boardgameexpansion>
+															<boardgameversion objectid="344825">French first edition</boardgameversion>
+															<boardgameversion objectid="510214">French fourth edition</boardgameversion>
+															<boardgameversion objectid="405714">French second edition</boardgameversion>
+															<boardgameversion objectid="427440">French third edition</boardgameversion>
+															<boardgamedesigner objectid="52075">Jacob Fryxelius</boardgamedesigner>
+															<boardgameartist objectid="62819">Isaac Fryxelius</boardgameartist>
+															<boardgamegraphicdesigner objectid="62819">Isaac Fryxelius</boardgamegraphicdesigner>
+																						<boardgamefamily objectid="46915">Game: Terraforming Mars</boardgamefamily>
+															<boardgamepodcastepisode objectid="204314">Garrett&#039;s Games 562 - Tony Boydell and Reflections on 2016</boardgamepodcastepisode>
+															<commerceweblink objectid="304191">Geek Game Shop listing for Terraforming Mars</commerceweblink>
+															<boardgamepodcastepisode objectid="186262">Gen Con 2016 Day 0 Recap</boardgamepodcastepisode>
+																						<boardgameversion objectid="312024">German first edition</boardgameversion>
+															<boardgameversion objectid="388051">German first edition, fourth printing</boardgameversion>
+															<boardgameversion objectid="344576">German first edition, second printing</boardgameversion>
+																																																									<boardgamepublisher objectid="4785">Ghenos Games</boardgamepublisher>
+																						<boardgamepublisher objectid="46884">Green Elephant Games</boardgamepublisher>
+																													<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamepodcastepisode objectid="194403">Heavy Cardboard Episode 59 – December (2016) Briefing</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="195529">Heavy Cardboard Episode 61 – Terraforming Mars</boardgamepodcastepisode>
+																													<boardgamemechanic objectid="2026">Hexagon Grid</boardgamemechanic>
+															<boardgameversion objectid="536212">Hindi edition</boardgameversion>
+															<boardgamepodcastepisode objectid="189574">HLG 10: Meer Essen</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="194522">HLG 13: Terugblik op 2016</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="189162">HLG 9: Essen in Zicht</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="274872">How To Win: Terraforming Mars</boardgamepodcastepisode>
+																						<boardgameversion objectid="355244">Hungarian edition</boardgameversion>
+															<boardgamemechanic objectid="2902">Income</boardgamemechanic>
+															<boardgamecategory objectid="1088">Industry / Manufacturing</boardgamecategory>
+															<boardgamepublisher objectid="5380">Intrafin Games</boardgamepublisher>
+															<boardgamepodcastepisode objectid="282887">Introducing Josh and talking about a bunch of games…Especially Stonemaier Games</boardgamepodcastepisode>
+															<boardgameversion objectid="344688">Italian edition</boardgameversion>
+															<boardgameversion objectid="375000">Japanese edition</boardgameversion>
+															<boardgamepublisher objectid="32866">Kilogames</boardgamepublisher>
+															<boardgamepublisher objectid="8291">Korea Boardgames Co., Ltd.</boardgamepublisher>
+															<boardgameversion objectid="364962">Korean edition</boardgameversion>
+															<boardgamepodcastepisode objectid="275360">Laughing at Negative Reviews of the BGG Top 10 Games</boardgamepodcastepisode>
+															<boardgamepublisher objectid="3218">Lautapelit.fi</boardgamepublisher>
+															<boardgamepublisher objectid="34801">Lavka Games</boardgamepublisher>
+															<boardgamepublisher objectid="25203">Lex Games</boardgamepublisher>
+															<boardgamepublisher objectid="30677">Maldito Games</boardgamepublisher>
+															<boardgamefamily objectid="27646">Mechanism: Tableau Building</boardgamefamily>
+															<boardgameexpansion objectid="317189">Meeple BR Jogos Promo Pack #1</boardgameexpansion>
+																													<boardgamepublisher objectid="32591">MeepleBR</boardgamepublisher>
+															<boardgamepodcastepisode objectid="231206">MeepleCore Podcast Episode 47 - Gateway to board gaming!</boardgamepodcastepisode>
+															<boardgamepublisher objectid="7992">MINDOK</boardgamepublisher>
+															<boardgamepublisher objectid="51614">MIPL</boardgamepublisher>
+															<boardgamepodcastepisode objectid="191469">MN 0136 Terraforming Mars</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="205419">MN 0162 International Tabletop Day 2017 and Clank! Sunken Treasures</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="206446">MN 0165 Spiel des Jahres Nominees and News for May 2017</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="206689">MN 0166 SdJ 2017 Nominees in Depth, Part 1 - Ice Cool, EXIT, Captain Silver, Terraforming Mars, Mysterious Forest</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="266659">Muse | Terraforming Mars | Fluxx</boardgamepodcastepisode>
+															<boardgamepublisher objectid="23756">MYBG Co., Ltd.</boardgamepublisher>
+																						<boardgamepublisher objectid="32395">NeoTroy Games</boardgamepublisher>
+																													<boardgamemechanic objectid="2846">Once-Per-Game Abilities</boardgamemechanic>
+																						<boardgamepodcastepisode objectid="299879">Out of the Dust Ep46 - Terraforming Mars</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="195213">Perfect Information Podcast Episode 32 - The very best games of 2016</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="288293">Planet, hunting for Cryptids, Fishing, Sci-Fi Kickstarting, and some amazing board game news!</boardgamepodcastepisode>
+															<boardgamefamily objectid="5666">Players: Games with Solitaire Rules</boardgamefamily>
+															<boardgamepodcastepisode objectid="210211">Podcast 68 – Terraforming Mars</boardgamepodcastepisode>
+															<boardgameversion objectid="301085">Polish edition, first printing</boardgameversion>
+															<boardgameversion objectid="348005">Polish edition, second printing</boardgameversion>
+															<boardgameversion objectid="378406">Polish edition, third printing</boardgameversion>
+															<boardgameversion objectid="355597">Portuguese edition</boardgameversion>
+															<boardgamepublisher objectid="7466">Rebel Sp. z o.o.</boardgamepublisher>
+																																																									<boardgamepublisher objectid="36563">Reflexshop</boardgamepublisher>
+																																				<boardgameversion objectid="482807">Romanian edition</boardgameversion>
+																						<boardgameversion objectid="351041">Russian edition</boardgameversion>
+															<boardgamepublisher objectid="24844">Schwerkraft-Verlag</boardgamepublisher>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgameversion objectid="535162">Serbian edition</boardgameversion>
+																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamefamily objectid="49694">Setting: Future Timeline (Fryxgames)</boardgamefamily>
+															<boardgamepublisher objectid="33998">Siam Board Games</boardgamepublisher>
+															<boardgamemechanic objectid="2819">Solo / Solitaire Game</boardgamemechanic>
+															<boardgamecategory objectid="1113">Space Exploration</boardgamecategory>
+															<boardgamefamily objectid="19298">Space: Earth&#039;s Solar System</boardgamefamily>
+															<boardgamefamily objectid="10169">Space: Mars</boardgamefamily>
+															<boardgameversion objectid="340818">Spanish edition</boardgameversion>
+															<boardgamepodcastepisode objectid="206597">Spiel des Jahres Nominations Declarations</boardgamepodcastepisode>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepublisher objectid="11652">Stronghold Games</boardgamepublisher>
+															<boardgamepublisher objectid="48279">SuperHeated Neurons</boardgamepublisher>
+															<boardgamepublisher objectid="36763">Surfin&#039; Meeple China</boardgamepublisher>
+															<boardgameversion objectid="538349">Swedish edition</boardgameversion>
+															<boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+																						<boardgamemechanic objectid="2849">Tech Trees / Tech Tracks</boardgamemechanic>
+																						<boardgamepodcastepisode objectid="220740">Terraforming Mars</boardgamepodcastepisode>
+															<videogamebg objectid="254538">Terraforming Mars</videogamebg>
+																						<boardgamepodcastepisode objectid="220546">Terraforming Mars (w/ Insert), Ghosts Love Candy - Boards &amp;amp; Swords #91</boardgamepodcastepisode>
+																																																																																																																								<boardgameimplementation objectid="328871">Terraforming Mars: Ares Expedition</boardgameimplementation>
+															<boardgameexpansion objectid="322281">Terraforming Mars: Asteroid Rights Promo Card</boardgameexpansion>
+															<boardgameexpansion objectid="265081">Terraforming Mars: Atmo Collectors Promo Card</boardgameexpansion>
+															<boardgameexpansion objectid="339849">Terraforming Mars: Bactoviral Research Promo Card</boardgameexpansion>
+															<boardgameaccessory objectid="303515">Terraforming Mars: BGExpansions Astronaut Track Token Pack</boardgameaccessory>
+															<boardgameaccessory objectid="358215">Terraforming Mars: BGExpansions Draft Coin</boardgameaccessory>
+															<boardgameaccessory objectid="358214">Terraforming Mars: BGExpansions Track Tokens</boardgameaccessory>
+															<boardgameexpansion objectid="241497">Terraforming Mars: BGG User-Created Corporation Pack</boardgameexpansion>
+																						<boardgameexpansion objectid="311247">Terraforming Mars: Big Box</boardgameexpansion>
+															<boardgameexpansion objectid="312319">Terraforming Mars: Big Box Promo Pack</boardgameexpansion>
+															<boardgameexpansion objectid="332774">Terraforming Mars: Bio Printing Facility Promo Card</boardgameexpansion>
+															<boardgameaccessory objectid="266249">Terraforming Mars: BoardGameBoost Player Mat Overlay</boardgameaccessory>
+															<boardgameaccessory objectid="272797">Terraforming Mars: Broken Token 3D Greenery Hex Tiles</boardgameaccessory>
+															<boardgameaccessory objectid="272801">Terraforming Mars: Broken Token 3D Ocean Hex Tiles</boardgameaccessory>
+															<boardgameaccessory objectid="272799">Terraforming Mars: Broken Token 3D Space Colony Hex Tiles</boardgameaccessory>
+															<boardgameaccessory objectid="328115">Terraforming Mars: Broken Token Acrylic Overlay</boardgameaccessory>
+															<boardgameaccessory objectid="272795">Terraforming Mars: Broken Token Acrylic Token Set</boardgameaccessory>
+															<boardgameaccessory objectid="230053">Terraforming Mars: Broken Token Organizer with First Player Token and Acrylic Markers</boardgameaccessory>
+															<boardgameaccessory objectid="272792">Terraforming Mars: Broken Token Organizer – Extra Dividers</boardgameaccessory>
+															<boardgameaccessory objectid="306381">Terraforming Mars: Broken Token Single Player Tray</boardgameaccessory>
+															<boardgameaccessory objectid="272800">Terraforming Mars: Broken Token Space Colony City Hex Tiles</boardgameaccessory>
+															<boardgameaccessory objectid="312374">Terraforming Mars: City Domes</boardgameaccessory>
+															<boardgameexpansion objectid="255681">Terraforming Mars: Colonies</boardgameexpansion>
+															<boardgameaccessory objectid="352313">Terraforming Mars: Custom Card Sleeves</boardgameaccessory>
+															<boardgameimplementation objectid="296108">Terraforming Mars: Dice Game</boardgameimplementation>
+															<boardgameaccessory objectid="293310">Terraforming Mars: Dual Layer Player Boards</boardgameaccessory>
+															<boardgameaccessory objectid="263156">Terraforming Mars: e-Raptor Insert</boardgameaccessory>
+															<boardgameaccessory objectid="263382">Terraforming Mars: e-Raptor Organizer</boardgameaccessory>
+															<boardgameaccessory objectid="220036">Terraforming Mars: Eightbitwood Player Mat Overlay</boardgameaccessory>
+															<boardgameaccessory objectid="365388">Terraforming Mars: Elysium – Big Board Edition</boardgameaccessory>
+															<boardgameaccessory objectid="263728">Terraforming Mars: Folded Space Insert</boardgameaccessory>
+															<boardgameaccessory objectid="326364">Terraforming Mars: Folded Space Insert (Second edition)</boardgameaccessory>
+															<boardgameaccessory objectid="215570">Terraforming Mars: Game Trayz Player Mat</boardgameaccessory>
+															<boardgameaccessory objectid="278695">Terraforming Mars: Gathering of Friends Promo Card</boardgameaccessory>
+															<boardgameexpansion objectid="346129">Terraforming Mars: Harvest Promo Card</boardgameexpansion>
+															<boardgameexpansion objectid="218127">Terraforming Mars: Hellas &amp; Elysium</boardgameexpansion>
+															<boardgameaccessory objectid="365387">Terraforming Mars: Hellas – Big Board Edition</boardgameaccessory>
+															<boardgameaccessory objectid="271967">Terraforming Mars: Insert Here Insert</boardgameaccessory>
+															<boardgameexpansion objectid="265083">Terraforming Mars: Jovian Lanterns Promo Card</boardgameexpansion>
+															<boardgameaccessory objectid="306355">Terraforming Mars: Laserox Resource Tokens</boardgameaccessory>
+															<boardgameaccessory objectid="306356">Terraforming Mars: Laserox Resource Tokens II</boardgameaccessory>
+															<boardgameaccessory objectid="326742">Terraforming Mars: Laserox Terraformer&#039;s Toolbox Insert</boardgameaccessory>
+															<boardgameaccessory objectid="336608">Terraforming Mars: Laserox Tokens</boardgameaccessory>
+															<boardgameexpansion objectid="265084">Terraforming Mars: Lunar Exports Promo Card</boardgameexpansion>
+															<boardgameaccessory objectid="294179">Terraforming Mars: Meeple Realty Insert</boardgameaccessory>
+															<boardgameexpansion objectid="364339">Terraforming Mars: Merger Promo Card</boardgameexpansion>
+															<boardgameaccessory objectid="312376">Terraforming Mars: Metal Resource Cubes</boardgameaccessory>
+															<boardgameaccessory objectid="363974">Terraforming Mars: Moedas &amp; Co. Metal Coins</boardgameaccessory>
+															<boardgameexpansion objectid="358525">Terraforming Mars: New Partner Promo Card</boardgameexpansion>
+															<boardgameexpansion objectid="352525">Terraforming Mars: Outdoor Sports Promo Card</boardgameexpansion>
+															<boardgameexpansion objectid="230241">Terraforming Mars: Penguins Promo Card</boardgameexpansion>
+															<boardgameaccessory objectid="209030">Terraforming Mars: Player Mat Overlay</boardgameaccessory>
+															<boardgameaccessory objectid="236423">Terraforming Mars: Player Mat Overlay with Backboard</boardgameaccessory>
+															<boardgameexpansion objectid="247030">Terraforming Mars: Prelude</boardgameexpansion>
+															<boardgameaccessory objectid="264181">Terraforming Mars: Rover First Player Marker</boardgameaccessory>
+															<boardgameexpansion objectid="230123">Terraforming Mars: Self-Replicating Robots Promo Card</boardgameexpansion>
+															<boardgameaccessory objectid="343464">Terraforming Mars: Shipshape Gamer Player Mat Overlay</boardgameaccessory>
+															<boardgameexpansion objectid="202825">Terraforming Mars: Small Asteroid Promo Card</boardgameexpansion>
+															<boardgameexpansion objectid="226297">Terraforming Mars: Snow Algae Promo Card</boardgameexpansion>
+															<boardgameexpansion objectid="365385">Terraforming Mars: Terra Cimmeria</boardgameexpansion>
+															<boardgameaccessory objectid="365386">Terraforming Mars: Tharsis – Big Board Edition</boardgameaccessory>
+															<boardgameaccessory objectid="348608">Terraforming Mars: The GiftForge Insert</boardgameaccessory>
+															<boardgameaccessory objectid="267171">Terraforming Mars: Tower Rex Organizer</boardgameaccessory>
+															<boardgameaccessory objectid="312375">Terraforming Mars: Trade Fleets &amp; Chairman Seat</boardgameaccessory>
+															<boardgameexpansion objectid="273473">Terraforming Mars: Turmoil</boardgameexpansion>
+																						<boardgameexpansion objectid="279345">Terraforming Mars: Turmoil Promos</boardgameexpansion>
+															<boardgameexpansion objectid="359145">Terraforming Mars: Utopia Planitia</boardgameexpansion>
+															<boardgameexpansion objectid="365384">Terraforming Mars: Vastitas Borealis</boardgameexpansion>
+															<boardgameexpansion objectid="231965">Terraforming Mars: Venus Next</boardgameexpansion>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+															<boardgamepodcastepisode objectid="193132">TGT 015: Holiday Gift Ideas</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="220538">TGT 064: GameHole Con ’17 Recap</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="222834">TGT 067: Calling an Audible</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="224710">TGT 070: Semi Co-Op Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="225508">TGT 072: 2017 Favorites</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="234659">TGT 086: Are There Too Many Games?</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="239936">TGT 090: Iconography and Components</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="240537">TGT 091: Social Contracts</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="241817">TGT 093: King Making</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="245158">TGT 097: Asymmetrical Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="251418">TGT 101 On Topic: Euro Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="254579">TGT 105 On Topic: Generic Settings</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="258843">TGT 109 On Topic: Cheating</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="258841">TGT 110 On Topic: Managing Your Collection</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="268961">TGT 111 On Topic: Complicated Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="268959">TGT 113 On Topic: Replayability</boardgamepodcastepisode>
+															<boardgameversion objectid="414712">Thai edition</boardgameversion>
+																						<boardgamepodcastepisode objectid="194131">The Dice Men Cometh – Episode 144</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="195221">The Dice Men Cometh – Episode 146</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="276060">The Dice Men Cometh – Episode 248</boardgamepodcastepisode>
+																						<boardgamepodcastepisode objectid="179153">The Game Pit Podcast: Episode 61 - 2016 Treasure Hunt Part 1</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="189896">The Game Pit: Episode 71 - Spiel &#039;16 Council Chamber with Stephen Buonocore</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="210207">The Game Pit: Episode 87 - Review of 2016 including Top 5s</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="187272">The Good The Board and The Jerks That Went to GenCon: Episode 78 “GenCon Reviews”</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="188129">The Good The Board and The Unfurled: Episode 80  “Expansions”</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="190860">The Long View of Stronghold Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="221592">The Long View of Terraforming Mars with Geof Gambill</boardgamepodcastepisode>
+															<boardgamefamily objectid="66167">Theme: Science</boardgamefamily>
+															<boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+															<boardgameversion objectid="480385">Turkish edition</boardgameversion>
+															<boardgamemechanic objectid="2828">Turn Order: Progressive</boardgamemechanic>
+																						<boardgameversion objectid="475761">Ukrainian edition (2019)</boardgameversion>
+																						<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamemechanic objectid="2897">Variable Set-up</boardgamemechanic>
+															<boardgamemechanic objectid="2874">Victory Points as a Resource</boardgamemechanic>
+																						<boardgamepodcastepisode objectid="193253">Vox Republica 131: Online Communities</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="204811">Vox Republica 140: On The Case!</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="188716">WDYPTW Conversation Thing Ep 93.12</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="188594">What Did You Play This Week Podcast Thing Week 93!!</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="190628">What Did You Play This Week Podcast Thing Week 99</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="220091">Winning The One’s Affection – Ep. 1</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="203845">WTG13 - The Board Game Leftovers Episode 3 : Terraforming Mars, V-Commandos, Adrenaline, &amp;amp; more!</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="370635">WWG Podcast #1: Jak stracić głowę i przyjaciół?</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="329286">Yin Yang, Anubixx en Miyabi</boardgamepodcastepisode>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2084">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="178" />
+					<result value="Recommended" numvotes="927" />
+					<result value="Not Recommended" numvotes="349" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="403" />
+					<result value="Recommended" numvotes="1146" />
+					<result value="Not Recommended" numvotes="188" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1205" />
+					<result value="Recommended" numvotes="520" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="698" />
+					<result value="Recommended" numvotes="833" />
+					<result value="Not Recommended" numvotes="138" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="90" />
+					<result value="Recommended" numvotes="549" />
+					<result value="Not Recommended" numvotes="811" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="931" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="91">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="9" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="40" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="40" />
+					<result level="5" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="330">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="19" />
+					<result value="10" numvotes="80" />
+					<result value="12" numvotes="141" />
+					<result value="14" numvotes="79" />
+					<result value="16" numvotes="6" />
+					<result value="18" numvotes="2" />
+					<result value="21 and up" numvotes="3" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>79912</usersrated>
+					<average>8.40463</average>
+					<bayesaverage>8.25923</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5" bayesaverage="8.25923" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="7" bayesaverage="8.23905" />
+												
+											</ranks>
+					
+					<stddev>1.39247</stddev>
+					<median>0</median>
+					<owned>109957</owned>
+					<trading>629</trading>
+					<wanting>1953</wanting>
+					<wishing>19904</wishing>
+					<numcomments>11565</numcomments>
+					<numweights>3302</numweights>
+					<averageweight>3.2483</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -394,14 +394,14 @@
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="55" />
-					<result value="Recommended" numvotes="468" />
-					<result value="Not Recommended" numvotes="280" />
+					<result value="Recommended" numvotes="467" />
+					<result value="Not Recommended" numvotes="281" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="49" />
-					<result value="Recommended" numvotes="593" />
-					<result value="Not Recommended" numvotes="328" />
+					<result value="Recommended" numvotes="592" />
+					<result value="Not Recommended" numvotes="329" />
 				</results>					
 			
 		<results numplayers="3">		
@@ -462,28 +462,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>69047</usersrated>
+					<usersrated>69072</usersrated>
 					<average>8.20298</average>
-					<bayesaverage>8.04938</bayesaverage>
+					<bayesaverage>8.04939</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16" bayesaverage="8.04938" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16" bayesaverage="8.04939" />
 												
 							
 														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="14" bayesaverage="8.01901" />
 												
 											</ranks>
 					
-					<stddev>1.43843</stddev>
+					<stddev>1.43838</stddev>
 					<median>0</median>
-					<owned>92642</owned>
-					<trading>654</trading>
-					<wanting>1864</wanting>
-					<wishing>20132</wishing>
-					<numcomments>10431</numcomments>
-					<numweights>2744</numweights>
-					<averageweight>3.4293</averageweight>
+					<owned>92662</owned>
+					<trading>653</trading>
+					<wanting>1862</wanting>
+					<wishing>20134</wishing>
+					<numcomments>10433</numcomments>
+					<numweights>2745</numweights>
+					<averageweight>3.4299</averageweight>
 				</ratings>
 															</statistics>
 		
