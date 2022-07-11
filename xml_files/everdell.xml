@@ -223,7 +223,7 @@
 															<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
 															<boardgamepublisher objectid="8147">YOKA Games</boardgamepublisher>
 													
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="596">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="597">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="16" />
@@ -232,7 +232,7 @@
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="163" />
+					<result value="Best" numvotes="164" />
 					<result value="Recommended" numvotes="314" />
 					<result value="Not Recommended" numvotes="29" />
 				</results>					
@@ -240,19 +240,19 @@
 		<results numplayers="3">		
 					<result value="Best" numvotes="301" />
 					<result value="Recommended" numvotes="164" />
-					<result value="Not Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="10" />
 				</results>					
 			
 		<results numplayers="4">		
 					<result value="Best" numvotes="96" />
 					<result value="Recommended" numvotes="254" />
-					<result value="Not Recommended" numvotes="82" />
+					<result value="Not Recommended" numvotes="83" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="1" />
 					<result value="Recommended" numvotes="10" />
-					<result value="Not Recommended" numvotes="267" />
+					<result value="Not Recommended" numvotes="268" />
 				</results>					
 	</poll>
 
@@ -289,29 +289,29 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>34818</usersrated>
-					<average>8.08753</average>
-					<bayesaverage>7.88471</bayesaverage>
+					<usersrated>34838</usersrated>
+					<average>8.08713</average>
+					<bayesaverage>7.88457</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="29" bayesaverage="7.88471" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="29" bayesaverage="7.88457" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="33" bayesaverage="7.85645" />
-														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3" bayesaverage="7.90085" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="33" bayesaverage="7.85625" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3" bayesaverage="7.90072" />
 												
 											</ranks>
 					
-					<stddev>1.27947</stddev>
+					<stddev>1.2798</stddev>
 					<median>0</median>
-					<owned>53218</owned>
+					<owned>53255</owned>
 					<trading>301</trading>
 					<wanting>1509</wanting>
-					<wishing>14996</wishing>
-					<numcomments>4764</numcomments>
-					<numweights>1042</numweights>
-					<averageweight>2.8119</averageweight>
+					<wishing>15001</wishing>
+					<numcomments>4766</numcomments>
+					<numweights>1043</numweights>
+					<averageweight>2.8111</averageweight>
 				</ratings>
 															</statistics>
 		

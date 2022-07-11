@@ -144,21 +144,21 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>4637</usersrated>
-					<average>7.5926</average>
-					<bayesaverage>6.96654</bayesaverage>
+					<usersrated>4638</usersrated>
+					<average>7.59269</average>
+					<bayesaverage>6.96671</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="442" bayesaverage="6.96654" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="442" bayesaverage="6.96671" />
 												
 							
-														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="54" bayesaverage="7.39208" />
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="287" bayesaverage="7.04766" />
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="54" bayesaverage="7.39226" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="285" bayesaverage="7.04785" />
 												
 											</ranks>
 					
-					<stddev>1.52798</stddev>
+					<stddev>1.52782</stddev>
 					<median>0</median>
 					<owned>9268</owned>
 					<trading>260</trading>

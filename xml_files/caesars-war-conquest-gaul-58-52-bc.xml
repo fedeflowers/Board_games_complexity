@@ -89,10 +89,10 @@
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10224" bayesaverage="5.55457" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10227" bayesaverage="5.55457" />
 												
 							
-														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1860" bayesaverage="5.83168" />
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1862" bayesaverage="5.83168" />
 												
 											</ranks>
 					
