@@ -390,57 +390,57 @@
 															<boardgamemechanic objectid="2974">Zone of Control</boardgamemechanic>
 															<boardgamepodcastepisode objectid="190383">[Jeux du mois] Octobre 2016 &amp;ndash; Captain Sonar &amp;amp; Scythe</boardgamepodcastepisode>
 																				
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1229">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1232">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="55" />
-					<result value="Recommended" numvotes="467" />
+					<result value="Recommended" numvotes="468" />
 					<result value="Not Recommended" numvotes="281" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="49" />
-					<result value="Recommended" numvotes="592" />
+					<result value="Recommended" numvotes="594" />
 					<result value="Not Recommended" numvotes="329" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="277" />
-					<result value="Recommended" numvotes="633" />
+					<result value="Best" numvotes="278" />
+					<result value="Recommended" numvotes="635" />
 					<result value="Not Recommended" numvotes="80" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="758" />
+					<result value="Best" numvotes="760" />
 					<result value="Recommended" numvotes="267" />
 					<result value="Not Recommended" numvotes="17" />
 				</results>					
 			
 		<results numplayers="5">		
 					<result value="Best" numvotes="325" />
-					<result value="Recommended" numvotes="495" />
-					<result value="Not Recommended" numvotes="104" />
+					<result value="Recommended" numvotes="496" />
+					<result value="Not Recommended" numvotes="105" />
 				</results>					
 			
 		<results numplayers="5+">		
 					<result value="Best" numvotes="44" />
 					<result value="Recommended" numvotes="205" />
-					<result value="Not Recommended" numvotes="405" />
+					<result value="Not Recommended" numvotes="406" />
 				</results>					
 	</poll>
 
-			<poll name="language_dependence" title="Language Dependence" totalvotes="62">
+			<poll name="language_dependence" title="Language Dependence" totalvotes="63">
 			
 		<results>		
 					<result level="1" value="No necessary in-game text" numvotes="1" />
 					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="12" />
 					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="47" />
-					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
 					<result level="5" value="Unplayable in another language" numvotes="0" />
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="265">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="266">
 			<results>		
 					<result value="2" numvotes="2" />
 					<result value="3" numvotes="0" />
@@ -449,7 +449,7 @@
 					<result value="6" numvotes="4" />
 					<result value="8" numvotes="13" />
 					<result value="10" numvotes="48" />
-					<result value="12" numvotes="91" />
+					<result value="12" numvotes="92" />
 					<result value="14" numvotes="89" />
 					<result value="16" numvotes="16" />
 					<result value="18" numvotes="2" />
@@ -462,28 +462,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>69092</usersrated>
-					<average>8.20292</average>
-					<bayesaverage>8.04923</bayesaverage>
+					<usersrated>69126</usersrated>
+					<average>8.20252</average>
+					<bayesaverage>8.04901</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16" bayesaverage="8.04923" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16" bayesaverage="8.04901" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="14" bayesaverage="8.01881" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="14" bayesaverage="8.01855" />
 												
 											</ranks>
 					
-					<stddev>1.43841</stddev>
+					<stddev>1.43858</stddev>
 					<median>0</median>
-					<owned>92676</owned>
-					<trading>653</trading>
-					<wanting>1865</wanting>
-					<wishing>20137</wishing>
-					<numcomments>10438</numcomments>
-					<numweights>2746</numweights>
-					<averageweight>3.4301</averageweight>
+					<owned>92741</owned>
+					<trading>652</trading>
+					<wanting>1867</wanting>
+					<wishing>20151</wishing>
+					<numcomments>10443</numcomments>
+					<numweights>2748</numweights>
+					<averageweight>3.4298</averageweight>
 				</ratings>
 															</statistics>
 		

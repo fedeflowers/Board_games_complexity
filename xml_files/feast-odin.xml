@@ -170,36 +170,36 @@
 															<boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
 																						<boardgamepublisher objectid="22609">テンデイズゲームズ(TendaysGames)</boardgamepublisher>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="477">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="479">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="95" />
-					<result value="Recommended" numvotes="241" />
+					<result value="Recommended" numvotes="243" />
 					<result value="Not Recommended" numvotes="37" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="170" />
-					<result value="Recommended" numvotes="227" />
+					<result value="Recommended" numvotes="229" />
 					<result value="Not Recommended" numvotes="11" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="198" />
-					<result value="Recommended" numvotes="150" />
+					<result value="Best" numvotes="199" />
+					<result value="Recommended" numvotes="151" />
 					<result value="Not Recommended" numvotes="16" />
 				</results>					
 			
 		<results numplayers="4">		
 					<result value="Best" numvotes="57" />
-					<result value="Recommended" numvotes="184" />
+					<result value="Recommended" numvotes="186" />
 					<result value="Not Recommended" numvotes="89" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="2" />
 					<result value="Recommended" numvotes="6" />
-					<result value="Not Recommended" numvotes="212" />
+					<result value="Not Recommended" numvotes="214" />
 				</results>					
 	</poll>
 
@@ -214,7 +214,7 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="67">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="68">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -223,7 +223,7 @@
 					<result value="6" numvotes="0" />
 					<result value="8" numvotes="4" />
 					<result value="10" numvotes="9" />
-					<result value="12" numvotes="29" />
+					<result value="12" numvotes="30" />
 					<result value="14" numvotes="20" />
 					<result value="16" numvotes="5" />
 					<result value="18" numvotes="0" />
@@ -236,28 +236,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>22411</usersrated>
-					<average>8.19919</average>
-					<bayesaverage>7.95535</bayesaverage>
+					<usersrated>22426</usersrated>
+					<average>8.1992</average>
+					<bayesaverage>7.95551</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22" bayesaverage="7.95535" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22" bayesaverage="7.95551" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="18" bayesaverage="7.99071" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="18" bayesaverage="7.99085" />
 												
 											</ranks>
 					
-					<stddev>1.35672</stddev>
+					<stddev>1.35634</stddev>
 					<median>0</median>
-					<owned>29447</owned>
-					<trading>202</trading>
-					<wanting>1922</wanting>
-					<wishing>11960</wishing>
-					<numcomments>3490</numcomments>
-					<numweights>822</numweights>
-					<averageweight>3.8418</averageweight>
+					<owned>29461</owned>
+					<trading>204</trading>
+					<wanting>1921</wanting>
+					<wishing>11968</wishing>
+					<numcomments>3491</numcomments>
+					<numweights>825</numweights>
+					<averageweight>3.8424</averageweight>
 				</ratings>
 															</statistics>
 		

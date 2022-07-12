@@ -114,6 +114,7 @@
 															<boardgameexpansion objectid="363709">Marvel Champions: The Card Game – Mutant Genesis</boardgameexpansion>
 															<boardgameexpansion objectid="340900">Marvel Champions: The Card Game – Nebula Hero Pack</boardgameexpansion>
 															<boardgameexpansion objectid="356075">Marvel Champions: The Card Game – Nova Hero Pack</boardgameexpansion>
+															<boardgameexpansion objectid="366645">Marvel Champions: The Card Game – Phoenix Hero Pack</boardgameexpansion>
 															<boardgameexpansion objectid="316694">Marvel Champions: The Card Game – Quicksilver Hero Pack</boardgameexpansion>
 															<boardgameexpansion objectid="316695">Marvel Champions: The Card Game – Scarlet Witch Hero Pack</boardgameexpansion>
 															<boardgameaccessory objectid="314737">Marvel Champions: The Card Game – Single Player Mat</boardgameaccessory>
@@ -155,36 +156,36 @@
 															<boardgamemechanic objectid="2897">Variable Set-up</boardgamemechanic>
 																						<boardgameeditor objectid="67958">Joshua Yearsley</boardgameeditor>
 													
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="543">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="544">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="331" />
 					<result value="Recommended" numvotes="156" />
-					<result value="Not Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="24" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="350" />
+					<result value="Best" numvotes="351" />
 					<result value="Recommended" numvotes="135" />
 					<result value="Not Recommended" numvotes="6" />
 				</results>					
 			
 		<results numplayers="3">		
 					<result value="Best" numvotes="49" />
-					<result value="Recommended" numvotes="251" />
+					<result value="Recommended" numvotes="252" />
 					<result value="Not Recommended" numvotes="91" />
 				</results>					
 			
 		<results numplayers="4">		
 					<result value="Best" numvotes="6" />
 					<result value="Recommended" numvotes="110" />
-					<result value="Not Recommended" numvotes="270" />
+					<result value="Not Recommended" numvotes="271" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="1" />
 					<result value="Recommended" numvotes="1" />
-					<result value="Not Recommended" numvotes="319" />
+					<result value="Not Recommended" numvotes="320" />
 				</results>					
 	</poll>
 
@@ -221,8 +222,8 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>16683</usersrated>
-					<average>8.1902</average>
+					<usersrated>16706</usersrated>
+					<average>8.18997</average>
 					<bayesaverage>7.8159</bayesaverage>
 					
 					<ranks>
@@ -230,17 +231,17 @@
 														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="36" bayesaverage="7.8159" />
 												
 							
-														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="2" bayesaverage="7.84002" />
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="2" bayesaverage="7.83947" />
 												
 											</ranks>
 					
-					<stddev>1.42896</stddev>
+					<stddev>1.42851</stddev>
 					<median>0</median>
-					<owned>28607</owned>
-					<trading>305</trading>
-					<wanting>577</wanting>
-					<wishing>4514</wishing>
-					<numcomments>2256</numcomments>
+					<owned>28653</owned>
+					<trading>308</trading>
+					<wanting>578</wanting>
+					<wishing>4521</wishing>
+					<numcomments>2261</numcomments>
 					<numweights>526</numweights>
 					<averageweight>2.8878</averageweight>
 				</ratings>

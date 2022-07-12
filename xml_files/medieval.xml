@@ -117,8 +117,8 @@
 														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6993" bayesaverage="5.61624" />
 												
 							
-														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1597" bayesaverage="5.90271" />
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2007" bayesaverage="5.64476" />
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1598" bayesaverage="5.90271" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2006" bayesaverage="5.64476" />
 												
 											</ranks>
 					
@@ -127,7 +127,7 @@
 					<owned>772</owned>
 					<trading>63</trading>
 					<wanting>24</wanting>
-					<wishing>93</wishing>
+					<wishing>92</wishing>
 					<numcomments>195</numcomments>
 					<numweights>54</numweights>
 					<averageweight>2.4074</averageweight>

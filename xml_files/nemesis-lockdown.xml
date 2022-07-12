@@ -81,42 +81,42 @@
 															<boardgameintegration objectid="167355" inbound="true">Nemesis</boardgameintegration>
 															<boardgameimplementation objectid="167355" inbound="true">Nemesis</boardgameimplementation>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="44">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="45">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="4" />
-					<result value="Recommended" numvotes="15" />
+					<result value="Recommended" numvotes="16" />
 					<result value="Not Recommended" numvotes="16" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="6" />
-					<result value="Recommended" numvotes="15" />
+					<result value="Recommended" numvotes="16" />
 					<result value="Not Recommended" numvotes="13" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="3" />
+					<result value="Best" numvotes="4" />
 					<result value="Recommended" numvotes="26" />
 					<result value="Not Recommended" numvotes="4" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="17" />
+					<result value="Best" numvotes="18" />
 					<result value="Recommended" numvotes="13" />
 					<result value="Not Recommended" numvotes="4" />
 				</results>					
 			
 		<results numplayers="5">		
 					<result value="Best" numvotes="14" />
-					<result value="Recommended" numvotes="11" />
+					<result value="Recommended" numvotes="12" />
 					<result value="Not Recommended" numvotes="8" />
 				</results>					
 			
 		<results numplayers="5+">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="0" />
-					<result value="Not Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="19" />
 				</results>					
 	</poll>
 
@@ -153,28 +153,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>1184</usersrated>
-					<average>8.52882</average>
-					<bayesaverage>6.5734</bayesaverage>
+					<usersrated>1194</usersrated>
+					<average>8.53151</average>
+					<bayesaverage>6.58053</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="974" bayesaverage="6.5734" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="958" bayesaverage="6.58053" />
 												
 							
-														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="125" bayesaverage="7.02959" />
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="124" bayesaverage="7.03918" />
 												
 											</ranks>
 					
-					<stddev>1.50884</stddev>
+					<stddev>1.5053</stddev>
 					<median>0</median>
-					<owned>5439</owned>
-					<trading>36</trading>
+					<owned>5461</owned>
+					<trading>38</trading>
 					<wanting>144</wanting>
-					<wishing>1041</wishing>
-					<numcomments>509</numcomments>
-					<numweights>47</numweights>
-					<averageweight>3.7447</averageweight>
+					<wishing>1046</wishing>
+					<numcomments>510</numcomments>
+					<numweights>48</numweights>
+					<averageweight>3.7292</averageweight>
 				</ratings>
 															</statistics>
 		

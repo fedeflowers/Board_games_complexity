@@ -399,7 +399,7 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="290">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="291">
 			<results>		
 					<result value="2" numvotes="5" />
 					<result value="3" numvotes="0" />
@@ -409,7 +409,7 @@
 					<result value="8" numvotes="6" />
 					<result value="10" numvotes="42" />
 					<result value="12" numvotes="83" />
-					<result value="14" numvotes="131" />
+					<result value="14" numvotes="132" />
 					<result value="16" numvotes="18" />
 					<result value="18" numvotes="2" />
 					<result value="21 and up" numvotes="3" />
@@ -421,29 +421,29 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>51115</usersrated>
+					<usersrated>51138</usersrated>
 					<average>8.7112</average>
-					<bayesaverage>8.47779</bayesaverage>
+					<bayesaverage>8.47774</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1" bayesaverage="8.47779" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1" bayesaverage="8.47774" />
 												
 							
-														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1" bayesaverage="8.45501" />
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2" bayesaverage="8.44506" />
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1" bayesaverage="8.45499" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2" bayesaverage="8.44493" />
 												
 											</ranks>
 					
-					<stddev>1.65451</stddev>
+					<stddev>1.65421</stddev>
 					<median>0</median>
-					<owned>82574</owned>
-					<trading>733</trading>
-					<wanting>1309</wanting>
-					<wishing>18298</wishing>
-					<numcomments>9032</numcomments>
-					<numweights>2187</numweights>
-					<averageweight>3.8807</averageweight>
+					<owned>82607</owned>
+					<trading>735</trading>
+					<wanting>1307</wanting>
+					<wishing>18310</wishing>
+					<numcomments>9036</numcomments>
+					<numweights>2191</numweights>
+					<averageweight>3.8813</averageweight>
 				</ratings>
 															</statistics>
 		

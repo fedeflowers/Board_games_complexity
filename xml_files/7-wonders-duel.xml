@@ -263,16 +263,16 @@
 																						<boardgamepublisher objectid="44209">Ігромаг</boardgamepublisher>
 																						<boardgameimplementation objectid="68448" inbound="true">7 Wonders</boardgameimplementation>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="991">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="994">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="9" />
 					<result value="Recommended" numvotes="57" />
-					<result value="Not Recommended" numvotes="722" />
+					<result value="Not Recommended" numvotes="725" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="958" />
+					<result value="Best" numvotes="961" />
 					<result value="Recommended" numvotes="22" />
 					<result value="Not Recommended" numvotes="3" />
 				</results>					
@@ -280,7 +280,7 @@
 		<results numplayers="2+">		
 					<result value="Best" numvotes="5" />
 					<result value="Recommended" numvotes="5" />
-					<result value="Not Recommended" numvotes="756" />
+					<result value="Not Recommended" numvotes="759" />
 				</results>					
 	</poll>
 
@@ -295,7 +295,7 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="283">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="286">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -303,7 +303,7 @@
 					<result value="5" numvotes="2" />
 					<result value="6" numvotes="4" />
 					<result value="8" numvotes="81" />
-					<result value="10" numvotes="126" />
+					<result value="10" numvotes="129" />
 					<result value="12" numvotes="60" />
 					<result value="14" numvotes="9" />
 					<result value="16" numvotes="1" />
@@ -317,28 +317,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>75203</usersrated>
-					<average>8.10489</average>
-					<bayesaverage>7.98101</bayesaverage>
+					<usersrated>75254</usersrated>
+					<average>8.10469</average>
+					<bayesaverage>7.98082</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19" bayesaverage="7.98101" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19" bayesaverage="7.98082" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="21" bayesaverage="7.94449" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="21" bayesaverage="7.94428" />
 												
 											</ranks>
 					
-					<stddev>1.18391</stddev>
+					<stddev>1.18437</stddev>
 					<median>0</median>
-					<owned>120919</owned>
+					<owned>121003</owned>
 					<trading>742</trading>
-					<wanting>934</wanting>
+					<wanting>933</wanting>
 					<wishing>9363</wishing>
-					<numcomments>10137</numcomments>
-					<numweights>2352</numweights>
-					<averageweight>2.2241</averageweight>
+					<numcomments>10142</numcomments>
+					<numweights>2355</numweights>
+					<averageweight>2.2238</averageweight>
 				</ratings>
 															</statistics>
 		

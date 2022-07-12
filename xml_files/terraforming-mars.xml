@@ -408,7 +408,7 @@
 															<boardgamepodcastepisode objectid="370635">WWG Podcast #1: Jak stracić głowę i przyjaciół?</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="329286">Yin Yang, Anubixx en Miyabi</boardgamepodcastepisode>
 																				
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2084">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2086">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="178" />
@@ -423,20 +423,20 @@
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="1205" />
-					<result value="Recommended" numvotes="520" />
+					<result value="Best" numvotes="1206" />
+					<result value="Recommended" numvotes="521" />
 					<result value="Not Recommended" numvotes="33" />
 				</results>					
 			
 		<results numplayers="4">		
 					<result value="Best" numvotes="698" />
-					<result value="Recommended" numvotes="833" />
+					<result value="Recommended" numvotes="834" />
 					<result value="Not Recommended" numvotes="138" />
 				</results>					
 			
 		<results numplayers="5">		
 					<result value="Best" numvotes="90" />
-					<result value="Recommended" numvotes="549" />
+					<result value="Recommended" numvotes="550" />
 					<result value="Not Recommended" numvotes="811" />
 				</results>					
 			
@@ -447,13 +447,13 @@
 				</results>					
 	</poll>
 
-			<poll name="language_dependence" title="Language Dependence" totalvotes="91">
+			<poll name="language_dependence" title="Language Dependence" totalvotes="93">
 			
 		<results>		
 					<result level="1" value="No necessary in-game text" numvotes="0" />
 					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="9" />
-					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="40" />
-					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="40" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="41" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="41" />
 					<result level="5" value="Unplayable in another language" numvotes="2" />
 				</results>					
 	</poll>
@@ -480,28 +480,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>79929</usersrated>
-					<average>8.40446</average>
-					<bayesaverage>8.25908</bayesaverage>
+					<usersrated>79983</usersrated>
+					<average>8.40448</average>
+					<bayesaverage>8.25906</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5" bayesaverage="8.25908" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5" bayesaverage="8.25906" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="7" bayesaverage="8.23897" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="7" bayesaverage="8.23877" />
 												
 											</ranks>
 					
-					<stddev>1.39269</stddev>
+					<stddev>1.39253</stddev>
 					<median>0</median>
-					<owned>109983</owned>
-					<trading>630</trading>
-					<wanting>1954</wanting>
-					<wishing>19906</wishing>
-					<numcomments>11567</numcomments>
-					<numweights>3302</numweights>
-					<averageweight>3.2483</averageweight>
+					<owned>110052</owned>
+					<trading>639</trading>
+					<wanting>1952</wanting>
+					<wishing>19915</wishing>
+					<numcomments>11570</numcomments>
+					<numweights>3305</numweights>
+					<averageweight>3.2487</averageweight>
 				</ratings>
 															</statistics>
 		
