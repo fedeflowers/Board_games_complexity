@@ -1,0 +1,122 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="22604">
+			<yearpublished>2009</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>2</maxplayers>
+			<playingtime>240</playingtime>
+			<minplaytime>240</minplaytime>
+			<maxplaytime>240</maxplaytime>
+			<age>11</age>
+
+							<name primary="true" sortindex="5">The Halls of Montezuma</name>
+									
+			<description>The Halls of Montezuma is a fast paced game of the Mexican War which takes you back to the era of Manifest Destiny. The Halls of Montezuma is a Card Driven Game, allowing players the opportunity to recreate the various events and actions in Mexico from 1846 to 1848. The historical cast of characters is here, from Doniphan to Arista, Scott to Santa Anna. Even Lee, Jackson, Beauregard and Grant make appearances.&lt;br/&gt;&lt;br/&gt;Strategy card play allows you to move your forces, make events happen, activate the fleet, secure control of your lines of communication, and even invade Mexico with General Scott.&lt;br/&gt;&lt;br/&gt;The outcome is never a foregone conclusion. Victory comes from driving Mexico's political will down to zero; but each battle's outcome is in doubt - a few troops performing superbly can defeat many troops performing poorly. Mexico can achieve a quick sudden-death victory before the U.S. has declared war and can bring its force to bear.&lt;br/&gt;&lt;br/&gt;Components&lt;br/&gt;&lt;br/&gt;        Rules booklet&lt;br/&gt;        Deck of 110 Strategy &amp;amp; Action cards&lt;br/&gt;        One 22x34 mapsheet&lt;br/&gt;        Player aid cards&lt;br/&gt;        Quick Start card&lt;br/&gt;        Two 5/8-inch counter sheets (352 counters total)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;DESIGNERS Michael Welker &amp;amp; David Fox&lt;br/&gt;DEVELOPER William Cooper&lt;br/&gt;COUNTER ART Rodger B. MacGowan &amp;amp; Mark Simonitch&lt;br/&gt;MAP ART Tim Schlief&lt;br/&gt;CARD ART Mike Simonitch&lt;br/&gt;&lt;br/&gt;(from GMT website)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/q5c_53j2tPIJiAATwl4xIw__thumb/img/4NXDVPwaMaPEpQbmtLqWTiZzPQE=/fit-in/200x150/filters:strip_icc()/pic453474.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/q5c_53j2tPIJiAATwl4xIw__original/img/Wp0xj33A8ZFaWunOO2qezXE4L5Y=/0x0/filters:format(jpeg)/pic453474.jpg</image>
+						
+																			<boardgamehonor objectid="21206">2009 Charles S. Roberts Best Post-Napoleonic to Pre-World War 2 Era Board Wargame Nominee</boardgamehonor>
+																						<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamefamily objectid="10642">Country: Mexico</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="30946">English edition</boardgameversion>
+															<boardgamemechanic objectid="2850">Events</boardgamemechanic>
+															<boardgamedesigner objectid="1114">David A. Fox</boardgamedesigner>
+															<boardgamepublisher objectid="52">GMT Games</boardgamepublisher>
+															<boardgamefamily objectid="58087">History: Mexican – American War</boardgamefamily>
+															<boardgameartist objectid="74862">Tom Lovell</boardgameartist>
+															<boardgameartist objectid="71">Rodger B. MacGowan</boardgameartist>
+																						<boardgamefamily objectid="61979">Players: Two Player Only Games</boardgamefamily>
+															<boardgamefamily objectid="72016">Players: Two Players Only Wargames</boardgamefamily>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="2710">Post-Napoleonic</boardgamecategory>
+															<boardgameartist objectid="20661">Timothy Schleif</boardgameartist>
+															<boardgameartist objectid="140">Mark Simonitch</boardgameartist>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgamedesigner objectid="1113">Michael Welker</boardgamedesigner>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="6" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>232</usersrated>
+					<average>6.51629</average>
+					<bayesaverage>5.60711</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7309" bayesaverage="5.60711" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1286" bayesaverage="5.99789" />
+												
+											</ranks>
+					
+					<stddev>1.80685</stddev>
+					<median>0</median>
+					<owned>852</owned>
+					<trading>37</trading>
+					<wanting>26</wanting>
+					<wishing>68</wishing>
+					<numcomments>125</numcomments>
+					<numweights>43</numweights>
+					<averageweight>3.1395</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

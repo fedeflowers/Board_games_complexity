@@ -1,0 +1,132 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="7831">
+			<yearpublished>2000</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>240</playingtime>
+			<minplaytime>240</minplaytime>
+			<maxplaytime>240</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Risorgimento 1859: the Second Italian War of Independence</name>
+									
+			<description>Risorgimento 1859, the Second Italian War of Independence, covers the second such war, the first, in 1848, having resulted in heavy defeats at the hands of the Austrian/Hapsburg armies. But the 1859 war was different. The Piedmontese, the Italian province pressing the issue, had gotten Napoleon III and the French Army to help them. Garibaldi and his partisans were most effective in creating havoc. And the Austrians were woefully weak in high command ability and unit morale.&lt;br/&gt;&lt;br/&gt;Risorgimento 1859 is a big game, yet easy to play. The battle games are very enjoyable with lots of maneuver and combat. The Campaign game uses a point-to-point map system. The focus is on coordination and concentration, the ability to guard avenues of approach, and the capability of units to engage in combat.&lt;br/&gt;Battles and Campaigns&lt;br/&gt;&lt;br/&gt;Players fight the two major battles of the campaign, Magenta and Solferino (one of the largest battles in European history). The rules are relatively short and very accessible, as the battle system is designed for ease of play. For example, combat units do not have any numerical Strength! However, they do differ in Morale.&lt;br/&gt;&lt;br/&gt;Magenta&lt;br/&gt;A wild battle fought in the vineyards, where no one could see anything. Reinforcements coming from all corners of the map, as the French have to cross a major river to take the important rail center.&lt;br/&gt;&lt;br/&gt;Solferino&lt;br/&gt;The Austrians and the French literally stumble into each other in teh difficult and hilly country south of the Lombardian lakes. The battle that followed, pitting 4 French corps against 7 Austrian corps, was one of the most brutal in modern history. So brutal that it led directly to the founding of the Red Cross. The French, having started first, get to attack an Austrian-held position that takes advantage of every hill and valley.&lt;br/&gt;&lt;br/&gt;The Campaign&lt;br/&gt;Play out the entire Campaign and see if you can avoid the mistakes the Austrians made. This version uses a point-to-point system and some very unusual mechanics to model one of the first military campaigns that used railroads.&lt;br/&gt;&lt;br/&gt;TIME SCALE:     1 hour per turn&lt;br/&gt;MAP SCALE:     325 yards per hex&lt;br/&gt;UNIT SCALE:     Battalion &amp;amp; Regimental (battle); Division &amp;amp; Corps (campaign)&lt;br/&gt;NUMBER OF PLAYERS:     One to four&lt;br/&gt;&lt;br/&gt;DESIGNERS Richard Berg (Battle game) and Peter Perla (Campaign game)&lt;br/&gt;DEVELOPERS David Fox, John Alsen, and Richard Berg&lt;br/&gt;ART DIRECTOR Rodger B. MacGowan&lt;br/&gt;MAP ART Mark Simonitch&lt;br/&gt;COUNTER ART Mark Simonitch and Rodger B. MacGowan&lt;br/&gt;&lt;br/&gt;(source: GMT website)&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/wi4BxtE8wCwCUqdXkEnzew__thumb/img/_LexBHtxcq5ffCU-BsLwXusmugs=/fit-in/200x150/filters:strip_icc()/pic240742.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/wi4BxtE8wCwCUqdXkEnzew__original/img/HJ0a4y-uZS0ogZOL90lgHiYkGG0=/0x0/filters:format(jpeg)/pic240742.jpg</image>
+						
+												<boardgamedesigner objectid="135">Richard H. Berg</boardgamedesigner>
+															<boardgamefamily objectid="68032">Cities: Solferino (Italy)</boardgamefamily>
+															<boardgamefamily objectid="11515">Country: Italy</boardgamefamily>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="43087">English edition</boardgameversion>
+																						<boardgamepublisher objectid="52">GMT Games</boardgamepublisher>
+															<boardgamemechanic objectid="2026">Hexagon Grid</boardgamemechanic>
+															<boardgamefamily objectid="54194">History: Italian Wars of Independence</boardgamefamily>
+															<boardgameartist objectid="71">Rodger B. MacGowan</boardgameartist>
+															<boardgamedesigner objectid="2728">Peter Perla</boardgamedesigner>
+															<boardgamefamily objectid="5666">Players: Games with Solitaire Rules</boardgamefamily>
+															<boardgamefamily objectid="8164">Players: Wargames with Solitaire Rules</boardgamefamily>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="2710">Post-Napoleonic</boardgamecategory>
+															<boardgameartist objectid="140">Mark Simonitch</boardgameartist>
+															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+															<boardgamemechanic objectid="2819">Solo / Solitaire Game</boardgamemechanic>
+																						<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>140</usersrated>
+					<average>7.0725</average>
+					<bayesaverage>5.60119</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7545" bayesaverage="5.60119" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1079" bayesaverage="6.07568" />
+												
+											</ranks>
+					
+					<stddev>1.16345</stddev>
+					<median>0</median>
+					<owned>561</owned>
+					<trading>14</trading>
+					<wanting>11</wanting>
+					<wishing>58</wishing>
+					<numcomments>82</numcomments>
+					<numweights>30</numweights>
+					<averageweight>3.3</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>
