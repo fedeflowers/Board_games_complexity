@@ -30,7 +30,9 @@
 															<boardgameaccessory objectid="357875">Ark Nova: Eurohell Design Insert</boardgameaccessory>
 															<boardgameaccessory objectid="366164">Ark Nova: Eurohell Design Upgrade Coins</boardgameaccessory>
 															<boardgameaccessory objectid="360411">Ark Nova: Folded Space Insert</boardgameaccessory>
-																						<boardgameartist objectid="11462">Loïc Billiau</boardgameartist>
+																						<boardgamegraphicdesigner objectid="138547">Steffen Bieker</boardgamegraphicdesigner>
+															<boardgameartist objectid="138547">Steffen Bieker</boardgameartist>
+															<boardgameartist objectid="11462">Loïc Billiau</boardgameartist>
 															<boardgamepublisher objectid="30958">Capstone Games</boardgamepublisher>
 															<boardgameversion objectid="591904">Chinese edition</boardgameversion>
 															<boardgamefamily objectid="67874">Components: Hexagonal Tiles</boardgamefamily>
@@ -80,8 +82,6 @@
 																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
 															<boardgamemechanic objectid="2819">Solo / Solitaire Game</boardgamemechanic>
 															<boardgameversion objectid="598385">Spanish edition</boardgameversion>
-															<boardgamegraphicdesigner objectid="138547">Steffen Bieker</boardgamegraphicdesigner>
-															<boardgameartist objectid="138547">Steffen Bieker</boardgameartist>
 															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
 															<boardgamepublisher objectid="29409">Super Meeple</boardgamepublisher>
 															<boardgamefamily objectid="68335">Theme: Ecology</boardgamefamily>
