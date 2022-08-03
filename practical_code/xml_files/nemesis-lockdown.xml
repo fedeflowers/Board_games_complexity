@@ -20,6 +20,7 @@
 															<boardgamehonor objectid="75910">2021 Golden Geek Best Thematic Board Game Nominee</boardgamehonor>
 															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
 															<boardgamemechanic objectid="2023">Cooperative Game</boardgamemechanic>
+															<boardgamepublisher objectid="10768">Cranio Creations</boardgamepublisher>
 															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
 															<boardgameversion objectid="513984">Czech edition</boardgameversion>
 															<boardgamepublisher objectid="6194">Delta Vision Publishing</boardgamepublisher>
@@ -55,6 +56,7 @@
 															<boardgameexpansion objectid="245845">Nemesis: Carnomorphs</boardgameexpansion>
 															<boardgameexpansion objectid="329652">Nemesis: Lockdown – Dice Tower 2021 Promo Cards</boardgameexpansion>
 															<boardgameaccessory objectid="321701">Nemesis: Lockdown – Kings</boardgameaccessory>
+															<boardgameaccessory objectid="367213">Nemesis: Lockdown – Laserox Organizer</boardgameaccessory>
 															<boardgameaccessory objectid="314926">Nemesis: Lockdown – Playmat</boardgameaccessory>
 															<boardgameaccessory objectid="321700">Nemesis: Lockdown – Spacecats</boardgameaccessory>
 															<boardgameexpansion objectid="321742">Nemesis: Lockdown – Stretch Goals</boardgameexpansion>
@@ -81,34 +83,34 @@
 															<boardgameintegration objectid="167355" inbound="true">Nemesis</boardgameintegration>
 															<boardgameimplementation objectid="167355" inbound="true">Nemesis</boardgameimplementation>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="46">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="47">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="4" />
 					<result value="Recommended" numvotes="17" />
-					<result value="Not Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="17" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="6" />
 					<result value="Recommended" numvotes="17" />
-					<result value="Not Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="14" />
 				</results>					
 			
 		<results numplayers="3">		
 					<result value="Best" numvotes="4" />
-					<result value="Recommended" numvotes="27" />
+					<result value="Recommended" numvotes="28" />
 					<result value="Not Recommended" numvotes="4" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="19" />
+					<result value="Best" numvotes="20" />
 					<result value="Recommended" numvotes="13" />
 					<result value="Not Recommended" numvotes="4" />
 				</results>					
 			
 		<results numplayers="5">		
-					<result value="Best" numvotes="14" />
+					<result value="Best" numvotes="15" />
 					<result value="Recommended" numvotes="12" />
 					<result value="Not Recommended" numvotes="8" />
 				</results>					
@@ -116,7 +118,7 @@
 		<results numplayers="5+">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="0" />
-					<result value="Not Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="20" />
 				</results>					
 	</poll>
 
@@ -153,28 +155,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>1202</usersrated>
-					<average>8.53455</average>
-					<bayesaverage>6.58565</bayesaverage>
+					<usersrated>1288</usersrated>
+					<average>8.54188</average>
+					<bayesaverage>6.63636</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="948" bayesaverage="6.58565" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="873" bayesaverage="6.63636" />
 												
 							
-														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="124" bayesaverage="7.04253" />
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="111" bayesaverage="7.09207" />
 												
 											</ranks>
 					
-					<stddev>1.5036</stddev>
+					<stddev>1.48862</stddev>
 					<median>0</median>
-					<owned>5473</owned>
+					<owned>5674</owned>
 					<trading>41</trading>
-					<wanting>144</wanting>
-					<wishing>1055</wishing>
-					<numcomments>513</numcomments>
-					<numweights>48</numweights>
-					<averageweight>3.7292</averageweight>
+					<wanting>148</wanting>
+					<wishing>1087</wishing>
+					<numcomments>526</numcomments>
+					<numweights>50</numweights>
+					<averageweight>3.74</averageweight>
 				</ratings>
 															</statistics>
 		

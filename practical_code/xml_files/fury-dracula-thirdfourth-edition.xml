@@ -106,8 +106,8 @@
 																													<boardgameversion objectid="549083">Portuguese edition</boardgameversion>
 															<boardgamemechanic objectid="2948">Resource to Move</boardgamemechanic>
 																						<boardgameversion objectid="372663">Russian edition</boardgameversion>
-															<boardgameartist objectid="78938">Samuel R. Shimota</boardgameartist>
 															<boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+															<boardgameartist objectid="78938">Samuel R. Shimota</boardgameartist>
 															<boardgameversion objectid="294623">Spanish edition</boardgameversion>
 															<boardgameversion objectid="428179">Spanish edition</boardgameversion>
 																						<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
@@ -197,28 +197,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>13037</usersrated>
-					<average>7.48034</average>
-					<bayesaverage>7.19165</bayesaverage>
+					<usersrated>13082</usersrated>
+					<average>7.48033</average>
+					<bayesaverage>7.19186</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="261" bayesaverage="7.19165" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="260" bayesaverage="7.19186" />
 												
 							
-														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="74" bayesaverage="7.25589" />
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="73" bayesaverage="7.25749" />
 												
 											</ranks>
 					
-					<stddev>1.42414</stddev>
+					<stddev>1.42546</stddev>
 					<median>0</median>
-					<owned>23290</owned>
+					<owned>23329</owned>
 					<trading>457</trading>
-					<wanting>673</wanting>
-					<wishing>5109</wishing>
-					<numcomments>2307</numcomments>
-					<numweights>319</numweights>
-					<averageweight>3.2508</averageweight>
+					<wanting>665</wanting>
+					<wishing>5119</wishing>
+					<numcomments>2311</numcomments>
+					<numweights>322</numweights>
+					<averageweight>3.2516</averageweight>
 				</ratings>
 															</statistics>
 		

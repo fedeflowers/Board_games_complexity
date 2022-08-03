@@ -29,7 +29,7 @@
 																						<boardgameaccessory objectid="164088">Mr. Madison&#039;s War: The Incredible War of 1812 – Mounted Mapboard</boardgameaccessory>
 															<boardgamecategory objectid="1051">Napoleonic</boardgamecategory>
 															<boardgamefamily objectid="61979">Players: Two Player Only Games</boardgamefamily>
-															<boardgamefamily objectid="72016">Players: Two Players Only Wargames</boardgamefamily>
+															<boardgamefamily objectid="72016">Players: Wargames with Rules Supporting Only Two Players</boardgamefamily>
 															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
 															<boardgamefamily objectid="64973">Region: Great Lakes</boardgamefamily>
 															<boardgameartist objectid="65409">Peter Rindlisbacher</boardgameartist>
@@ -91,26 +91,26 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>262</usersrated>
-					<average>7.44931</average>
-					<bayesaverage>5.73902</bayesaverage>
+					<usersrated>261</usersrated>
+					<average>7.45103</average>
+					<bayesaverage>5.73934</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4628" bayesaverage="5.73902" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4625" bayesaverage="5.73934" />
 												
 							
-														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="454" bayesaverage="6.51913" />
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="459" bayesaverage="6.51506" />
 												
 											</ranks>
 					
-					<stddev>1.29377</stddev>
+					<stddev>1.29594</stddev>
 					<median>0</median>
-					<owned>884</owned>
-					<trading>30</trading>
+					<owned>885</owned>
+					<trading>31</trading>
 					<wanting>41</wanting>
-					<wishing>137</wishing>
-					<numcomments>144</numcomments>
+					<wishing>138</wishing>
+					<numcomments>143</numcomments>
 					<numweights>43</numweights>
 					<averageweight>2.7442</averageweight>
 				</ratings>

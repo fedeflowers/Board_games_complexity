@@ -26,6 +26,7 @@
 																						<boardgamefamily objectid="12981">Country: Austria</boardgamefamily>
 															<boardgamefamily objectid="11006">Country: France</boardgamefamily>
 															<boardgamefamily objectid="57617">Country: Great Britain</boardgamefamily>
+															<boardgamefamily objectid="63529">Country: Ottoman Empire</boardgamefamily>
 															<boardgamefamily objectid="63518">Country: Prussia</boardgamefamily>
 															<boardgamefamily objectid="11966">Country: Russia</boardgamefamily>
 															<boardgamefamily objectid="10310">Country: Spain</boardgamefamily>
@@ -46,6 +47,7 @@
 															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
 															<boardgamecategory objectid="1051">Napoleonic</boardgamecategory>
 																						<boardgamefamily objectid="61979">Players: Two Player Only Games</boardgamefamily>
+															<boardgamefamily objectid="72016">Players: Wargames with Rules Supporting Only Two Players</boardgamefamily>
 															<boardgamepodcastepisode objectid="7441">Point 2 Point 33: Manoeuver and Jeff Horger</boardgamepodcastepisode>
 															<boardgamemechanic objectid="2940">Square Grid</boardgamemechanic>
 															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
@@ -53,39 +55,39 @@
 															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
 																						<boardgameintegration objectid="106113" inbound="true">Manoeuvre: Distant Lands</boardgameintegration>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="50">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="51">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="0" />
-					<result value="Recommended" numvotes="5" />
+					<result value="Recommended" numvotes="6" />
 					<result value="Not Recommended" numvotes="23" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="42" />
+					<result value="Best" numvotes="43" />
 					<result value="Recommended" numvotes="6" />
 					<result value="Not Recommended" numvotes="0" />
 				</results>					
 			
 		<results numplayers="2+">		
 					<result value="Best" numvotes="0" />
-					<result value="Recommended" numvotes="5" />
+					<result value="Recommended" numvotes="6" />
 					<result value="Not Recommended" numvotes="22" />
 				</results>					
 	</poll>
 
-			<poll name="language_dependence" title="Language Dependence" totalvotes="20">
+			<poll name="language_dependence" title="Language Dependence" totalvotes="21">
 			
 		<results>		
 					<result level="1" value="No necessary in-game text" numvotes="0" />
 					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="12" />
 					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
-					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
 					<result level="5" value="Unplayable in another language" numvotes="0" />
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="16">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="17">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -96,7 +98,7 @@
 					<result value="10" numvotes="9" />
 					<result value="12" numvotes="1" />
 					<result value="14" numvotes="1" />
-					<result value="16" numvotes="2" />
+					<result value="16" numvotes="3" />
 					<result value="18" numvotes="0" />
 					<result value="21 and up" numvotes="0" />
 				</results>					
@@ -108,27 +110,27 @@
 						<statistics page="1">
 												<ratings >
 					<usersrated>2390</usersrated>
-					<average>7.29617</average>
-					<bayesaverage>6.51524</bayesaverage>
+					<average>7.29534</average>
+					<bayesaverage>6.51099</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1078" bayesaverage="6.51524" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1092" bayesaverage="6.51099" />
 												
 							
-														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="134" bayesaverage="7.06383" />
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="134" bayesaverage="7.05873" />
 												
 											</ranks>
 					
-					<stddev>1.38989</stddev>
+					<stddev>1.39037</stddev>
 					<median>0</median>
-					<owned>3125</owned>
+					<owned>3124</owned>
 					<trading>147</trading>
-					<wanting>161</wanting>
-					<wishing>673</wishing>
-					<numcomments>896</numcomments>
-					<numweights>291</numweights>
-					<averageweight>2.11</averageweight>
+					<wanting>160</wanting>
+					<wishing>674</wishing>
+					<numcomments>897</numcomments>
+					<numweights>292</numweights>
+					<averageweight>2.1096</averageweight>
 				</ratings>
 															</statistics>
 		

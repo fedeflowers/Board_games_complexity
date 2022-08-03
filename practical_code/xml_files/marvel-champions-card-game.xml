@@ -11,7 +11,7 @@
 							<name  sortindex="1">Marvel Champions: Das Kartenspiel</name>
 							<name  sortindex="1">Marvel Champions: El Juego de Cartas</name>
 							<name  sortindex="1">Marvel Champions: Il Gioco di Carte</name>
-							<name  sortindex="1">Marvel Champions: karetní hra</name>
+							<name  sortindex="1">Marvel Champions: Karetní hra</name>
 							<name  sortindex="1">Marvel Champions: Le Jeu De Cartes</name>
 							<name primary="true" sortindex="1">Marvel Champions: The Card Game</name>
 							<name  sortindex="1">Marvel Champions: Карткова гра</name>
@@ -42,6 +42,7 @@
 															<boardgamepodcastepisode objectid="409738">239: Marvel Champions Update &amp;amp; Our Top 5 Heroes</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="307616">69. DDP, What a load of Clank!, Tapestry, funkoverse, Emprires of the North,</boardgamepodcastepisode>
 																						<boardgamepublisher objectid="23043">ADC Blackfire Entertainment</boardgamepublisher>
+															<boardgameaccessory objectid="367230">Arkham Edge Laserox Organizer</boardgameaccessory>
 															<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
 															<boardgamepublisher objectid="47848">Asmodee China</boardgamepublisher>
 															<boardgamepublisher objectid="42032">Asmodee Italia</boardgamepublisher>
@@ -139,6 +140,7 @@
 															<boardgamefamily objectid="27646">Mechanism: Tableau Building</boardgamefamily>
 															<boardgamepodcastepisode objectid="437663">Near Mint Comic Book Board Games</boardgamepodcastepisode>
 															<boardgamepublisher objectid="32395">NeoTroy Games</boardgamepublisher>
+															<boardgamepodcastepisode objectid="448790">N°131 – Chroniques</boardgamepodcastepisode>
 															<boardgamefamily objectid="5666">Players: Games with Solitaire Rules</boardgamefamily>
 															<boardgamepodcastepisode objectid="407664">Railroad Ink Challenge, Blitz Bowl, World of Warcraft Pandemic?!? - Boards &amp;amp; Swords #177</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="312070">RDTN Episode 181: Marvel Champions, Pax Pamir, Eternal, Sorcerer, War Chest Expansion</boardgamepodcastepisode>
@@ -155,37 +157,38 @@
 															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
 															<boardgamemechanic objectid="2897">Variable Set-up</boardgamemechanic>
 																						<boardgameeditor objectid="67958">Joshua Yearsley</boardgameeditor>
-													
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="545">
+																						<boardgamepodcastepisode objectid="448800">[T’as joué à quoi ?] Objection ! – Marvel Champions – Mystères ?</boardgamepodcastepisode>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="556">
 			
 		<results numplayers="1">		
-					<result value="Best" numvotes="332" />
-					<result value="Recommended" numvotes="156" />
-					<result value="Not Recommended" numvotes="24" />
+					<result value="Best" numvotes="339" />
+					<result value="Recommended" numvotes="159" />
+					<result value="Not Recommended" numvotes="25" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="351" />
-					<result value="Recommended" numvotes="136" />
+					<result value="Best" numvotes="358" />
+					<result value="Recommended" numvotes="140" />
 					<result value="Not Recommended" numvotes="6" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="49" />
-					<result value="Recommended" numvotes="252" />
+					<result value="Best" numvotes="50" />
+					<result value="Recommended" numvotes="258" />
 					<result value="Not Recommended" numvotes="92" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="6" />
-					<result value="Recommended" numvotes="110" />
-					<result value="Not Recommended" numvotes="272" />
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="112" />
+					<result value="Not Recommended" numvotes="275" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="1" />
 					<result value="Recommended" numvotes="1" />
-					<result value="Not Recommended" numvotes="321" />
+					<result value="Not Recommended" numvotes="326" />
 				</results>					
 	</poll>
 
@@ -222,28 +225,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>16725</usersrated>
-					<average>8.18989</average>
-					<bayesaverage>7.81631</bayesaverage>
+					<usersrated>16955</usersrated>
+					<average>8.18726</average>
+					<bayesaverage>7.81713</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="36" bayesaverage="7.81631" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="36" bayesaverage="7.81713" />
 												
 							
-														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="2" bayesaverage="7.8396" />
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="2" bayesaverage="7.84471" />
 												
 											</ranks>
 					
-					<stddev>1.42776</stddev>
+					<stddev>1.42882</stddev>
 					<median>0</median>
-					<owned>28686</owned>
-					<trading>307</trading>
-					<wanting>580</wanting>
-					<wishing>4534</wishing>
-					<numcomments>2264</numcomments>
-					<numweights>526</numweights>
-					<averageweight>2.8878</averageweight>
+					<owned>29049</owned>
+					<trading>299</trading>
+					<wanting>585</wanting>
+					<wishing>4566</wishing>
+					<numcomments>2284</numcomments>
+					<numweights>535</numweights>
+					<averageweight>2.8879</averageweight>
 				</ratings>
 															</statistics>
 		

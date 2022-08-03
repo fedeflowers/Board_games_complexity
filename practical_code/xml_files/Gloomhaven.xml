@@ -101,6 +101,9 @@
 																						<boardgamefamily objectid="68438">Creatures: Demons</boardgamefamily>
 															<boardgamefamily objectid="7005">Creatures: Dragons</boardgamefamily>
 															<boardgamefamily objectid="5615">Creatures: Monsters</boardgamefamily>
+															<boardgameintegration objectid="365186">The Crimson Scales</boardgameintegration>
+															<boardgameexpansion objectid="367749">The Crimson Scales: Class Pack Add-on</boardgameexpansion>
+															<boardgameexpansion objectid="367751">The Crimson Scales: Trail of Ashes</boardgameexpansion>
 															<boardgamemechanic objectid="2854">Critical Hits and Failures</boardgamemechanic>
 															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
 															<boardgamepodcastepisode objectid="161551">Cult of the New Board Game Podcast Episode 001</boardgamepodcastepisode>
@@ -110,7 +113,7 @@
 															<boardgamemechanic objectid="2664">Deck, Bag, and Pool Building</boardgamemechanic>
 															<boardgamepodcastepisode objectid="268664">Deep Sea Adventure | Gloomhaven | Century: Eastern Wonders</boardgamepodcastepisode>
 															<boardgamefamily objectid="73596">Digital Implementations: TableTop Simulator Mod (TTS)</boardgamefamily>
-															<boardgamepodcastepisode objectid="341862">E5 | Games | Gloomhaven Starting Classes</boardgamepodcastepisode>
+																						<boardgamepodcastepisode objectid="341862">E5 | Games | Gloomhaven Starting Classes</boardgamepodcastepisode>
 															<boardgameartist objectid="77084">Alexandr Elichev</boardgameartist>
 															<boardgameversion objectid="479734">English edition, fifth printing</boardgameversion>
 															<boardgameversion objectid="331120">English edition, first printing</boardgameversion>
@@ -242,6 +245,7 @@
 															<boardgameaccessory objectid="308555">Gloomhaven: E-Raptor Insert</boardgameaccessory>
 															<boardgameaccessory objectid="261980">Gloomhaven: Folded Space Insert</boardgameaccessory>
 															<boardgameexpansion objectid="250337">Gloomhaven: Forgotten Circles</boardgameexpansion>
+															<boardgameaccessory objectid="367191">Gloomhaven: Forgotten Circles – Tower Rex Organizer</boardgameaccessory>
 															<boardgameaccessory objectid="365880">Gloomhaven: Forgotten Circles – Tower Rex Organizer Upgrade</boardgameaccessory>
 															<boardgameaccessory objectid="336186">Gloomhaven: Gaming Trunk Character&#039;s Tray</boardgameaccessory>
 															<boardgameaccessory objectid="272804">Gloomhaven: Gloom Tavern Organizer</boardgameaccessory>
@@ -252,6 +256,7 @@
 															<boardgameexpansion objectid="312635">Gloomhaven: Memories of Gloomhaven (Promo Scenario)</boardgameexpansion>
 															<boardgameaccessory objectid="293088">Gloomhaven: Metal Coin Upgrade</boardgameaccessory>
 															<boardgameaccessory objectid="250858">Gloomhaven: Miniatures</boardgameaccessory>
+															<boardgameaccessory objectid="366336">Gloomhaven: Momo Monster Playmat</boardgameaccessory>
 															<boardgameaccessory objectid="273547">Gloomhaven: Player Mat</boardgameaccessory>
 															<boardgameaccessory objectid="236232">Gloomhaven: Removable Sticker Set</boardgameaccessory>
 															<boardgameexpansion objectid="298195">Gloomhaven: Return of the Lost Cabal (Promo Scenario)</boardgameexpansion>
@@ -289,7 +294,6 @@
 															<boardgamefamily objectid="25404">Mechanism: Legacy</boardgamefamily>
 																						<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
 															<boardgamefamily objectid="75241">Misc: Forteller Audio Narration</boardgamefamily>
-															<boardgamefamily objectid="72224">Misc: Limited Replayability</boardgamefamily>
 															<boardgamepodcastepisode objectid="161966">MOBG Podcast 37: 500 Games of Summer.</boardgamepodcastepisode>
 															<boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
 															<boardgamepublisher objectid="23756">MYBG Co., Ltd.</boardgamepublisher>
@@ -352,39 +356,40 @@
 															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
 																						<boardgamepodcastepisode objectid="200154">Vox Republica 138: Havens Of Gloooooom</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="161302">What Did You Play This Week Podcast Thing Week 41!!! Avalanche at Yeti Mountain Preview, NY 1901 Review</boardgamepodcastepisode>
-																						<boardgameintegration objectid="295770" inbound="true">Frosthaven</boardgameintegration>
+																						<boardgameintegration objectid="365186" inbound="true">The Crimson Scales</boardgameintegration>
+															<boardgameintegration objectid="295770" inbound="true">Frosthaven</boardgameintegration>
 															<boardgameintegration objectid="291457" inbound="true">Gloomhaven: Jaws of the Lion</boardgameintegration>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1330">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1336">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="129" />
 					<result value="Recommended" numvotes="577" />
-					<result value="Not Recommended" numvotes="303" />
+					<result value="Not Recommended" numvotes="308" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="323" />
-					<result value="Recommended" numvotes="732" />
-					<result value="Not Recommended" numvotes="78" />
+					<result value="Best" numvotes="326" />
+					<result value="Recommended" numvotes="734" />
+					<result value="Not Recommended" numvotes="79" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="645" />
-					<result value="Recommended" numvotes="445" />
+					<result value="Best" numvotes="648" />
+					<result value="Recommended" numvotes="448" />
 					<result value="Not Recommended" numvotes="32" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="409" />
-					<result value="Recommended" numvotes="511" />
-					<result value="Not Recommended" numvotes="149" />
+					<result value="Best" numvotes="411" />
+					<result value="Recommended" numvotes="514" />
+					<result value="Not Recommended" numvotes="150" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="6" />
-					<result value="Recommended" numvotes="47" />
-					<result value="Not Recommended" numvotes="735" />
+					<result value="Recommended" numvotes="48" />
+					<result value="Not Recommended" numvotes="739" />
 				</results>					
 	</poll>
 
@@ -399,7 +404,7 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="291">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="292">
 			<results>		
 					<result value="2" numvotes="5" />
 					<result value="3" numvotes="0" />
@@ -409,7 +414,7 @@
 					<result value="8" numvotes="6" />
 					<result value="10" numvotes="42" />
 					<result value="12" numvotes="83" />
-					<result value="14" numvotes="132" />
+					<result value="14" numvotes="133" />
 					<result value="16" numvotes="18" />
 					<result value="18" numvotes="2" />
 					<result value="21 and up" numvotes="3" />
@@ -421,29 +426,29 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>51157</usersrated>
-					<average>8.71099</average>
-					<bayesaverage>8.4776</bayesaverage>
+					<usersrated>51469</usersrated>
+					<average>8.70722</average>
+					<bayesaverage>8.47547</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1" bayesaverage="8.4776" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1" bayesaverage="8.47547" />
 												
 							
-														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1" bayesaverage="8.45464" />
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2" bayesaverage="8.44474" />
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1" bayesaverage="8.45319" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2" bayesaverage="8.44133" />
 												
 											</ranks>
 					
-					<stddev>1.65404</stddev>
+					<stddev>1.65592</stddev>
 					<median>0</median>
-					<owned>82657</owned>
-					<trading>737</trading>
-					<wanting>1307</wanting>
-					<wishing>18318</wishing>
-					<numcomments>9039</numcomments>
-					<numweights>2192</numweights>
-					<averageweight>3.8818</averageweight>
+					<owned>83149</owned>
+					<trading>739</trading>
+					<wanting>1301</wanting>
+					<wishing>18384</wishing>
+					<numcomments>9089</numcomments>
+					<numweights>2201</numweights>
+					<averageweight>3.8837</averageweight>
 				</ratings>
 															</statistics>
 		

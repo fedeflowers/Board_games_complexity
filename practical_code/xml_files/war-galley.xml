@@ -35,7 +35,7 @@
 															<boardgameartist objectid="71">Rodger B. MacGowan</boardgameartist>
 															<boardgamecategory objectid="1008">Nautical</boardgamecategory>
 															<boardgamefamily objectid="61979">Players: Two Player Only Games</boardgamefamily>
-															<boardgamefamily objectid="72016">Players: Two Players Only Wargames</boardgamefamily>
+															<boardgamefamily objectid="72016">Players: Wargames with Rules Supporting Only Two Players</boardgamefamily>
 															<boardgameexpansion objectid="40545">Quinquereme</boardgameexpansion>
 															<boardgameexpansion objectid="42212">The Raven: Rome&#039;s Secret Weapon</boardgameexpansion>
 															<boardgameexpansion objectid="1895">Salamis</boardgameexpansion>
@@ -102,14 +102,14 @@
 												<ratings >
 					<usersrated>299</usersrated>
 					<average>7.08836</average>
-					<bayesaverage>5.71592</bayesaverage>
+					<bayesaverage>5.71485</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4927" bayesaverage="5.71592" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4942" bayesaverage="5.71485" />
 												
 							
-														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="592" bayesaverage="6.39443" />
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="596" bayesaverage="6.38558" />
 												
 											</ranks>
 					

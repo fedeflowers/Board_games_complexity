@@ -8,6 +8,7 @@
 			<maxplaytime>150</maxplaytime>
 			<age>14</age>
 
+							<name  sortindex="1">Archa Nova</name>
 							<name  sortindex="1">Arche Nova</name>
 							<name primary="true" sortindex="1">Ark Nova</name>
 							<name  sortindex="1">アーク・ノヴァ　新たなる方舟</name>
@@ -25,11 +26,16 @@
 															<boardgamehonor objectid="75895">2021 Golden Geek Heavy Game of the Year Winner</boardgamehonor>
 															<boardgamehonor objectid="75835">2022 Kennerspiel des Jahres Recommended</boardgamehonor>
 															<boardgamecategory objectid="1089">Animals</boardgamecategory>
-																																				<boardgamepodcastepisode objectid="420401">Ark Nova Discussion</boardgamepodcastepisode>
-																																				<boardgameaccessory objectid="365692">Ark Nova: Board Game Amplifier Acrylic Overlay</boardgameaccessory>
+																																											<boardgamepodcastepisode objectid="420401">Ark Nova Discussion</boardgamepodcastepisode>
+																																				<boardgameaccessory objectid="366502">Ark Nova: BGExpansions Full Upgrade Kit</boardgameaccessory>
+															<boardgameaccessory objectid="365692">Ark Nova: Board Game Amplifier Acrylic Overlay</boardgameaccessory>
 															<boardgameaccessory objectid="357875">Ark Nova: Eurohell Design Insert</boardgameaccessory>
 															<boardgameaccessory objectid="366164">Ark Nova: Eurohell Design Upgrade Coins</boardgameaccessory>
 															<boardgameaccessory objectid="360411">Ark Nova: Folded Space Insert</boardgameaccessory>
+															<boardgameaccessory objectid="367202">Ark Nova: Laserox Organizer</boardgameaccessory>
+															<boardgameaccessory objectid="368014">Ark Nova: reDrewno Insert</boardgameaccessory>
+															<boardgameaccessory objectid="367516">Ark Nova: Wooden tokens</boardgameaccessory>
+															<boardgameexpansion objectid="368158">Ark Nova: Zoo Map Pack 1</boardgameexpansion>
 																						<boardgamegraphicdesigner objectid="138547">Steffen Bieker</boardgamegraphicdesigner>
 															<boardgameartist objectid="138547">Steffen Bieker</boardgameartist>
 															<boardgameartist objectid="11462">Loïc Billiau</boardgameartist>
@@ -37,9 +43,10 @@
 															<boardgameversion objectid="591904">Chinese edition</boardgameversion>
 															<boardgamefamily objectid="67874">Components: Hexagonal Tiles</boardgamefamily>
 															<boardgamepublisher objectid="10768">Cranio Creations</boardgamepublisher>
-																						<boardgamepodcastepisode objectid="431289">Der Große Wurf #72 - Arche Nova</boardgamepodcastepisode>
+																						<boardgameversion objectid="623699">Czech edition</boardgameversion>
+															<boardgamepodcastepisode objectid="431289">Der Große Wurf #72 - Arche Nova</boardgamepodcastepisode>
 															<boardgameversion objectid="584007">Dutch edition</boardgameversion>
-																													<boardgamecategory objectid="1021">Economic</boardgamecategory>
+																																				<boardgamecategory objectid="1021">Economic</boardgamecategory>
 															<boardgamemechanic objectid="2875">End Game Bonuses</boardgamemechanic>
 															<boardgameversion objectid="571944">English edition, first printing</boardgameversion>
 															<boardgameversion objectid="615223">English edition, second printing</boardgameversion>
@@ -47,11 +54,13 @@
 															<boardgamecategory objectid="1084">Environmental</boardgamecategory>
 															<boardgamepodcastepisode objectid="437868">Ep. 102 - Ark Nova Review</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="446223">Episode 12: Top 5 BGG 100 Games We Want to Play</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="449631">Episode 15: To Sleeve, or Not to Sleeve?</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="430976">Episode 169: Empires of the North, Terra Mystica, Ark Nova</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="432064">Episode 172: The Initiative, Teotihuacan Late Pre-Classic Period, Bitoku</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="432442">Episode 173: Special Guest – Tom Vasel! Plus Horrified, Black Sonata, Ark Nova and Bristol 1350</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="433065">Episode 175: Messina 1347, Res Arcana: Perlae Imperii, Through The Ages</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="433604">Episode 213: Gaia Project</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="451209">Episode 224: Ark Nova</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="445138">Episode 89: Ark Nova, Paint The Roses, Long Shot The Dice Game, Bandada - Top 5 Super Quick Games</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="431695">Erweiterung zum DGW #72 - Interview mit Mathias Wigge (Autor: Arche Nova)</boardgamepodcastepisode>
 															<boardgameversion objectid="620296">Finnish edition</boardgameversion>
@@ -75,11 +84,15 @@
 															<boardgamepublisher objectid="3218">Lautapelit.fi</boardgamepublisher>
 															<boardgameartist objectid="12484">Dennis Lohausen</boardgameartist>
 															<boardgamepublisher objectid="30677">Maldito Games</boardgamepublisher>
-																						<boardgamemechanic objectid="2041">Open Drafting</boardgamemechanic>
+															<boardgamepublisher objectid="7992">MINDOK</boardgamepublisher>
+																						<boardgamepodcastepisode objectid="448795">N°131 – Essen SPIEL 2021 : Le Débrief</boardgamepodcastepisode>
+															<boardgamemechanic objectid="2041">Open Drafting</boardgamemechanic>
 															<boardgamefamily objectid="5666">Players: Games with Solitaire Rules</boardgamefamily>
 															<boardgameversion objectid="597384">Polish edition</boardgameversion>
 															<boardgamepublisher objectid="2726">Portal Games</boardgamepublisher>
-																						<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamepublisher objectid="44241">Regatul Jocurilor</boardgamepublisher>
+																						<boardgameversion objectid="625892">Romanian edition</boardgameversion>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
 															<boardgamemechanic objectid="2819">Solo / Solitaire Game</boardgamemechanic>
 															<boardgameversion objectid="598385">Spanish edition</boardgameversion>
 															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
@@ -95,53 +108,55 @@
 															<boardgamedesigner objectid="138517">Mathias Wigge</boardgamedesigner>
 															<boardgameeditor objectid="138548">Bastian Winkelhaus</boardgameeditor>
 															<boardgamepodcastepisode objectid="432501">[#185] Trio Nova - Vertiefungsstunde</boardgamepodcastepisode>
-																						<boardgamepublisher objectid="22609">テンデイズゲームズ(TendaysGames)</boardgamepublisher>
+															<boardgamepodcastepisode objectid="448738">[Jeux du mois] Dice Throne et Ark Nova</boardgamepodcastepisode>
+																						<boardgamepodcastepisode objectid="448728">[T’as joué à quoi au Week-End Proxi-Jeux ?] Édition 2022</boardgamepodcastepisode>
+															<boardgamepublisher objectid="22609">テンデイズゲームズ(TendaysGames)</boardgamepublisher>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="663">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="729">
 			
 		<results numplayers="1">		
-					<result value="Best" numvotes="71" />
-					<result value="Recommended" numvotes="284" />
-					<result value="Not Recommended" numvotes="69" />
+					<result value="Best" numvotes="77" />
+					<result value="Recommended" numvotes="315" />
+					<result value="Not Recommended" numvotes="76" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="398" />
-					<result value="Recommended" numvotes="179" />
+					<result value="Best" numvotes="445" />
+					<result value="Recommended" numvotes="193" />
 					<result value="Not Recommended" numvotes="20" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="200" />
-					<result value="Recommended" numvotes="294" />
-					<result value="Not Recommended" numvotes="36" />
+					<result value="Best" numvotes="226" />
+					<result value="Recommended" numvotes="323" />
+					<result value="Not Recommended" numvotes="37" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="36" />
-					<result value="Recommended" numvotes="181" />
-					<result value="Not Recommended" numvotes="292" />
+					<result value="Best" numvotes="40" />
+					<result value="Recommended" numvotes="208" />
+					<result value="Not Recommended" numvotes="314" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="2" />
 					<result value="Recommended" numvotes="3" />
-					<result value="Not Recommended" numvotes="320" />
+					<result value="Not Recommended" numvotes="355" />
 				</results>					
 	</poll>
 
-			<poll name="language_dependence" title="Language Dependence" totalvotes="34">
+			<poll name="language_dependence" title="Language Dependence" totalvotes="37">
 			
 		<results>		
 					<result level="1" value="No necessary in-game text" numvotes="0" />
 					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
-					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="17" />
-					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="17" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="18" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="19" />
 					<result level="5" value="Unplayable in another language" numvotes="0" />
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="91">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="95">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -149,10 +164,10 @@
 					<result value="5" numvotes="0" />
 					<result value="6" numvotes="0" />
 					<result value="8" numvotes="2" />
-					<result value="10" numvotes="12" />
-					<result value="12" numvotes="29" />
-					<result value="14" numvotes="41" />
-					<result value="16" numvotes="6" />
+					<result value="10" numvotes="13" />
+					<result value="12" numvotes="30" />
+					<result value="14" numvotes="42" />
+					<result value="16" numvotes="7" />
 					<result value="18" numvotes="1" />
 					<result value="21 and up" numvotes="0" />
 				</results>					
@@ -163,28 +178,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>12299</usersrated>
-					<average>8.66205</average>
-					<bayesaverage>8.20342</bayesaverage>
+					<usersrated>13633</usersrated>
+					<average>8.65191</average>
+					<bayesaverage>8.22858</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7" bayesaverage="8.20342" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7" bayesaverage="8.22858" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="4" bayesaverage="8.29478" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="4" bayesaverage="8.31338" />
 												
 											</ranks>
 					
-					<stddev>1.3052</stddev>
+					<stddev>1.30938</stddev>
 					<median>0</median>
-					<owned>19687</owned>
-					<trading>66</trading>
-					<wanting>1102</wanting>
-					<wishing>8127</wishing>
-					<numcomments>1834</numcomments>
-					<numweights>819</numweights>
-					<averageweight>3.707</averageweight>
+					<owned>21863</owned>
+					<trading>79</trading>
+					<wanting>1095</wanting>
+					<wishing>8255</wishing>
+					<numcomments>1987</numcomments>
+					<numweights>888</numweights>
+					<averageweight>3.7151</averageweight>
 				</ratings>
 															</statistics>
 		

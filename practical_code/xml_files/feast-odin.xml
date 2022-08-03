@@ -139,6 +139,7 @@
 															<boardgamefamily objectid="27646">Mechanism: Tableau Building</boardgamefamily>
 															<boardgamecategory objectid="1035">Medieval</boardgamecategory>
 															<boardgamepodcastepisode objectid="193198">MN 0140 Hot Games and News from BGG.Con 2016</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="340064">N°115 – Chroniques</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="305369">Out of the Dust Ep48 - 7 Wonders Duel, Hadara, and Catan Rise of the Inkas</boardgamepodcastepisode>
 																						<boardgamefamily objectid="5666">Players: Games with Solitaire Rules</boardgamefamily>
 																						<boardgamepodcastepisode objectid="379547">Podcast #126 - Who Is Mr Uwe, and What Does He Want?</boardgamepodcastepisode>
@@ -170,36 +171,36 @@
 															<boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
 																						<boardgamepublisher objectid="22609">テンデイズゲームズ(TendaysGames)</boardgamepublisher>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="479">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="484">
 			
 		<results numplayers="1">		
-					<result value="Best" numvotes="95" />
-					<result value="Recommended" numvotes="243" />
+					<result value="Best" numvotes="96" />
+					<result value="Recommended" numvotes="245" />
 					<result value="Not Recommended" numvotes="37" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="170" />
-					<result value="Recommended" numvotes="229" />
+					<result value="Best" numvotes="172" />
+					<result value="Recommended" numvotes="230" />
 					<result value="Not Recommended" numvotes="11" />
 				</results>					
 			
 		<results numplayers="3">		
 					<result value="Best" numvotes="199" />
-					<result value="Recommended" numvotes="151" />
+					<result value="Recommended" numvotes="154" />
 					<result value="Not Recommended" numvotes="16" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="57" />
-					<result value="Recommended" numvotes="186" />
-					<result value="Not Recommended" numvotes="89" />
+					<result value="Best" numvotes="58" />
+					<result value="Recommended" numvotes="187" />
+					<result value="Not Recommended" numvotes="90" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="2" />
 					<result value="Recommended" numvotes="6" />
-					<result value="Not Recommended" numvotes="214" />
+					<result value="Not Recommended" numvotes="216" />
 				</results>					
 	</poll>
 
@@ -214,7 +215,7 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="68">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="69">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -224,7 +225,7 @@
 					<result value="8" numvotes="4" />
 					<result value="10" numvotes="9" />
 					<result value="12" numvotes="30" />
-					<result value="14" numvotes="20" />
+					<result value="14" numvotes="21" />
 					<result value="16" numvotes="5" />
 					<result value="18" numvotes="0" />
 					<result value="21 and up" numvotes="0" />
@@ -236,28 +237,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>22440</usersrated>
-					<average>8.19875</average>
-					<bayesaverage>7.95517</bayesaverage>
+					<usersrated>22631</usersrated>
+					<average>8.19737</average>
+					<bayesaverage>7.9545</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22" bayesaverage="7.95517" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22" bayesaverage="7.9545" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="18" bayesaverage="7.99048" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="18" bayesaverage="7.99039" />
 												
 											</ranks>
 					
-					<stddev>1.35641</stddev>
+					<stddev>1.35674</stddev>
 					<median>0</median>
-					<owned>29481</owned>
-					<trading>205</trading>
+					<owned>29694</owned>
+					<trading>202</trading>
 					<wanting>1918</wanting>
-					<wishing>11971</wishing>
-					<numcomments>3497</numcomments>
-					<numweights>827</numweights>
-					<averageweight>3.8416</averageweight>
+					<wishing>12031</wishing>
+					<numcomments>3532</numcomments>
+					<numweights>834</numweights>
+					<averageweight>3.8465</averageweight>
 				</ratings>
 															</statistics>
 		

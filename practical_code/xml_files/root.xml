@@ -50,6 +50,7 @@
 															<boardgamehonor objectid="55555">2018 Golden Geek Most Innovative Board Game Nominee</boardgamehonor>
 															<boardgamehonor objectid="64690">2018 Meeples&#039; Choice Nominee</boardgamehonor>
 															<boardgamehonor objectid="64681">2018 The Golden Elephant Award Finalist</boardgamehonor>
+															<boardgamehonor objectid="73362">2019 American Tabletop Complex Games Winner</boardgamehonor>
 															<boardgamehonor objectid="63755">2019 Dragon Awards Best Science Fiction or Fantasy Board Game Nominee</boardgamehonor>
 															<boardgamehonor objectid="58099">2019 Goblin Magnifico Nominee</boardgamehonor>
 															<boardgamehonor objectid="58912">2019 International Gamers Award - General Strategy: Multi-player Nominee</boardgamehonor>
@@ -93,7 +94,8 @@
 															<boardgamefamily objectid="68769">Components: Wooden pieces &amp; boards</boardgamefamily>
 															<boardgamepublisher objectid="34522">CrowD Games</boardgamepublisher>
 															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
-															<boardgameversion objectid="424446">Czech edition</boardgameversion>
+															<boardgameversion objectid="424446">Czech edition, first printing</boardgameversion>
+															<boardgameversion objectid="624444">Czech edition, fourth printing</boardgameversion>
 															<boardgamepublisher objectid="6194">Delta Vision Publishing</boardgamepublisher>
 															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
 																						<boardgameversion objectid="545526">English edition, fifth printing</boardgameversion>
@@ -164,7 +166,8 @@
 															<boardgamepublisher objectid="5400">Matagot</boardgamepublisher>
 															<boardgamepublisher objectid="32591">MeepleBR</boardgamepublisher>
 															<boardgamepublisher objectid="37959">MS Edizioni</boardgamepublisher>
-																													<boardgamepodcastepisode objectid="383691">Pandemic Check-In</boardgamepodcastepisode>
+																													<boardgamepodcastepisode objectid="381057">N°123 – Chroniques</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="383691">Pandemic Check-In</boardgamepodcastepisode>
 															<boardgamefamily objectid="65851">Players: Games with expansions that add solo play</boardgamefamily>
 															<boardgamepodcastepisode objectid="234470">Podcast #2 with Cole Wehrle</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="298894">Podcast #20 Consimworld Expo and an interview with John Kranz the founder</boardgamepodcastepisode>
@@ -203,6 +206,7 @@
 															<boardgameexpansion objectid="272638">Root: The Exiles and Partisans Deck</boardgameexpansion>
 															<boardgameexpansion objectid="330149">Root: The Marauder Expansion</boardgameexpansion>
 															<boardgameexpansion objectid="336649">Root: The Marauder Expansion (Kickstarter Edition)</boardgameexpansion>
+															<boardgameaccessory objectid="367414">Root: The Marauder Expansion – Laserox Organizer</boardgameaccessory>
 															<boardgameexpansion objectid="241386">Root: The Riverfolk Expansion</boardgameexpansion>
 															<boardgameexpansion objectid="272637">Root: The Underworld Expansion</boardgameexpansion>
 															<boardgameexpansion objectid="309977">Root: The Vagabond Pack</boardgameexpansion>
@@ -242,37 +246,40 @@
 															<boardgamedeveloper objectid="67958">Joshua Yearsley</boardgamedeveloper>
 															<boardgameeditor objectid="67958">Joshua Yearsley</boardgameeditor>
 															<boardgamepublisher objectid="8147">YOKA Games</boardgamepublisher>
+															<boardgamepodcastepisode objectid="339898">[FIJ Cannes 2020] Magali Moreno – Matagot</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="381529">[Tellement Je Thème] Root</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="448728">[T’as joué à quoi au Week-End Proxi-Jeux ?] Édition 2022</boardgamepodcastepisode>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="768">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="781">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="1" />
 					<result value="Recommended" numvotes="70" />
-					<result value="Not Recommended" numvotes="450" />
+					<result value="Not Recommended" numvotes="460" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="14" />
-					<result value="Recommended" numvotes="215" />
-					<result value="Not Recommended" numvotes="370" />
+					<result value="Recommended" numvotes="220" />
+					<result value="Not Recommended" numvotes="377" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="136" />
-					<result value="Recommended" numvotes="469" />
+					<result value="Best" numvotes="138" />
+					<result value="Recommended" numvotes="479" />
 					<result value="Not Recommended" numvotes="49" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="610" />
-					<result value="Recommended" numvotes="99" />
+					<result value="Best" numvotes="622" />
+					<result value="Recommended" numvotes="100" />
 					<result value="Not Recommended" numvotes="9" />
 				</results>					
 			
 		<results numplayers="4+">		
-					<result value="Best" numvotes="42" />
-					<result value="Recommended" numvotes="153" />
-					<result value="Not Recommended" numvotes="260" />
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="159" />
+					<result value="Not Recommended" numvotes="264" />
 				</results>					
 	</poll>
 
@@ -287,7 +294,7 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="166">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="168">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -295,8 +302,8 @@
 					<result value="5" numvotes="2" />
 					<result value="6" numvotes="0" />
 					<result value="8" numvotes="10" />
-					<result value="10" numvotes="28" />
-					<result value="12" numvotes="53" />
+					<result value="10" numvotes="29" />
+					<result value="12" numvotes="54" />
 					<result value="14" numvotes="62" />
 					<result value="16" numvotes="11" />
 					<result value="18" numvotes="0" />
@@ -309,29 +316,29 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>36132</usersrated>
-					<average>8.0964</average>
-					<bayesaverage>7.89387</bayesaverage>
+					<usersrated>36553</usersrated>
+					<average>8.09484</average>
+					<bayesaverage>7.89303</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="28" bayesaverage="7.89387" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="28" bayesaverage="7.89303" />
 												
 							
-														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="15" bayesaverage="7.73036" />
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="29" bayesaverage="7.87744" />
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="13" bayesaverage="7.73568" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="29" bayesaverage="7.87697" />
 												
 											</ranks>
 					
-					<stddev>1.43288</stddev>
+					<stddev>1.43324</stddev>
 					<median>0</median>
-					<owned>55306</owned>
-					<trading>350</trading>
-					<wanting>1713</wanting>
-					<wishing>15944</wishing>
-					<numcomments>5385</numcomments>
-					<numweights>1458</numweights>
-					<averageweight>3.7435</averageweight>
+					<owned>55885</owned>
+					<trading>358</trading>
+					<wanting>1722</wanting>
+					<wishing>16095</wishing>
+					<numcomments>5435</numcomments>
+					<numweights>1471</numweights>
+					<averageweight>3.743</averageweight>
 				</ratings>
 															</statistics>
 		

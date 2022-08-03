@@ -100,26 +100,26 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>190</usersrated>
-					<average>6.74122</average>
-					<bayesaverage>5.61507</bayesaverage>
+					<usersrated>195</usersrated>
+					<average>6.73247</average>
+					<bayesaverage>5.6156</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7033" bayesaverage="5.61507" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7035" bayesaverage="5.6156" />
 												
 							
-														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1599" bayesaverage="5.66912" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1606" bayesaverage="5.67002" />
 												
 											</ranks>
 					
-					<stddev>1.43422</stddev>
+					<stddev>1.44398</stddev>
 					<median>0</median>
-					<owned>362</owned>
+					<owned>366</owned>
 					<trading>21</trading>
 					<wanting>55</wanting>
 					<wishing>248</wishing>
-					<numcomments>62</numcomments>
+					<numcomments>64</numcomments>
 					<numweights>8</numweights>
 					<averageweight>1.875</averageweight>
 				</ratings>

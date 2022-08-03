@@ -29,7 +29,7 @@
 															<boardgameartist objectid="71">Rodger B. MacGowan</boardgameartist>
 															<boardgamecategory objectid="2725">Pike and Shot</boardgamecategory>
 															<boardgamefamily objectid="61979">Players: Two Player Only Games</boardgamefamily>
-															<boardgamefamily objectid="72016">Players: Two Players Only Wargames</boardgamefamily>
+															<boardgamefamily objectid="72016">Players: Wargames with Rules Supporting Only Two Players</boardgamefamily>
 															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
 																						<boardgameartist objectid="140">Mark Simonitch</boardgameartist>
 															<boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
@@ -92,25 +92,25 @@
 						<statistics page="1">
 												<ratings >
 					<usersrated>663</usersrated>
-					<average>6.87409</average>
-					<bayesaverage>5.8387</bayesaverage>
+					<average>6.87258</average>
+					<bayesaverage>5.83861</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3624" bayesaverage="5.8387" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3633" bayesaverage="5.83861" />
 												
 							
-														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="500" bayesaverage="6.46833" />
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="495" bayesaverage="6.4683" />
 												
 											</ranks>
 					
-					<stddev>1.6744</stddev>
+					<stddev>1.67743</stddev>
 					<median>0</median>
 					<owned>1400</owned>
-					<trading>23</trading>
-					<wanting>82</wanting>
-					<wishing>187</wishing>
-					<numcomments>283</numcomments>
+					<trading>25</trading>
+					<wanting>81</wanting>
+					<wishing>189</wishing>
+					<numcomments>282</numcomments>
 					<numweights>106</numweights>
 					<averageweight>3.1321</averageweight>
 				</ratings>

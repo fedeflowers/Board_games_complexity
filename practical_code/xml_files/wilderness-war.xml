@@ -40,7 +40,7 @@
 															<boardgamefamily objectid="21079">History: French and Indian War</boardgamefamily>
 															<boardgamepodcastepisode objectid="95552">I&#039;ve Been Diced! episode 42: Volko Ruhnke</boardgamepodcastepisode>
 															<boardgameartist objectid="71">Rodger B. MacGowan</boardgameartist>
-																						<boardgamefamily objectid="72016">Players: Two Players Only Wargames</boardgamefamily>
+																						<boardgamefamily objectid="72016">Players: Wargames with Rules Supporting Only Two Players</boardgamefamily>
 															<boardgamepodcastepisode objectid="7435">Point 2 Point 39: They&#039;re Ba-ack and Pursuit of Glory</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="7434">Point 2 Point 40: WBC 09 Wrap-up</boardgamepodcastepisode>
 															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
@@ -108,26 +108,26 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>1779</usersrated>
-					<average>7.71487</average>
-					<bayesaverage>6.57474</bayesaverage>
+					<usersrated>1781</usersrated>
+					<average>7.71632</average>
+					<bayesaverage>6.57238</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="969" bayesaverage="6.57474" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="979" bayesaverage="6.57238" />
 												
 							
-														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="41" bayesaverage="7.43266" />
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="41" bayesaverage="7.42897" />
 												
 											</ranks>
 					
-					<stddev>1.32179</stddev>
+					<stddev>1.32132</stddev>
 					<median>0</median>
-					<owned>4095</owned>
-					<trading>118</trading>
-					<wanting>179</wanting>
-					<wishing>696</wishing>
-					<numcomments>790</numcomments>
+					<owned>4102</owned>
+					<trading>121</trading>
+					<wanting>177</wanting>
+					<wishing>697</wishing>
+					<numcomments>787</numcomments>
 					<numweights>221</numweights>
 					<averageweight>3.2941</averageweight>
 				</ratings>

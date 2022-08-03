@@ -245,7 +245,6 @@
 															<boardgamefamily objectid="12210">Mechanism: 4X</boardgamefamily>
 															<boardgamefamily objectid="27646">Mechanism: Tableau Building</boardgamefamily>
 															<boardgamepodcastepisode objectid="212688">MHGG Fancy Interview 03 - Jamey Stegmaier</boardgamepodcastepisode>
-															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
 															<boardgamepodcastepisode objectid="185832">MN 0122 Scythe</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="164234">MOBG 40 7th Scythe 24-10-15</boardgamepodcastepisode>
 															<boardgamepublisher objectid="28323">Morning</boardgamepublisher>
@@ -294,6 +293,7 @@
 															<boardgameaccessory objectid="309473">Scythe: e-Raptor Insert</boardgameaccessory>
 															<boardgameaccessory objectid="242715">Scythe: Encounter and Expansion Tokens</boardgameaccessory>
 															<boardgameaccessory objectid="226917">Scythe: Encounter Campfire Tokens</boardgameaccessory>
+															<boardgameaccessory objectid="361379">Scythe: Encounter Token Promo Coin</boardgameaccessory>
 															<boardgameaccessory objectid="207629">Scythe: Encounter Tokens</boardgameaccessory>
 															<boardgameexpansion objectid="262151">Scythe: Encounters</boardgameexpansion>
 															<boardgameaccessory objectid="232123">Scythe: Faction Boxes</boardgameaccessory>
@@ -390,51 +390,51 @@
 															<boardgamemechanic objectid="2974">Zone of Control</boardgamemechanic>
 															<boardgamepodcastepisode objectid="190383">[Jeux du mois] Octobre 2016 &amp;ndash; Captain Sonar &amp;amp; Scythe</boardgamepodcastepisode>
 																				
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1232">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1236">
 			
 		<results numplayers="1">		
-					<result value="Best" numvotes="55" />
-					<result value="Recommended" numvotes="468" />
+					<result value="Best" numvotes="56" />
+					<result value="Recommended" numvotes="470" />
 					<result value="Not Recommended" numvotes="281" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="49" />
-					<result value="Recommended" numvotes="594" />
+					<result value="Best" numvotes="50" />
+					<result value="Recommended" numvotes="598" />
 					<result value="Not Recommended" numvotes="329" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="278" />
-					<result value="Recommended" numvotes="635" />
+					<result value="Best" numvotes="280" />
+					<result value="Recommended" numvotes="637" />
 					<result value="Not Recommended" numvotes="80" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="760" />
-					<result value="Recommended" numvotes="267" />
+					<result value="Best" numvotes="762" />
+					<result value="Recommended" numvotes="268" />
 					<result value="Not Recommended" numvotes="17" />
 				</results>					
 			
 		<results numplayers="5">		
-					<result value="Best" numvotes="325" />
-					<result value="Recommended" numvotes="496" />
+					<result value="Best" numvotes="327" />
+					<result value="Recommended" numvotes="497" />
 					<result value="Not Recommended" numvotes="105" />
 				</results>					
 			
 		<results numplayers="5+">		
 					<result value="Best" numvotes="44" />
 					<result value="Recommended" numvotes="205" />
-					<result value="Not Recommended" numvotes="406" />
+					<result value="Not Recommended" numvotes="409" />
 				</results>					
 	</poll>
 
-			<poll name="language_dependence" title="Language Dependence" totalvotes="63">
+			<poll name="language_dependence" title="Language Dependence" totalvotes="64">
 			
 		<results>		
 					<result level="1" value="No necessary in-game text" numvotes="1" />
 					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="12" />
-					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="47" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="48" />
 					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
 					<result level="5" value="Unplayable in another language" numvotes="0" />
 				</results>					
@@ -462,28 +462,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>69164</usersrated>
-					<average>8.20218</average>
-					<bayesaverage>8.04878</bayesaverage>
+					<usersrated>69545</usersrated>
+					<average>8.20153</average>
+					<bayesaverage>8.04803</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16" bayesaverage="8.04878" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16" bayesaverage="8.04803" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="14" bayesaverage="8.01828" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="15" bayesaverage="8.01814" />
 												
 											</ranks>
 					
-					<stddev>1.43884</stddev>
+					<stddev>1.43791</stddev>
 					<median>0</median>
-					<owned>92790</owned>
-					<trading>654</trading>
-					<wanting>1868</wanting>
-					<wishing>20166</wishing>
-					<numcomments>10449</numcomments>
-					<numweights>2748</numweights>
-					<averageweight>3.4298</averageweight>
+					<owned>93347</owned>
+					<trading>649</trading>
+					<wanting>1871</wanting>
+					<wishing>20229</wishing>
+					<numcomments>10517</numcomments>
+					<numweights>2759</numweights>
+					<averageweight>3.4299</averageweight>
 				</ratings>
 															</statistics>
 		

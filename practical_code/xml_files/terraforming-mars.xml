@@ -156,6 +156,7 @@
 															<boardgamepodcastepisode objectid="360731">Episode 14: War Chest, Call To Adventure, Bob&#039;s Your Uncle</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="199157">Episode 16 - Greg Spence of The Broken Token</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="190735">Episode 16 - Terraforming Mars and the Kickstarter Effect</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="450650">Episode 16: Spiel des Jahres Predictions and Top 5 Winners &amp;amp; Nominees</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="233973">Episode 17 - #Yolobits (Featuring Grimm Forest, Charterstone, Clank!InSpace!, Joraku, Near&amp;amp;Far, Medina, and more!)</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="295966">Episode 17 - Res Arcana and 10 Essential Games</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="325218">Episode 17 - Solitaire Games</boardgamepodcastepisode>
@@ -260,8 +261,8 @@
 															<boardgamepodcastepisode objectid="266659">Muse | Terraforming Mars | Fluxx</boardgamepodcastepisode>
 															<boardgamepublisher objectid="23756">MYBG Co., Ltd.</boardgamepublisher>
 																						<boardgamepublisher objectid="32395">NeoTroy Games</boardgamepublisher>
-																													<boardgamemechanic objectid="2846">Once-Per-Game Abilities</boardgamemechanic>
-																						<boardgamepodcastepisode objectid="299879">Out of the Dust Ep46 - Terraforming Mars</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="366170">N°119 – Chroniques</boardgamepodcastepisode>
+																																				<boardgamepodcastepisode objectid="299879">Out of the Dust Ep46 - Terraforming Mars</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="195213">Perfect Information Podcast Episode 32 - The very best games of 2016</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="288293">Planet, hunting for Cryptids, Fishing, Sci-Fi Kickstarting, and some amazing board game news!</boardgamepodcastepisode>
 															<boardgamefamily objectid="5666">Players: Games with Solitaire Rules</boardgamefamily>
@@ -411,57 +412,57 @@
 															<boardgamepodcastepisode objectid="370635">WWG Podcast #1: Jak stracić głowę i przyjaciół?</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="329286">Yin Yang, Anubixx en Miyabi</boardgamepodcastepisode>
 																				
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2087">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2102">
 			
 		<results numplayers="1">		
-					<result value="Best" numvotes="178" />
-					<result value="Recommended" numvotes="928" />
-					<result value="Not Recommended" numvotes="349" />
+					<result value="Best" numvotes="180" />
+					<result value="Recommended" numvotes="933" />
+					<result value="Not Recommended" numvotes="351" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="403" />
-					<result value="Recommended" numvotes="1147" />
-					<result value="Not Recommended" numvotes="188" />
+					<result value="Best" numvotes="406" />
+					<result value="Recommended" numvotes="1154" />
+					<result value="Not Recommended" numvotes="191" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="1207" />
-					<result value="Recommended" numvotes="521" />
+					<result value="Best" numvotes="1217" />
+					<result value="Recommended" numvotes="525" />
 					<result value="Not Recommended" numvotes="33" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="698" />
-					<result value="Recommended" numvotes="835" />
-					<result value="Not Recommended" numvotes="138" />
+					<result value="Best" numvotes="701" />
+					<result value="Recommended" numvotes="843" />
+					<result value="Not Recommended" numvotes="140" />
 				</results>					
 			
 		<results numplayers="5">		
-					<result value="Best" numvotes="90" />
-					<result value="Recommended" numvotes="550" />
-					<result value="Not Recommended" numvotes="812" />
+					<result value="Best" numvotes="91" />
+					<result value="Recommended" numvotes="556" />
+					<result value="Not Recommended" numvotes="817" />
 				</results>					
 			
 		<results numplayers="5+">		
 					<result value="Best" numvotes="10" />
 					<result value="Recommended" numvotes="6" />
-					<result value="Not Recommended" numvotes="932" />
+					<result value="Not Recommended" numvotes="939" />
 				</results>					
 	</poll>
 
-			<poll name="language_dependence" title="Language Dependence" totalvotes="93">
+			<poll name="language_dependence" title="Language Dependence" totalvotes="95">
 			
 		<results>		
 					<result level="1" value="No necessary in-game text" numvotes="0" />
 					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="9" />
 					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="41" />
-					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="41" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="43" />
 					<result level="5" value="Unplayable in another language" numvotes="2" />
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="330">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="331">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -470,7 +471,7 @@
 					<result value="6" numvotes="0" />
 					<result value="8" numvotes="19" />
 					<result value="10" numvotes="80" />
-					<result value="12" numvotes="141" />
+					<result value="12" numvotes="142" />
 					<result value="14" numvotes="79" />
 					<result value="16" numvotes="6" />
 					<result value="18" numvotes="2" />
@@ -483,28 +484,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>80030</usersrated>
-					<average>8.40398</average>
-					<bayesaverage>8.25889</bayesaverage>
+					<usersrated>80549</usersrated>
+					<average>8.40239</average>
+					<bayesaverage>8.2574</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5" bayesaverage="8.25889" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5" bayesaverage="8.2574" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="7" bayesaverage="8.23856" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="7" bayesaverage="8.23704" />
 												
 											</ranks>
 					
-					<stddev>1.39314</stddev>
+					<stddev>1.39362</stddev>
 					<median>0</median>
-					<owned>110119</owned>
-					<trading>642</trading>
-					<wanting>1951</wanting>
-					<wishing>19922</wishing>
-					<numcomments>11581</numcomments>
-					<numweights>3305</numweights>
-					<averageweight>3.2487</averageweight>
+					<owned>110901</owned>
+					<trading>647</trading>
+					<wanting>1937</wanting>
+					<wishing>19985</wishing>
+					<numcomments>11654</numcomments>
+					<numweights>3318</numweights>
+					<averageweight>3.248</averageweight>
 				</ratings>
 															</statistics>
 		

@@ -122,8 +122,8 @@
 																						<boardgamepodcastepisode objectid="384418">Everdell</boardgamepodcastepisode>
 															<videogamebg objectid="352803">Everdell</videogamebg>
 															<boardgameaccessory objectid="348633">Everdell + Spirecrest: The GiftForge Insert</boardgameaccessory>
-																																											<boardgameaccessory objectid="353226">Everdell for Everyone</boardgameaccessory>
-																																																																														<boardgameaccessory objectid="357969">Everdell: 3 Minute Library Promo Cards</boardgameaccessory>
+																																				<boardgameaccessory objectid="353226">Everdell for Everyone</boardgameaccessory>
+																																																																<boardgameaccessory objectid="357969">Everdell: 3 Minute Library Promo Cards</boardgameaccessory>
 															<boardgameexpansion objectid="289057">Everdell: Bellfaire</boardgameexpansion>
 															<boardgameaccessory objectid="359324">Everdell: Berlin Brettspiel Con Promo Card</boardgameaccessory>
 															<boardgameaccessory objectid="332119">Everdell: BGInserts Insert</boardgameaccessory>
@@ -172,13 +172,13 @@
 															<boardgamepublisher objectid="8820">Gém Klub Kft.</boardgamepublisher>
 															<boardgameversion objectid="478713">German first edition</boardgameversion>
 																																				<boardgameversion objectid="494126">German second edition</boardgameversion>
-																						<boardgameversion objectid="594002">Greek edition</boardgameversion>
+															<boardgameversion objectid="594002">Greek edition</boardgameversion>
 															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
 															<boardgamepodcastepisode objectid="255049">HLG 51: Jumbo</boardgamepodcastepisode>
 															<boardgamepublisher objectid="18852">Hobby World</boardgamepublisher>
 															<boardgameversion objectid="478629">Hungarian edition</boardgameversion>
 															<boardgamemechanic objectid="2902">Income</boardgamemechanic>
-															<boardgameversion objectid="474304">Italian standard edition</boardgameversion>
+																						<boardgameversion objectid="474304">Italian standard edition</boardgameversion>
 															<boardgameversion objectid="549441">Japanese edition</boardgameversion>
 															<boardgamegraphicdesigner objectid="63969">Cody Jones</boardgamegraphicdesigner>
 															<boardgamepublisher objectid="6214">Kaissa Chess &amp; Games</boardgamepublisher>
@@ -192,7 +192,7 @@
 															<boardgamegraphicdesigner objectid="23943">Dann May</boardgamegraphicdesigner>
 															<boardgamefamily objectid="27646">Mechanism: Tableau Building</boardgamefamily>
 															<boardgamepodcastepisode objectid="273322">MeepleCore Podcast Episode 66 - Everdell, board and video game collectors editions, Unpub playthrough, and more!</boardgamepodcastepisode>
-																						<boardgamepublisher objectid="51614">MIPL</boardgamepublisher>
+															<boardgamepublisher objectid="51614">MIPL</boardgamepublisher>
 															<boardgamefamily objectid="59705">Misc: LongPack Games</boardgamefamily>
 																													<boardgamedeveloper objectid="135440">Brenna Noonan</boardgamedeveloper>
 															<boardgameeditor objectid="135440">Brenna Noonan</boardgameeditor>
@@ -222,37 +222,38 @@
 															<boardgamedesigner objectid="91302">James A. Wilson</boardgamedesigner>
 															<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
 															<boardgamepublisher objectid="8147">YOKA Games</boardgamepublisher>
-													
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="602">
+																						<boardgamepodcastepisode objectid="448726">[Le Pour et le Contre] Everdell</boardgamepodcastepisode>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="613">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="16" />
-					<result value="Recommended" numvotes="217" />
-					<result value="Not Recommended" numvotes="106" />
+					<result value="Recommended" numvotes="220" />
+					<result value="Not Recommended" numvotes="108" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="165" />
-					<result value="Recommended" numvotes="318" />
-					<result value="Not Recommended" numvotes="29" />
+					<result value="Best" numvotes="166" />
+					<result value="Recommended" numvotes="324" />
+					<result value="Not Recommended" numvotes="30" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="304" />
-					<result value="Recommended" numvotes="165" />
+					<result value="Best" numvotes="312" />
+					<result value="Recommended" numvotes="168" />
 					<result value="Not Recommended" numvotes="10" />
 				</results>					
 			
 		<results numplayers="4">		
 					<result value="Best" numvotes="96" />
-					<result value="Recommended" numvotes="258" />
+					<result value="Recommended" numvotes="267" />
 					<result value="Not Recommended" numvotes="83" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="1" />
 					<result value="Recommended" numvotes="10" />
-					<result value="Not Recommended" numvotes="270" />
+					<result value="Not Recommended" numvotes="274" />
 				</results>					
 	</poll>
 
@@ -267,16 +268,16 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="147">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="152">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
 					<result value="4" numvotes="0" />
 					<result value="5" numvotes="2" />
 					<result value="6" numvotes="1" />
-					<result value="8" numvotes="32" />
-					<result value="10" numvotes="43" />
-					<result value="12" numvotes="58" />
+					<result value="8" numvotes="31" />
+					<result value="10" numvotes="48" />
+					<result value="12" numvotes="59" />
 					<result value="14" numvotes="10" />
 					<result value="16" numvotes="0" />
 					<result value="18" numvotes="0" />
@@ -289,29 +290,29 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>34947</usersrated>
-					<average>8.08687</average>
-					<bayesaverage>7.88431</bayesaverage>
+					<usersrated>35509</usersrated>
+					<average>8.08384</average>
+					<bayesaverage>7.88174</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="30" bayesaverage="7.88431" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="30" bayesaverage="7.88174" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="33" bayesaverage="7.85608" />
-														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3" bayesaverage="7.90045" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="33" bayesaverage="7.8541" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3" bayesaverage="7.89904" />
 												
 											</ranks>
 					
-					<stddev>1.27876</stddev>
+					<stddev>1.28091</stddev>
 					<median>0</median>
-					<owned>53424</owned>
-					<trading>305</trading>
-					<wanting>1512</wanting>
-					<wishing>15029</wishing>
-					<numcomments>4775</numcomments>
-					<numweights>1054</numweights>
-					<averageweight>2.8102</averageweight>
+					<owned>54277</owned>
+					<trading>312</trading>
+					<wanting>1509</wanting>
+					<wishing>15124</wishing>
+					<numcomments>4846</numcomments>
+					<numweights>1070</numweights>
+					<averageweight>2.8075</averageweight>
 				</ratings>
 															</statistics>
 		

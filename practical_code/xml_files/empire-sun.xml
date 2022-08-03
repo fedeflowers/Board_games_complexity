@@ -38,6 +38,7 @@
 															<boardgameversion objectid="266534">English second edition, first printing</boardgameversion>
 															<boardgameversion objectid="564897">English second edition, fourth printing</boardgameversion>
 															<boardgameversion objectid="444177">English second edition, second printing</boardgameversion>
+															<boardgameversion objectid="623608">English second edition, third printing</boardgameversion>
 																													<boardgamepublisher objectid="52">GMT Games</boardgamepublisher>
 																						<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
 															<boardgamepodcastepisode objectid="174089">GrogCast Season 3, Episode Two-o!</boardgamepodcastepisode>
@@ -60,16 +61,16 @@
 															<boardgamecategory objectid="1049">World War II</boardgamecategory>
 															<boardgameintegration objectid="348849" inbound="true">Burma: The Forgotten War, 1943–1944</boardgameintegration>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="55">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="56">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="4" />
 					<result value="Recommended" numvotes="23" />
-					<result value="Not Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="19" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="50" />
+					<result value="Best" numvotes="51" />
 					<result value="Recommended" numvotes="3" />
 					<result value="Not Recommended" numvotes="0" />
 				</results>					
@@ -77,7 +78,7 @@
 		<results numplayers="2+">		
 					<result value="Best" numvotes="1" />
 					<result value="Recommended" numvotes="1" />
-					<result value="Not Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="32" />
 				</results>					
 	</poll>
 
@@ -114,28 +115,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>1640</usersrated>
-					<average>8.24042</average>
-					<bayesaverage>6.70483</bayesaverage>
+					<usersrated>1651</usersrated>
+					<average>8.24942</average>
+					<bayesaverage>6.70773</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="761" bayesaverage="6.70483" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="756" bayesaverage="6.70773" />
 												
 							
-														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="9" bayesaverage="7.76027" />
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="11" bayesaverage="7.75983" />
 												
 											</ranks>
 					
-					<stddev>1.54976</stddev>
+					<stddev>1.5424</stddev>
 					<median>0</median>
-					<owned>4999</owned>
-					<trading>89</trading>
-					<wanting>231</wanting>
-					<wishing>1124</wishing>
-					<numcomments>795</numcomments>
-					<numweights>279</numweights>
-					<averageweight>4.3118</averageweight>
+					<owned>5160</owned>
+					<trading>86</trading>
+					<wanting>226</wanting>
+					<wishing>1104</wishing>
+					<numcomments>796</numcomments>
+					<numweights>280</numweights>
+					<averageweight>4.3143</averageweight>
 				</ratings>
 															</statistics>
 		

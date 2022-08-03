@@ -39,6 +39,7 @@
 															<boardgamehonor objectid="64680">2018 The Golden Elephant Award Best Heavy Board Game Winner</boardgamehonor>
 															<boardgamehonor objectid="64681">2018 The Golden Elephant Award Finalist</boardgamehonor>
 															<boardgamehonor objectid="64679">2018 The Golden Elephant Award People&#039;s Choice Winner</boardgamehonor>
+															<boardgamehonor objectid="73364">2019 American Tabletop Complex Games Nominee</boardgamehonor>
 															<boardgamehonor objectid="58912">2019 International Gamers Award - General Strategy: Multi-player Nominee</boardgamehonor>
 															<boardgamehonor objectid="74286">2019 Kanga Game of the Year Finalist</boardgamehonor>
 															<boardgamehonor objectid="56191">2019 Origins Awards Best Board Game Nominee</boardgamehonor>
@@ -125,6 +126,7 @@
 															<boardgamemechanic objectid="2900">Market</boardgamemechanic>
 															<boardgamepodcastepisode objectid="297143">MeepleCore Podcast Episode 77 - Origins 2019 recap, Top 5 board game components, Brass Birmingham, and more!</boardgamepodcastepisode>
 																						<boardgamemechanic objectid="2081">Network and Route Building</boardgamemechanic>
+															<boardgamepodcastepisode objectid="448796">N°130 – Chroniques</boardgamepodcastepisode>
 															<boardgamefamily objectid="4705">Organizations: The Game Artisans of Canada</boardgamefamily>
 															<boardgamepublisher objectid="36186">PHALANX</boardgamepublisher>
 																													<boardgameversion objectid="442357">Polish edition, first printing</boardgameversion>
@@ -152,43 +154,43 @@
 																						<boardgamedesigner objectid="6">Martin Wallace</boardgamedesigner>
 															<boardgameimplementation objectid="28720" inbound="true">Brass: Lancashire</boardgameimplementation>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="700">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="704">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="29" />
-					<result value="Not Recommended" numvotes="363" />
+					<result value="Not Recommended" numvotes="367" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="68" />
-					<result value="Recommended" numvotes="454" />
-					<result value="Not Recommended" numvotes="76" />
+					<result value="Recommended" numvotes="457" />
+					<result value="Not Recommended" numvotes="77" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="375" />
-					<result value="Recommended" numvotes="225" />
+					<result value="Best" numvotes="377" />
+					<result value="Recommended" numvotes="227" />
 					<result value="Not Recommended" numvotes="5" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="331" />
-					<result value="Recommended" numvotes="222" />
+					<result value="Best" numvotes="333" />
+					<result value="Recommended" numvotes="224" />
 					<result value="Not Recommended" numvotes="26" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="1" />
 					<result value="Recommended" numvotes="5" />
-					<result value="Not Recommended" numvotes="303" />
+					<result value="Not Recommended" numvotes="307" />
 				</results>					
 	</poll>
 
-			<poll name="language_dependence" title="Language Dependence" totalvotes="34">
+			<poll name="language_dependence" title="Language Dependence" totalvotes="36">
 			
 		<results>		
-					<result level="1" value="No necessary in-game text" numvotes="32" />
+					<result level="1" value="No necessary in-game text" numvotes="34" />
 					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
 					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
 					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
@@ -218,28 +220,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>29428</usersrated>
-					<average>8.65616</average>
-					<bayesaverage>8.42607</bayesaverage>
+					<usersrated>29764</usersrated>
+					<average>8.65508</average>
+					<bayesaverage>8.42681</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3" bayesaverage="8.42607" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3" bayesaverage="8.42681" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1" bayesaverage="8.45509" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1" bayesaverage="8.45554" />
 												
 											</ranks>
 					
-					<stddev>1.24556</stddev>
+					<stddev>1.24993</stddev>
 					<median>0</median>
-					<owned>43574</owned>
-					<trading>142</trading>
-					<wanting>1584</wanting>
-					<wishing>12774</wishing>
-					<numcomments>4298</numcomments>
-					<numweights>1418</numweights>
-					<averageweight>3.9126</averageweight>
+					<owned>44100</owned>
+					<trading>150</trading>
+					<wanting>1577</wanting>
+					<wishing>12871</wishing>
+					<numcomments>4338</numcomments>
+					<numweights>1430</numweights>
+					<averageweight>3.914</averageweight>
 				</ratings>
 															</statistics>
 		

@@ -16,7 +16,8 @@
 							<thumbnail>https://cf.geekdo-images.com/TTQllPzYNV0MoHmrsytv4w__thumb/img/Zjt90vMaHg9WN6vNijmhz1d2HwY=/fit-in/200x150/filters:strip_icc()/pic1019831.jpg</thumbnail>
 				<image>https://cf.geekdo-images.com/TTQllPzYNV0MoHmrsytv4w__original/img/v_ajKD6dHClACSunFRftmNMWHqw=/0x0/filters:format(jpeg)/pic1019831.jpg</image>
 						
-												<boardgamehonor objectid="21131">2011 Charles S. Roberts Best Board Game Graphics Nominee</boardgamehonor>
+												<boardgamepublisher objectid="52">GMT Games</boardgamepublisher>
+															<boardgamehonor objectid="21131">2011 Charles S. Roberts Best Board Game Graphics Nominee</boardgamehonor>
 															<boardgamehonor objectid="21114">2011 Charles S. Roberts Best World War 2 Era Board Wargame Nominee</boardgamehonor>
 															<boardgamehonor objectid="21115">2011 Charles S. Roberts Best World War 2 Era Board Wargame Winner</boardgamehonor>
 															<boardgamehonor objectid="13906">2011 Golden Geek Best Wargame Nominee</boardgamehonor>
@@ -30,7 +31,6 @@
 															<boardgameversion objectid="21963">English first edition</boardgameversion>
 															<boardgameversion objectid="336007">English second edition</boardgameversion>
 															<boardgamepublisher objectid="29194">GaGa Games</boardgamepublisher>
-															<boardgamepublisher objectid="52">GMT Games</boardgamepublisher>
 																						<boardgamemechanic objectid="2026">Hexagon Grid</boardgamemechanic>
 															<boardgamefamily objectid="73775">History: World War II (Eastern Front)</boardgamefamily>
 															<boardgamepodcastepisode objectid="81854">I&#039;ve Been Diced! episode 35: Carl Paradis, designer of No Retreat!</boardgamepodcastepisode>
@@ -108,26 +108,26 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>1585</usersrated>
-					<average>7.77939</average>
-					<bayesaverage>6.53912</bayesaverage>
+					<usersrated>1588</usersrated>
+					<average>7.77698</average>
+					<bayesaverage>6.53337</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1034" bayesaverage="6.53912" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1047" bayesaverage="6.53337" />
 												
 							
-														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="38" bayesaverage="7.44587" />
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="38" bayesaverage="7.43573" />
 												
 											</ranks>
 					
-					<stddev>1.47472</stddev>
+					<stddev>1.47651</stddev>
 					<median>0</median>
-					<owned>3287</owned>
-					<trading>82</trading>
-					<wanting>157</wanting>
-					<wishing>766</wishing>
-					<numcomments>591</numcomments>
+					<owned>3289</owned>
+					<trading>81</trading>
+					<wanting>155</wanting>
+					<wishing>765</wishing>
+					<numcomments>592</numcomments>
 					<numweights>176</numweights>
 					<averageweight>3.0966</averageweight>
 				</ratings>

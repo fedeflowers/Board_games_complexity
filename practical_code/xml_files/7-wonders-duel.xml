@@ -260,19 +260,20 @@
 															<boardgamepodcastepisode objectid="168787">What Did You Play This Week Podcast Thing Week 54!!!!</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="169413">What Did You Play This Week Podcast Thing Week 55!!! T.I.M.E Stories(Spoiler Free)</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="170386">What Did You Play This Week Podcast Thing Week 58!!!</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="448741">[Le Pour et le Contre] 7 Wonders Duel</boardgamepodcastepisode>
 																						<boardgamepublisher objectid="44209">Ігромаг</boardgamepublisher>
 																						<boardgameimplementation objectid="68448" inbound="true">7 Wonders</boardgameimplementation>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="996">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1007">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="9" />
-					<result value="Recommended" numvotes="57" />
-					<result value="Not Recommended" numvotes="725" />
+					<result value="Recommended" numvotes="58" />
+					<result value="Not Recommended" numvotes="733" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="963" />
+					<result value="Best" numvotes="974" />
 					<result value="Recommended" numvotes="22" />
 					<result value="Not Recommended" numvotes="3" />
 				</results>					
@@ -280,14 +281,14 @@
 		<results numplayers="2+">		
 					<result value="Best" numvotes="5" />
 					<result value="Recommended" numvotes="5" />
-					<result value="Not Recommended" numvotes="759" />
+					<result value="Not Recommended" numvotes="768" />
 				</results>					
 	</poll>
 
-			<poll name="language_dependence" title="Language Dependence" totalvotes="92">
+			<poll name="language_dependence" title="Language Dependence" totalvotes="93">
 			
 		<results>		
-					<result level="1" value="No necessary in-game text" numvotes="84" />
+					<result level="1" value="No necessary in-game text" numvotes="85" />
 					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="8" />
 					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
 					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
@@ -295,16 +296,16 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="286">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="288">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
 					<result value="4" numvotes="0" />
 					<result value="5" numvotes="2" />
-					<result value="6" numvotes="4" />
-					<result value="8" numvotes="81" />
-					<result value="10" numvotes="129" />
-					<result value="12" numvotes="60" />
+					<result value="6" numvotes="5" />
+					<result value="8" numvotes="82" />
+					<result value="10" numvotes="128" />
+					<result value="12" numvotes="61" />
 					<result value="14" numvotes="9" />
 					<result value="16" numvotes="1" />
 					<result value="18" numvotes="0" />
@@ -317,28 +318,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>75291</usersrated>
-					<average>8.10466</average>
-					<bayesaverage>7.98088</bayesaverage>
+					<usersrated>75790</usersrated>
+					<average>8.1038</average>
+					<bayesaverage>7.98041</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19" bayesaverage="7.98088" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19" bayesaverage="7.98041" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="21" bayesaverage="7.94432" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="21" bayesaverage="7.9445" />
 												
 											</ranks>
 					
-					<stddev>1.18433</stddev>
+					<stddev>1.18544</stddev>
 					<median>0</median>
-					<owned>121088</owned>
-					<trading>745</trading>
-					<wanting>934</wanting>
-					<wishing>9370</wishing>
-					<numcomments>10147</numcomments>
-					<numweights>2361</numweights>
-					<averageweight>2.2236</averageweight>
+					<owned>122012</owned>
+					<trading>756</trading>
+					<wanting>932</wanting>
+					<wishing>9380</wishing>
+					<numcomments>10212</numcomments>
+					<numweights>2376</numweights>
+					<averageweight>2.2222</averageweight>
 				</ratings>
 															</statistics>
 		
