@@ -1,0 +1,416 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="266192">
+			<yearpublished>2019</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>70</playingtime>
+			<minplaytime>40</minplaytime>
+			<maxplaytime>70</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="1">Fesztáv</name>
+							<name  sortindex="1">Flügelschlag</name>
+							<name  sortindex="1">Na křídlech</name>
+							<name  sortindex="1">Na skrzydłach</name>
+							<name  sortindex="1">Spārnotie</name>
+							<name  sortindex="1">Sparnuotieji</name>
+							<name  sortindex="1">Tiivulised</name>
+							<name primary="true" sortindex="1">Wingspan</name>
+							<name  sortindex="1">Wingspan srpsko izdanje</name>
+							<name  sortindex="1">Wingspan: Lumea păsărilor</name>
+							<name  sortindex="1">ΑΝΟΙΓΜΑ ΦΤΕΡΩΝ</name>
+							<name  sortindex="1">Крила</name>
+							<name  sortindex="1">Криле</name>
+							<name  sortindex="1">Крылья</name>
+							<name  sortindex="1">ปีกปักษา</name>
+							<name  sortindex="1">ウイングスパン</name>
+							<name  sortindex="1">展翅翱翔</name>
+							<name  sortindex="1">윙스팬</name>
+									
+			<description>Wingspan is&amp;nbsp;a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features over 170 birds illustrated by Beth Sobel, Natalia Rojas, and Ana Maria Martinez.&lt;br/&gt;&lt;br/&gt;You are bird enthusiasts&amp;mdash;researchers, bird watchers, ornithologists, and collectors&amp;mdash;seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats (actions). These habitats  focus on several key aspects of growth:&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;     Gain food tokens via custom dice in a birdfeeder dice tower&lt;br/&gt;     Lay eggs using egg miniatures in a variety of colors&lt;br/&gt;     Draw from hundreds of unique bird cards and play them&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The winner is the player with the most points after 4 rounds.&lt;br/&gt;&lt;br/&gt;If you enjoy Terraforming Mars and Gizmos, we think this game will take flight at your table.&lt;br/&gt;&lt;br/&gt;&amp;mdash;description from the publisher&lt;br/&gt;&lt;br/&gt;From the 7th printing on, the base game box includes Wingspan: Swift-Start Promo Pack.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__thumb/img/VNToqgS2-pOGU6MuvIkMPKn_y-s=/fit-in/200x150/filters:strip_icc()/pic4458123.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__original/img/cI782Zis9cT66j2MjSHKJGnFPNw=/0x0/filters:format(jpeg)/pic4458123.jpg</image>
+						
+												<boardgamehonor objectid="57492">2019 Deutscher Spiele Preis Best Family/Adult Game Winner</boardgamehonor>
+															<boardgamehonor objectid="58912">2019 International Gamers Award - General Strategy: Multi-player Nominee</boardgamehonor>
+															<boardgameartist objectid="113749">Ana Maria Martinez Jaramillo</boardgameartist>
+															<boardgameartist objectid="113748">Natalia Rojas</boardgameartist>
+															<boardgamepublisher objectid="23202">Stonemaier Games</boardgamepublisher>
+															<boardgameaccessory objectid="337694">Wingspan: reDrewno Insert</boardgameaccessory>
+															<boardgamepodcastepisode objectid="329834">#114: 2019 In Review</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="352823">#121: Aristeia!</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="277389">#94: Wingspan</boardgamepodcastepisode>
+															<boardgamehonor objectid="62574">2019 5 Seasons Best International Strategy Nominee</boardgamehonor>
+															<boardgamehonor objectid="62557">2019 5 Seasons Best International Strategy Winner</boardgamehonor>
+															<boardgamehonor objectid="63849">2019 Board Game Quest Awards Best Production Values Nominee</boardgamehonor>
+															<boardgamehonor objectid="63860">2019 Board Game Quest Awards Best Production Values Winner</boardgamehonor>
+															<boardgamehonor objectid="63857">2019 Board Game Quest Awards Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="63868">2019 Board Game Quest Awards Game of the Year Winner</boardgamehonor>
+															<boardgamehonor objectid="60662">2019 Cardboard Republic Architect Laurel Nominee</boardgamehonor>
+															<boardgamehonor objectid="61426">2019 Golden Geek Best Board Game Artwork &amp; Presentation Nominee</boardgamehonor>
+															<boardgamehonor objectid="61711">2019 Golden Geek Best Board Game Artwork &amp; Presentation Winner</boardgamehonor>
+															<boardgamehonor objectid="61428">2019 Golden Geek Best Card Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="61713">2019 Golden Geek Best Card Game Winner</boardgamehonor>
+															<boardgamehonor objectid="61437">2019 Golden Geek Best Family Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="61715">2019 Golden Geek Best Family Board Game Winner</boardgamehonor>
+															<boardgamehonor objectid="61433">2019 Golden Geek Best Solo Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="61718">2019 Golden Geek Best Solo Board Game Winner</boardgamehonor>
+															<boardgamehonor objectid="61434">2019 Golden Geek Best Strategy Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="61719">2019 Golden Geek Best Strategy Board Game Winner</boardgamehonor>
+															<boardgamehonor objectid="61431">2019 Golden Geek Board Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="61722">2019 Golden Geek Board Game of the Year Winner</boardgamehonor>
+															<boardgamehonor objectid="61424">2019 Golden Geek Most Innovative Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="61723">2019 Golden Geek Most Innovative Board Game Winner</boardgamehonor>
+															<boardgamehonor objectid="64299">2019 Gouden Ludo Best Expert Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="64305">2019 Gouden Ludo Best Expert Game Winner</boardgamehonor>
+															<boardgamehonor objectid="56348">2019 Kennerspiel des Jahres Nominee</boardgamehonor>
+															<boardgamehonor objectid="56968">2019 Kennerspiel des Jahres Winner</boardgamehonor>
+															<boardgamehonor objectid="65358">2019 Lys Passioné Finalist</boardgamehonor>
+															<boardgamehonor objectid="64693">2019 Meeples&#039; Choice Nominee</boardgamehonor>
+															<boardgamehonor objectid="58024">2019 Nederlandse Spellenprijs Best Expert Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="64460">2019 Swiss Gamers Award Nominee</boardgamehonor>
+															<boardgamehonor objectid="64452">2019 Swiss Gamers Award Winner</boardgamehonor>
+															<boardgamehonor objectid="64440">2019 Tric Trac d&#039;Argent</boardgamehonor>
+															<boardgamehonor objectid="64438">2019 Tric Trac Nominee</boardgamehonor>
+															<boardgamehonor objectid="73368">2020 American Tabletop Strategy Games Winner</boardgamehonor>
+															<boardgamehonor objectid="65040">2020 Gra Roku Family Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="64339">2020 Guldbrikken Best Adult Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="70400">2020 Japan Boardgame Prize Voters&#039; Selection Nominee</boardgamehonor>
+															<boardgamehonor objectid="70580">2020 Japan Boardgame Prize Voters&#039; Selection Nominee</boardgamehonor>
+															<boardgamehonor objectid="65463">2020 JUG Adult Game of the Year Finalist</boardgamehonor>
+															<boardgamehonor objectid="65599">2020 JUG Adult Game of the Year Winner</boardgamehonor>
+															<boardgamepodcastepisode objectid="420223">27: Birds of One Weather (Atlantis Rising, Wingspan, Mutant Year Zero, Mind MGMT)</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="376337">5: Christmas Cardboard (Kingdom Death Black Friday Update)</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="296934">6-25-19</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="275956">63. DDP Sam i back on A wing and a fireball, Fireball Island and Wingspan</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="284339">64. DDP Lots of Board Games Again: Architects of the West Kingdom, Clank In Space, Die hard</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="292140">66. DDP The UKGE Preview show 2019</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="307616">69. DDP, What a load of Clank!, Tapestry, funkoverse, Emprires of the North,</boardgamepodcastepisode>
+															<boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+															<boardgameinsertdesigner objectid="95103">Noah Adelman</boardgameinsertdesigner>
+															<boardgamepodcastepisode objectid="367935">Adventures In Tabletop Simulator and Wingspan</boardgamepodcastepisode>
+															<boardgamepublisher objectid="38809">Angry Lion Games</boardgamepublisher>
+															<boardgameversion objectid="471202">Angry Lion Korean edition</boardgameversion>
+															<boardgamecategory objectid="1089">Animals</boardgamecategory>
+															<boardgamefamily objectid="45672">Animals: Birds</boardgamefamily>
+															<boardgamefamily objectid="7657">Animals: Crows / Ravens / Magpies</boardgamefamily>
+															<boardgamefamily objectid="7306">Animals: Ducks</boardgamefamily>
+															<boardgamefamily objectid="18887">Animals: Geese</boardgamefamily>
+															<boardgamefamily objectid="18588">Animals: Owls</boardgamefamily>
+															<boardgamefamily objectid="17963">Animals: Turkeys</boardgamefamily>
+															<boardgamepublisher objectid="3475">Arclight</boardgamepublisher>
+																						<boardgamepublisher objectid="50565">Bluebird Games</boardgamepublisher>
+															<boardgamepodcastepisode objectid="275876">Board Game Buffet #35  Wingspan; Azul Stained Glass; Pandemic: Fall of Rome</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="307415">Board Game Buffet: Episode 50 Quacks of Quedlinburg. Just One, WIngspan</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="292268">Board Game Kiki Episode 5: Art</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="325216">Board Game Kiki Episode 7: Holiday Gift Guide</boardgamepodcastepisode>
+															<boardgamepublisher objectid="7162">Brain Games</boardgamepublisher>
+																						<boardgameversion objectid="592173">Bulgarian edition</boardgameversion>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="448045">Chinese edition</boardgameversion>
+															<boardgamefamily objectid="66553">Components: Control Boards</boardgamefamily>
+															<boardgamefamily objectid="65328">Components: Dice with Icons</boardgamefamily>
+															<boardgamefamily objectid="66772">Components: Drop Tower</boardgamefamily>
+															<boardgamefamily objectid="48877">Components: Game Trayz Inside</boardgamefamily>
+															<boardgamemechanic objectid="2912">Contracts</boardgamemechanic>
+															<boardgameversion objectid="461082">Czech edition</boardgameversion>
+															<boardgameversion objectid="604978">Czech third edition</boardgameversion>
+															<boardgameversion objectid="498203">Czech/Slovak edition</boardgameversion>
+															<boardgameversion objectid="531978">Danish edition</boardgameversion>
+															<boardgamepodcastepisode objectid="303548">DDP 68. Post-show Holiday, Post-show GenCon Post-show Everything else!</boardgamepodcastepisode>
+															<boardgamepublisher objectid="6194">Delta Vision Publishing</boardgamepublisher>
+															<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgamefamily objectid="70948">Digital Implementations: Tabletopia</boardgamefamily>
+															<boardgamepublisher objectid="40415">Divercentro</boardgamepublisher>
+															<boardgameversion objectid="475887">Divercentro Portuguese edition</boardgameversion>
+															<boardgameversion objectid="435420">Dutch edition</boardgameversion>
+																																											<boardgamepodcastepisode objectid="356996">E12 | Games | Builders, Start your Engines</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="312165">Eat Chit &amp;amp; Dice – Episode 68 – The Birds and the Bees</boardgamepodcastepisode>
+															<boardgamecategory objectid="1094">Educational</boardgamecategory>
+															<boardgamemechanic objectid="2875">End Game Bonuses</boardgamemechanic>
+															<boardgameversion objectid="433233">English edition</boardgameversion>
+															<boardgameversion objectid="474967">English edition with Swift-Start Pack</boardgameversion>
+																						<boardgamepodcastepisode objectid="343600">Ep 22- The Tabletop Sessions Awards 2019</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="366050">Ep 29- Games To Save For Humanity</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="370014">Ep 31- An Interview With Pillbox Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="278363">Ep 5- The Tabletop Sessions Awards 2018</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="393394">Ep 8: Wingspan - By Stonemeir Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="278358">Ep. 24 - Wingspan Review</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="311220">Ep.49 Wingspan, Tableau Building, and Most Likely to Birds</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="429178">Episode 014: Shuffle Birdies</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="288355">Episode 101 :: Duck Squeezer</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="354099">Episode 107 - Top 5 Game Themes</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="402656">Episode 114: Le Havre, Juicy Fruits, Mini Express</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="403442">Episode 116: Special guest: Matt Riddle! Plus Aeon’s End Outcasts,  Painting Warhammer Age of Sigmar, Merv, Fantastic Factories</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="431751">Episode 117: 2nd Opinions: Cat Lady, Ubongo, Wingspan, Can&#039;t Stop, Pandemic: Iberia</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="379406">Episode 122 - Alphabetical Part 1</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="388295">Episode 127 - Savor the Flavor</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="351055">Episode 127 :: Best Boardgames of 2019</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="446223">Episode 12: Top 5 BGG 100 Games We Want to Play</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="309390">Episode 134 - Pit Spit</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="360732">Episode 13: Clank!, Wingspan, Unfair</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="380732">Episode 140 :: New Year, New You</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="281871">Episode 142: Teotihuacan: City of Gods</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="353008">Episode 150: The Top 10 Games of 2019</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="430774">Episode 170 - Top 10 Overrated Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="434767">Episode 178: Special Guests - Ben Pinchback &amp;amp; Adam Hill from Motor City Gameworks</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="360728">Episode 17: Special Guest: Jamey Stegmaier #Ep17</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="299328">Episode 19 - Spiel des Jahres 2019</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="302954">Episode 20 - Top 50 Games Part 1</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="298086">Episode 22: Behavioral Economics in Games with a Special Guest</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="351661">Episode 23 - Games in the Time of Coronavirus</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="328708">Episode 27 – Holiday Special 2019</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="332326">Episode 29 – Wingspan Expansion and other Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="365508">Episode 42 – Don’t Panic</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="275437">Episode 47 - Let&#039;s Talk About Trains, Baby</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="278354">Episode 54: Otys, Wingspan, 1846, Lanterns: The Harvest Festival, Gizmos</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="330600">Episode 56: Tableau Building</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="276997">Episode 7 - Between Two Castles of Mad King Ludwig &amp;amp; Showdown between Kingdomino and Queendomino</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="278547">Episode 72 - The 2018 Blitzies</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="380875">Episode 72: A War of Whispers, Dice Forge, Raiders of the North Sea</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="283392">Episode 74 - Dice Tower West Recap</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="390204">Episode 8 - Wingspan</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="294389">Episode 81 - Awarded Excellence</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="303071">Episode 85 - What&#039;s Hype Got To Do With It?</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="308605">Episode 87 - It&#039;s Only Natural</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="325567">Episode 94 - Did You Notice A Theme?</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="278338">Episode 96 :: Matrix Computer Intrusion</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="334423">Episode 98 - The 2019 Blitzies</boardgamepodcastepisode>
+															<boardgameversion objectid="561388">Estonian edition</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamepublisher objectid="22380">Feuerland Spiele</boardgamepublisher>
+															<boardgameversion objectid="501112">Finnish edition</boardgameversion>
+																																				<boardgamepodcastepisode objectid="378828">Folge 03 - Flügelschlag</boardgamepodcastepisode>
+															<boardgameversion objectid="433839">French edition</boardgameversion>
+															<boardgameversion objectid="529409">French second edition with Swift-Start Pack</boardgameversion>
+															<boardgameexpansion objectid="339017">Frogmouth Fan Pack (fan expansion for Wingspan)</boardgameexpansion>
+															<boardgamefamily objectid="58267">Game: Wingspan</boardgamefamily>
+															<boardgamepodcastepisode objectid="285803">Garrett&#039;s Games 666 - Our Devilish Top Ten Choices!</boardgamepodcastepisode>
+															<commerceweblink objectid="292821">Geek Game Shop listing for Wingspan</commerceweblink>
+															<boardgameversion objectid="438508">German first edition</boardgameversion>
+																																				<boardgameversion objectid="464873">German second edition</boardgameversion>
+															<boardgameversion objectid="479290">German third edition</boardgameversion>
+															<boardgamepublisher objectid="4785">Ghenos Games</boardgamepublisher>
+																						<boardgameversion objectid="534256">Greek edition</boardgameversion>
+															<boardgamepublisher objectid="46884">Green Elephant Games</boardgamepublisher>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamedesigner objectid="111338">Elizabeth Hargrave</boardgamedesigner>
+																						<boardgamepodcastepisode objectid="274696">HLG 59: Themawensen</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="283641">HLG 63: Tafelgast: Erwin Broens</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="284398">HLG 64: Zuiderspel 2019</boardgamepodcastepisode>
+															<boardgameversion objectid="435127">Hungarian edition</boardgameversion>
+															<boardgamepodcastepisode objectid="282887">Introducing Josh and talking about a bunch of games…Especially Stonemaier Games</boardgamepodcastepisode>
+															<boardgameversion objectid="452283">Italian edition</boardgameversion>
+															<boardgameversion objectid="524651">Japanese edition</boardgameversion>
+															<boardgamepublisher objectid="6214">Kaissa Chess &amp; Games</boardgamepublisher>
+															<boardgamepublisher objectid="8291">Korea Boardgames Co., Ltd.</boardgamepublisher>
+															<boardgameversion objectid="542966">Korea Boardgames Korean edition</boardgameversion>
+															<boardgameversion objectid="561387">Latvian edition</boardgameversion>
+															<boardgamepublisher objectid="3218">Lautapelit.fi</boardgamepublisher>
+															<boardgamepublisher objectid="34801">Lavka Games</boardgamepublisher>
+															<boardgameversion objectid="561390">Lithuanian edition</boardgameversion>
+															<boardgamepublisher objectid="29242">Ludofy Creative</boardgamepublisher>
+															<boardgameversion objectid="439205">Ludofy Creative Portuguese edition</boardgameversion>
+															<boardgamepublisher objectid="30677">Maldito Games</boardgamepublisher>
+															<boardgamepublisher objectid="5400">Matagot</boardgamepublisher>
+															<boardgameartist objectid="41862">Greg May</boardgameartist>
+															<boardgamefamily objectid="27646">Mechanism: Tableau Building</boardgamefamily>
+															<boardgamepodcastepisode objectid="290955">MeepleCore Podcast Episode 74 - Wingspan, Can a game be too balanced, Top 5 youtube binges, and more!</boardgamepodcastepisode>
+																						<boardgamepublisher objectid="7992">MINDOK</boardgamepublisher>
+															<boardgamepublisher objectid="51614">MIPL</boardgamepublisher>
+															<boardgamepodcastepisode objectid="299388">MM Episode 1 - Wingspan</boardgamepodcastepisode>
+																													<boardgamepodcastepisode objectid="294259">Nemo’s War, Aeon&#039;s End &amp;amp; Solo Spellen (met Stidjen Plays Solo)</boardgamepodcastepisode>
+															<boardgamepublisher objectid="32395">NeoTroy Games</boardgamepublisher>
+																						<boardgamepodcastepisode objectid="377662">N°122 – Chroniques</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="384842">N°124 – Chroniques</boardgamepodcastepisode>
+																													<boardgamemechanic objectid="2846">Once-Per-Game Abilities</boardgamemechanic>
+															<boardgamemechanic objectid="2041">Open Drafting</boardgamemechanic>
+															<boardgamefamily objectid="72487">Organizations: Automa Factory</boardgamefamily>
+															<boardgamepodcastepisode objectid="289641">Out of the Dust Ep38 - Portal of Heroes</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="303587">Out of the Dust Ep47 - Raiders of the North Sea, Trogdor, and Ad Astra</boardgamepodcastepisode>
+																						<boardgamefamily objectid="5666">Players: Games with Solitaire Rules</boardgamefamily>
+															<boardgamepodcastepisode objectid="294028">Playing all the 2019 Spiel des Jahres Nominees, BGG.Spring, plus Batman, Endeavor, Tiny Towns, Feudum, Merlin, and an RPG</boardgamepodcastepisode>
+															<boardgameversion objectid="438574">Polish edition</boardgameversion>
+															<boardgamepodcastepisode objectid="427254">RA episode 075 Birds and Borderlands</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="353858">RDTN Episode 200: Co-host Auditions, Ride the Rails, Gulf, Mobile &amp;amp; Ohio, Undaunted: North Africa, Wingspan</boardgamepodcastepisode>
+															<boardgamepublisher objectid="7466">Rebel Sp. z o.o.</boardgamepublisher>
+																																				<boardgamepublisher objectid="44241">Regatul Jocurilor</boardgamepublisher>
+																																				<boardgameversion objectid="483067">Romanian edition</boardgameversion>
+															<boardgamepodcastepisode objectid="284577">Round 1, Turn 1: &quot;Wingspan&quot; with Tom and Welcome!</boardgamepodcastepisode>
+																																				<boardgameversion objectid="456102">Russian edition</boardgameversion>
+															<boardgamegraphicdesigner objectid="135473">Christine Santana</boardgamegraphicdesigner>
+															<boardgameversion objectid="581207">Serbian edition</boardgameversion>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+															<boardgamepublisher objectid="33998">Siam Board Games</boardgamepublisher>
+															<boardgameartist objectid="71164">Beth Sobel</boardgameartist>
+															<boardgamemechanic objectid="2819">Solo / Solitaire Game</boardgamemechanic>
+															<boardgamepodcastepisode objectid="286814">Somethings Old and Somethings New</boardgamepodcastepisode>
+															<boardgameversion objectid="434480">Spanish edition</boardgameversion>
+															<boardgamepodcastepisode objectid="291783">Spiel des Jahres 2019 Predictions, Wingspan, Food Chain Magnate, Viticulture, 7 Wonders Armada, Auztralia, and some important news!</boardgamepodcastepisode>
+																													<boardgamepodcastepisode objectid="296419">Strange Assembly 262 - International Tabletop Day 2019</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="349785">Strange Assembly 280 - Wingspan</boardgamepodcastepisode>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamesolodesigner objectid="115324">David J. Studley</boardgamesolodesigner>
+															<boardgamepublisher objectid="36763">Surfin&#039; Meeple China</boardgamepublisher>
+															<boardgameversion objectid="527618">Swedish edition</boardgameversion>
+															<boardgameversion objectid="472139">Thai edition</boardgameversion>
+															<boardgamepodcastepisode objectid="295668">The Dice Men Cometh – Episode 264</boardgamepodcastepisode>
+																						<boardgamefamily objectid="59442">Theme: Biology</boardgamefamily>
+															<boardgamefamily objectid="48871">Theme: Nature</boardgamefamily>
+															<boardgameversion objectid="517794">Turkish edition</boardgameversion>
+															<boardgamemechanic objectid="2828">Turn Order: Progressive</boardgamemechanic>
+															<boardgameversion objectid="517759">Ukrainian edition</boardgameversion>
+															<boardgamepodcastepisode objectid="312718">Ultimate Werewolf Legacy | Wingspan | The Cattlemen</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="281872">Wingspan</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="295736">Wingspan</boardgamepodcastepisode>
+															<videogamebg objectid="286248">Wingspan</videogamebg>
+																						<boardgameaccessory objectid="347405">Wingspan + European and Oceania expansion: Game Tamer Organizer</boardgameaccessory>
+																																																																																																																																																																									<boardgamepodcastepisode objectid="348654">Wingspan, Miyabi, Kickstarters Are Still Steaming Onwards - Boards &amp;amp; Swords #149</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="286031">Wingspan, Trapwords en Top 10 Spellen uit 2014</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="298060">Wingspan, Unbroken, and the Solo Tabletop Game Experience</boardgamepodcastepisode>
+																						<boardgameexpansion objectid="366161">Wingspan: Asia Expansion</boardgameexpansion>
+															<boardgameaccessory objectid="279529">Wingspan: Birdhouse Upgrade Kit (40 pcs)</boardgameaccessory>
+															<boardgameaccessory objectid="288012">Wingspan: Broken Token Organizer</boardgameaccessory>
+															<boardgameaccessory objectid="319459">Wingspan: Card Update Pack</boardgameaccessory>
+															<boardgameaccessory objectid="321747">Wingspan: Double-Sided Wrapped-Edge Goal Board</boardgameaccessory>
+															<boardgameaccessory objectid="309487">Wingspan: e-Raptor Insert</boardgameaccessory>
+															<boardgameaccessory objectid="306762">Wingspan: Egg Miniatures (75 pcs)</boardgameaccessory>
+															<boardgameexpansion objectid="290448">Wingspan: European Expansion</boardgameexpansion>
+															<boardgameaccessory objectid="315526">Wingspan: Folded Space Insert</boardgameaccessory>
+															<boardgameaccessory objectid="330947">Wingspan: Folded Space Insert (Second edition)</boardgameaccessory>
+															<boardgameaccessory objectid="291710">Wingspan: GeekUp Bit Set</boardgameaccessory>
+															<boardgameaccessory objectid="308310">Wingspan: GeekUp Mini 1st Player Figure</boardgameaccessory>
+															<boardgameaccessory objectid="328253">Wingspan: Holy Tokens Realistic Food Tokens</boardgameaccessory>
+																						<boardgameaccessory objectid="271952">Wingspan: Insert Here Insert</boardgameaccessory>
+															<boardgameaccessory objectid="365511">Wingspan: Meeple Source 3D Printed Nests</boardgameaccessory>
+															<boardgameaccessory objectid="279528">Wingspan: Meeple Source Bird Food Upgrade Kit (105 pcs)</boardgameaccessory>
+															<boardgameaccessory objectid="279530">Wingspan: Meeple Source Deluxe Bird Upgrade Set (81 pcs)</boardgameaccessory>
+															<boardgameaccessory objectid="326043">Wingspan: Mini Dice Tower Kit – Birdhouse</boardgameaccessory>
+															<boardgameaccessory objectid="366362">Wingspan: Momo Monster Action Bird Pieces Upgrade</boardgameaccessory>
+															<boardgameaccessory objectid="308098">Wingspan: Momo Monster Food Tokens</boardgameaccessory>
+															<boardgameaccessory objectid="299030">Wingspan: Mücke Spiele Wooden Token Set</boardgameaccessory>
+															<boardgameaccessory objectid="316489">Wingspan: Neoprene Player Mat</boardgameaccessory>
+															<boardgameaccessory objectid="366363">Wingspan: Oceana Expansion – Momo Monster 70-Piece Nectar Upgrade Set</boardgameaccessory>
+															<boardgameexpansion objectid="300580">Wingspan: Oceania Expansion</boardgameexpansion>
+															<boardgameaccessory objectid="346690">Wingspan: Oceania Expansion – GeekUp Bit Set</boardgameaccessory>
+															<boardgameaccessory objectid="336149">Wingspan: Oceania Expansion – Meeple Source Nectar tokens (69 pcs)</boardgameaccessory>
+															<boardgameaccessory objectid="365816">Wingspan: Oceania Expansion – Tower Rex 48-Piece Wooden Nectar Token Set</boardgameaccessory>
+															<boardgameaccessory objectid="331898">Wingspan: Pair of Single-Sided Neoprene Goal Mats</boardgameaccessory>
+															<boardgameaccessory objectid="308103">Wingspan: Shipshape Game Box Organizer</boardgameaccessory>
+															<boardgameaccessory objectid="343462">Wingspan: Shipshape Gamer Owl Player Markers</boardgameaccessory>
+															<boardgameaccessory objectid="339260">Wingspan: Speckled Eggs</boardgameaccessory>
+															<boardgameexpansion objectid="290837">Wingspan: Swift-Start Promo Pack</boardgameexpansion>
+															<boardgameaccessory objectid="305000">Wingspan: The Game Doctors Insert</boardgameaccessory>
+															<boardgameaccessory objectid="348603">Wingspan: The GiftForge Insert</boardgameaccessory>
+															<boardgameaccessory objectid="365817">Wingspan: Tower Rex 105-Piece Wooden Food Token Set</boardgameaccessory>
+															<boardgameaccessory objectid="365812">Wingspan: Tower Rex 40-Piece Player Token Set</boardgameaccessory>
+															<boardgameaccessory objectid="294178">Wingspan: Tower Rex Organizer</boardgameaccessory>
+															<boardgameaccessory objectid="365803">Wingspan: Tower Rex Playerboard</boardgameaccessory>
+															<boardgameaccessory objectid="365802">Wingspan: Tower Rex Scoreboard</boardgameaccessory>
+															<boardgameaccessory objectid="292334">Wingspan: WingMate</boardgameaccessory>
+															<boardgameaccessory objectid="284961">Wingspan: Wooden Dice Tower</boardgameaccessory>
+															<boardgamepublisher objectid="44209">Ігромаг</boardgamepublisher>
+																				
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1316">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="74" />
+					<result value="Recommended" numvotes="537" />
+					<result value="Not Recommended" numvotes="202" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="359" />
+					<result value="Recommended" numvotes="706" />
+					<result value="Not Recommended" numvotes="69" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="733" />
+					<result value="Recommended" numvotes="369" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="355" />
+					<result value="Recommended" numvotes="576" />
+					<result value="Not Recommended" numvotes="118" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="359" />
+					<result value="Not Recommended" numvotes="499" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="608" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="84">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="26" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="57" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="306">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="10" />
+					<result value="8" numvotes="119" />
+					<result value="10" numvotes="130" />
+					<result value="12" numvotes="42" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>65264</usersrated>
+					<average>8.08836</average>
+					<bayesaverage>7.93766</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24" bayesaverage="7.93766" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="28" bayesaverage="7.87953" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1" bayesaverage="7.95346" />
+												
+											</ranks>
+					
+					<stddev>1.34421</stddev>
+					<median>0</median>
+					<owned>98760</owned>
+					<trading>363</trading>
+					<wanting>1493</wanting>
+					<wishing>15133</wishing>
+					<numcomments>8949</numcomments>
+					<numweights>2213</numweights>
+					<averageweight>2.4478</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

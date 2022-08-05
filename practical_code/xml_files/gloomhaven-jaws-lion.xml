@@ -1,0 +1,246 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="291457">
+			<yearpublished>2020</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>14</age>
+
+							<name  sortindex="1">Gloomhaven. Мрачная гавань: Челюсти льва</name>
+							<name  sortindex="1">Gloomhaven: Die Pranken des Löwen</name>
+							<name  sortindex="1">Gloomhaven: Fauces del León</name>
+							<name primary="true" sortindex="1">Gloomhaven: Jaws of the Lion</name>
+							<name  sortindex="1">Gloomhaven: Les machoires du Lion</name>
+							<name  sortindex="1">Gloomhaven: Lví chřtán</name>
+							<name  sortindex="1">Gloomhaven: Szczęki Lwa</name>
+							<name  sortindex="1">Homályrév: Az oroszlánfalka</name>
+							<name  sortindex="1">กลูมเฮเวนคมเขี้ยวราชสีห์</name>
+							<name  sortindex="1">グルームヘイヴン スタートセット 獅子のあぎと</name>
+							<name  sortindex="1">幽港迷城：雄狮蛮颚</name>
+							<name  sortindex="1">글룸헤이븐: 사자의 턱</name>
+									
+			<description>Gloomhaven: Jaws of the Lion is a standalone game that takes place before the events of Gloomhaven. The game includes four new characters &amp;mdash; Valrath Red Guard (tank, crowd control), Inox Hatchet (ranged damage), Human Voidwarden (support, mind-control), and Quatryl Demolitionist (melee damage, obstacle manipulation) &amp;mdash; that can also be used in the original Gloomhaven game.&lt;br/&gt;&lt;br/&gt;The game also includes 16 monster types (including seven new standard monsters and three new bosses) and a new campaign with 25 scenarios that invites the heroes to investigate a case of mysterious disappearances within the city. Is it the work of Vermlings, or is something far more sinister going on?&lt;br/&gt;&lt;br/&gt;Gloomhaven: Jaws of the Lion is aimed at a more casual audience to get people into the gameplay more quickly. All of the hard-to-organize cardboard map tiles have been removed, and instead players will play on the scenario book itself, which features new artwork unique to each scenario. The last barrier to entry &amp;mdash; i.e., learning the game &amp;mdash; has also been lowered through a simplified rule set and a five-scenario tutorial that will ease new players into the experience.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__thumb/img/OMkN_E5eyWrkID_cHCnQEbIixGM=/fit-in/200x150/filters:strip_icc()/pic5055631.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__original/img/PBzsLRqNKQKJxGnzpb7o3qLWPQM=/0x0/filters:format(jpeg)/pic5055631.jpg</image>
+						
+												<boardgamepublisher objectid="27425">Cephalofair Games</boardgamepublisher>
+															<boardgamepodcastepisode objectid="408284">1P 216 - Gloomhavens</boardgamepodcastepisode>
+															<boardgamehonor objectid="69129">2020 Dragon Awards Best Science Fiction or Fantasy Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="70371">2020 Golden Geek Best Cooperative Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="70472">2020 Golden Geek Best Cooperative Game Winner</boardgamehonor>
+															<boardgamehonor objectid="70383">2020 Golden Geek Best Solo Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="70384">2020 Golden Geek Best Thematic Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="70475">2020 Golden Geek Best Thematic Board Game Winner</boardgamehonor>
+															<boardgamehonor objectid="70381">2020 Golden Geek Heavy Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="70478">2020 Golden Geek Heavy Game of the Year Winner</boardgamehonor>
+															<boardgamehonor objectid="66978">2020 Guldbrikken Best Expert Game Winner</boardgamehonor>
+															<boardgamehonor objectid="73344">2021 American Tabletop Complex Games Recommended</boardgamehonor>
+															<boardgamehonor objectid="75324">2021 Goblin Magnifico Nominee</boardgamehonor>
+															<boardgamehonor objectid="75326">2021 Goblin Magnifico Winner</boardgamehonor>
+															<boardgamehonor objectid="72010">2021 International Gamers Award Two-player Nominee</boardgamehonor>
+															<boardgamehonor objectid="70798">2021 Kennerspiel des Jahres Recommended</boardgamehonor>
+															<boardgamemechanic objectid="2689">Action Queue</boardgamemechanic>
+															<boardgamemechanic objectid="2839">Action Retrieval</boardgamemechanic>
+															<boardgamecategory objectid="1022">Adventure</boardgamecategory>
+															<boardgamepublisher objectid="4304">Albi</boardgamepublisher>
+															<boardgamepublisher objectid="46179">Albi Polska</boardgamepublisher>
+															<boardgamepublisher objectid="3475">Arclight</boardgamepublisher>
+															<boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+															<boardgamepublisher objectid="47848">Asmodee China</boardgamepublisher>
+															<boardgamepublisher objectid="42032">Asmodee Italia</boardgamepublisher>
+															<boardgameartist objectid="79079">Francesca Baerald</boardgameartist>
+															<boardgamegraphicdesigner objectid="117150">Cat Bock</boardgamegraphicdesigner>
+															<boardgamegraphicdesigner objectid="116989">David Bock</boardgamegraphicdesigner>
+															<boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+															<boardgamefamily objectid="59218">Category: Dungeon Crawler</boardgamefamily>
+															<boardgamedesigner objectid="69802">Isaac Childres</boardgamedesigner>
+															<boardgamewriter objectid="69802">Isaac Childres</boardgamewriter>
+															<boardgameversion objectid="589447">Chinese edition</boardgameversion>
+															<boardgamemechanic objectid="2893">Communication Limits</boardgamemechanic>
+															<boardgamefamily objectid="62475">Components: Book as Board</boardgamefamily>
+															<boardgamefamily objectid="25158">Components: Miniatures</boardgamefamily>
+															<boardgamefamily objectid="65191">Components: Multi-Use Cards</boardgamefamily>
+															<boardgamefamily objectid="66335">Components: Standees</boardgamefamily>
+															<boardgamemechanic objectid="2023">Cooperative Game</boardgamemechanic>
+															<boardgamemechanic objectid="2854">Critical Hits and Failures</boardgamemechanic>
+															<boardgamedeveloper objectid="108338">Marcel Cwertetschka-Mattasits</boardgamedeveloper>
+															<boardgameversion objectid="574055">Czech edition</boardgameversion>
+															<boardgamemechanic objectid="3004">Deck Construction</boardgamemechanic>
+															<boardgameartist objectid="66266">David Demaret</boardgameartist>
+															<boardgameartist objectid="77084">Alexandr Elichev</boardgameartist>
+															<boardgameversion objectid="476060">English edition</boardgameversion>
+															<boardgamepodcastepisode objectid="362523">Ep 28- Kennerspiel Des Jahres 2020 Review Runthrough &amp;amp; Top 3 Games to End Friendships</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="316957">Episode  157- Abomination: The Heir of Frankenstein</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="444091">Episode 10: Top 5 Cooperative Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="386250">Episode 143 :: TREASURE!</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="375452">Episode 155 - Pit Spit</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="430036">Episode 167: Voyages, Anno  1800, Mini Express, Nyet!</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="355771">Episode 174: Nevada City</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="384622">Episode 18: Targi with Andy Steiger</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="377789">Episode 63: Top 10 Games of 2020... According to Sarah &amp;amp; Steve</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="414505">Episode 73: Regicide, Jaws of the Lion, Super Mega Lucky Box, So Clover, Cloud Control - Top 5 Games of Interest for Gencon</boardgamepodcastepisode>
+															<boardgamecategory objectid="1020">Exploration</boardgamecategory>
+															<boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+															<boardgamepublisher objectid="22380">Feuerland Spiele</boardgamepublisher>
+															<boardgamecategory objectid="1046">Fighting</boardgamecategory>
+															<boardgameversion objectid="597657">French edition</boardgameversion>
+															<boardgameintegration objectid="295770">Frosthaven</boardgameintegration>
+															<boardgamefamily objectid="45610">Game: Gloomhaven</boardgamefamily>
+															<commerceweblink objectid="328623">Geek Game Shop listing for Gloomhaven Jaws of The Lion</commerceweblink>
+															<boardgamepublisher objectid="8820">Gém Klub Kft.</boardgamepublisher>
+															<boardgameversion objectid="490499">German edition</boardgameversion>
+																													<boardgameintegration objectid="174430">Gloomhaven</boardgameintegration>
+															<videogamebg objectid="261209">Gloomhaven</videogamebg>
+																																				<boardgameaccessory objectid="339530">Gloomhaven: Jaws of the Lion – 3D-GamePrints Character box</boardgameaccessory>
+															<boardgameaccessory objectid="322903">Gloomhaven: Jaws of the Lion – Folded Space Insert</boardgameaccessory>
+															<boardgameaccessory objectid="326939">Gloomhaven: Jaws of the Lion – Laserox Organizer</boardgameaccessory>
+															<boardgameaccessory objectid="366335">Gloomhaven: Jaws of the Lion – Momo Monster Playmat</boardgameaccessory>
+															<boardgameaccessory objectid="346243">Gloomhaven: Jaws of the Lion – reDrewno Insert</boardgameaccessory>
+															<boardgameaccessory objectid="338400">Gloomhaven: Jaws of the Lion – Removable Sticker Set and Map</boardgameaccessory>
+															<boardgameexpansion objectid="354666">Gloomhaven: Jaws of the Lion – Roguish Individuals</boardgameexpansion>
+															<boardgameaccessory objectid="332707">Gloomhaven: Jaws of the Lion – The Broken Token Initiative Tracker</boardgameaccessory>
+															<boardgameaccessory objectid="332706">Gloomhaven: Jaws of the Lion – The Broken Token Organizer</boardgameaccessory>
+															<boardgameaccessory objectid="348632">Gloomhaven: Jaws of the Lion – The GiftForge Insert</boardgameaccessory>
+															<boardgameaccessory objectid="365798">Gloomhaven: Jaws of the Lion – Tower Rex Dashboard</boardgameaccessory>
+															<boardgameaccessory objectid="365826">Gloomhaven: Jaws of the Lion – Tower Rex Organizer</boardgameaccessory>
+															<boardgameaccessory objectid="365831">Gloomhaven: Tower Rex Character Dashboard</boardgameaccessory>
+															<boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+															<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamemechanic objectid="2026">Hexagon Grid</boardgamemechanic>
+															<boardgamepublisher objectid="18852">Hobby World</boardgamepublisher>
+															<boardgameversion objectid="605207">Hungarian edition</boardgameversion>
+															<boardgameversion objectid="561027">Italian edition</boardgameversion>
+															<boardgameversion objectid="612551">Japanese edition</boardgameversion>
+																						<boardgamegraphicdesigner objectid="53573">Jason D. Kingsley</boardgamegraphicdesigner>
+															<boardgamepublisher objectid="8291">Korea Boardgames Co., Ltd.</boardgamepublisher>
+															<boardgameversion objectid="558825">Korean edition</boardgameversion>
+															<boardgamemechanic objectid="2824">Legacy Game</boardgamemechanic>
+															<boardgamesculptor objectid="17687">Chris Lewis</boardgamesculptor>
+															<boardgamemechanic objectid="2975">Line of Sight</boardgamemechanic>
+															<boardgamegraphicdesigner objectid="78961">Josh T. McDowell</boardgamegraphicdesigner>
+															<boardgamepublisher objectid="48269">Meanbook Games</boardgamepublisher>
+															<boardgamefamily objectid="24281">Mechanism: Campaign Games</boardgamefamily>
+															<boardgamefamily objectid="25404">Mechanism: Legacy</boardgamefamily>
+															<boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+															<boardgamefamily objectid="75241">Misc: Forteller Audio Narration</boardgamefamily>
+															<boardgamefamily objectid="72224">Misc: Limited Replayability</boardgamefamily>
+															<boardgamemechanic objectid="2846">Once-Per-Game Abilities</boardgamemechanic>
+															<boardgamedeveloper objectid="136499">Drew Penn</boardgamedeveloper>
+															<boardgamefamily objectid="5666">Players: Games with Solitaire Rules</boardgamefamily>
+															<boardgamepodcastepisode objectid="356198">Podcast #113 - The Double-Monster Solo-Roleplay Small-Box TeamBuilder 8000</boardgamepodcastepisode>
+															<boardgameversion objectid="524827">Polish edition</boardgameversion>
+															<boardgamepodcastepisode objectid="361640">RA episode 042 James Con</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="364464">RA episode 044 No Butts on Plus</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="355228">RDTN Episode 201: Isaac Childres Interview,  Gloomhaven: Jaws of the Lion</boardgamepodcastepisode>
+																						<boardgameversion objectid="577944">Russian edition</boardgameversion>
+															<boardgamemechanic objectid="2822">Scenario / Mission / Campaign Game</boardgamemechanic>
+															<boardgamepublisher objectid="33998">Siam Board Games</boardgamepublisher>
+															<boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+															<boardgamemechanic objectid="2819">Solo / Solitaire Game</boardgamemechanic>
+															<boardgameversion objectid="569018">Spanish edition</boardgameversion>
+																						<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgameversion objectid="587543">Thai edition</boardgameversion>
+															<boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+																													<boardgameintegration objectid="295770" inbound="true">Frosthaven</boardgameintegration>
+															<boardgameintegration objectid="174430" inbound="true">Gloomhaven</boardgameintegration>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="509">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="72" />
+					<result value="Recommended" numvotes="248" />
+					<result value="Not Recommended" numvotes="67" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="229" />
+					<result value="Recommended" numvotes="205" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="168" />
+					<result value="Recommended" numvotes="208" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="109" />
+					<result value="Recommended" numvotes="205" />
+					<result value="Not Recommended" numvotes="60" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="279" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="25">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="14" />
+					<result level="5" value="Unplayable in another language" numvotes="7" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="104">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="7" />
+					<result value="10" numvotes="19" />
+					<result value="12" numvotes="43" />
+					<result value="14" numvotes="32" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>21494</usersrated>
+					<average>8.60231</average>
+					<bayesaverage>8.25963</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4" bayesaverage="8.25963" />
+												
+							
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="3" bayesaverage="8.29553" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="6" bayesaverage="8.2525" />
+												
+											</ranks>
+					
+					<stddev>1.43265</stddev>
+					<median>0</median>
+					<owned>50373</owned>
+					<trading>479</trading>
+					<wanting>422</wanting>
+					<wishing>6721</wishing>
+					<numcomments>3151</numcomments>
+					<numweights>685</numweights>
+					<averageweight>3.6073</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

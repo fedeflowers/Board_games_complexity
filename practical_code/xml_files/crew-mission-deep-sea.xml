@@ -1,0 +1,170 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="324856">
+			<yearpublished>2021</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>20</playingtime>
+			<minplaytime>20</minplaytime>
+			<maxplaytime>20</maxplaytime>
+			<age>10</age>
+
+							<name  sortindex="4">De Crew: Missie Diepzee</name>
+							<name primary="true" sortindex="5">The Crew: Mission Deep Sea</name>
+							<name  sortindex="5">The Crew: Mission Sous-Marine</name>
+							<name  sortindex="5">Die Crew: Mission Tiefsee</name>
+							<name  sortindex="5">The Crew: Missione negli Abissi</name>
+							<name  sortindex="4">La Tripulación: Misión Mar Profundo</name>
+							<name  sortindex="1">Załoga: Wyprawa w głębiny</name>
+							<name  sortindex="1">Экипаж: Погружение в бездну</name>
+							<name  sortindex="1">딥 씨 크루: 심해에서의 임무</name>
+									
+			<description>In the trick-taking card game The Crew: Mission Deep Sea, you and the other players work together to search for the lost continent of Mu. This new adventure takes your crew deep down into the abyss on a search for the fabled sunken land. How far you get depends entirely on how well you work together as a team. Card by card, trick by trick, your search party will discover the challenges that lie ahead and forge a path to Mu.&lt;br/&gt;&lt;br/&gt;This new version of The Crew has the same innovative co-operative trick-taking mechanism as the highly lauded original game &amp;mdash; but with some exciting new surprises! While communication between your crew members is severely limited by your submerged state, it is also critical to your success; finding the hidden land in the murky depths depends not only on winning tricks, but also on carefully negotiating the order in which they are won. If things don't go as planned, you might just be able to salvage the operation, but it will take near flawless execution and perhaps a little luck to finally reach Mu.&lt;br/&gt;&lt;br/&gt;&amp;mdash;description from the publisher&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__thumb/img/EdacXlcFZ06YK0-ZKa0oKwL4VCw=/fit-in/200x150/filters:strip_icc()/pic5988903.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__original/img/jGWxczXC_VWZofeAmlO_DkB0hCI=/0x0/filters:format(jpeg)/pic5988903.jpg</image>
+						
+												<boardgamepublisher objectid="37">KOSMOS</boardgamepublisher>
+															<boardgamepodcastepisode objectid="421977">#41 - Co-op Games</boardgamepodcastepisode>
+																						<boardgamehonor objectid="75905">2021 Golden Geek Best Cooperative Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="75891">2021 Golden Geek Best Cooperative Game Winner</boardgamehonor>
+															<boardgamehonor objectid="75914">2021 Golden Geek Medium Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="75896">2021 Golden Geek Medium Game of the Year Winner</boardgamehonor>
+															<boardgamehonor objectid="76535">2022 American Tabletop Casual Games Recommended</boardgamehonor>
+															<boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+															<boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+															<boardgameartist objectid="120549">Marco Armbruster</boardgameartist>
+																						<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamemechanic objectid="2893">Communication Limits</boardgamemechanic>
+															<boardgamemechanic objectid="2023">Cooperative Game</boardgamemechanic>
+															<boardgameexpansion objectid="350373">Die Crew: Mission Tiefsee – Käpt&#039;n für einen Tag</boardgameexpansion>
+															<boardgamepublisher objectid="2366">Devir</boardgamepublisher>
+																						<boardgamefamily objectid="70360">Digital Implementations: Board Game Arena</boardgamefamily>
+																						<boardgameversion objectid="545821">Dutch edition</boardgameversion>
+																						<boardgameversion objectid="544693">English edition</boardgameversion>
+															<boardgamepodcastepisode objectid="445645">Episode 11: Dead Reckoning</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="438578">Episode 174 - Battle Report: AireCon 2022</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="436148">Episode 215: Lizard Wizard</boardgamepodcastepisode>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+																						<boardgameversion objectid="551081">French edition</boardgameversion>
+																						<boardgamepublisher objectid="4617">Galakta</boardgamepublisher>
+															<boardgamefamily objectid="63179">Game: The Crew</boardgamefamily>
+															<commerceweblink objectid="311938">Geek Game Shop listing for The Crew Mission Deep Sea</commerceweblink>
+															<boardgameversion objectid="537067">German edition</boardgameversion>
+																						<boardgamepublisher objectid="5530">Giochi Uniti</boardgamepublisher>
+															<boardgamepublisher objectid="8923">IELLO</boardgamepublisher>
+															<boardgameversion objectid="567169">Italian edition</boardgameversion>
+															<boardgamepublisher objectid="8291">Korea Boardgames Co., Ltd.</boardgamepublisher>
+															<boardgameversion objectid="615740">Korean edition</boardgameversion>
+															<boardgamefamily objectid="24281">Mechanism: Campaign Games</boardgamefamily>
+																																				<boardgameversion objectid="550153">Polish edition</boardgameversion>
+																						<boardgameversion objectid="583642">Russian edition</boardgameversion>
+															<boardgamemechanic objectid="2822">Scenario / Mission / Campaign Game</boardgamemechanic>
+															<boardgamedesigner objectid="45563">Thomas Sing</boardgamedesigner>
+															<boardgameversion objectid="625349">Spanish edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+																													<boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+																						<boardgamepublisher objectid="1466">Zvezda</boardgamepublisher>
+															<boardgameimplementation objectid="284083" inbound="true">The Crew: The Quest for Planet Nine</boardgameimplementation>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="95">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="63" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="40" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="60" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="61" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="42" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="50" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="19">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="13" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6554</usersrated>
+					<average>8.35742</average>
+					<bayesaverage>7.72701</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="52" bayesaverage="7.72701" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="34" bayesaverage="7.84939" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="4" bayesaverage="7.89071" />
+												
+											</ranks>
+					
+					<stddev>1.22708</stddev>
+					<median>0</median>
+					<owned>15040</owned>
+					<trading>69</trading>
+					<wanting>329</wanting>
+					<wishing>2900</wishing>
+					<numcomments>957</numcomments>
+					<numweights>124</numweights>
+					<averageweight>2.0161</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

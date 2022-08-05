@@ -114,19 +114,19 @@
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7033" bayesaverage="5.61569" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7035" bayesaverage="5.61569" />
 												
 							
 														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1601" bayesaverage="5.90041" />
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2019" bayesaverage="5.64401" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2020" bayesaverage="5.64401" />
 												
 											</ranks>
 					
 					<stddev>1.58488</stddev>
 					<median>0</median>
-					<owned>772</owned>
+					<owned>771</owned>
 					<trading>62</trading>
-					<wanting>24</wanting>
+					<wanting>23</wanting>
 					<wishing>93</wishing>
 					<numcomments>196</numcomments>
 					<numweights>54</numweights>

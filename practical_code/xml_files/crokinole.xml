@@ -1,0 +1,228 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="521">
+			<yearpublished>1876</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Crokinole</name>
+							<name  sortindex="1">Crokinolinho</name>
+							<name  sortindex="1">Croquignole</name>
+							<name  sortindex="1">Krokinole</name>
+							<name  sortindex="1">Krokonol</name>
+							<name  sortindex="1">Mini-crokinole</name>
+							<name  sortindex="1">クロキノール</name>
+							<name  sortindex="1">加拿大棋</name>
+							<name  sortindex="1">闘球盤</name>
+									
+			<description>Crokinole is a dexterity traditional game.&lt;br/&gt;&lt;br/&gt;Crokinole is played on a circular wooden board, with wooden circular disks as playing pieces.&lt;br/&gt;&lt;br/&gt;Players take turns shooting disks across the circular wooden board by flicking the disks with their fingers.  Players try to land their disks in scoring regions on the board, with the highest scoring area the recessed hole in the very center of the board.  Each round, each player/side alternately shoots a set number of disks (usually 12 or 8), shooting one disk each turn.&lt;br/&gt;&lt;br/&gt;As a traditional game, there are often many variations played, but the following method is based on the National Crokinole Association's rules which also govern the World Crokinole Championship.&lt;br/&gt;&lt;br/&gt;Players must position their disk on the start of each of their turns in their quadrant in front of them, touching the outer scoring ring boundary.&lt;br/&gt;&lt;br/&gt;If there are no opponent's disks on the board, they must aim for the center of the board.&lt;br/&gt;&lt;br/&gt;If there is an opponent's disk on the board, they must aim and hit an opponent's piece first, either directly, or by a carrom shot.&lt;br/&gt;&lt;br/&gt;The center recessed hole is worth 20 points, and disks are removed and scored at the end of the round if they land in the center hole.&lt;br/&gt;&lt;br/&gt;Disks that are outside the outer scoring ring at the end of each shot, or are touching the outer scoring ring at the end of each shot, are removed from play for the round.&lt;br/&gt;&lt;br/&gt;Scoring is by cancellation scoring (e.g. Player/Side One scores 250, and Player/Side Two scores 225, Player/Side One scores 25.)&lt;br/&gt;&lt;br/&gt;It is usually played as a two-player game or as a four-player game with partners.&lt;br/&gt;&lt;br/&gt;Play is to a set score, usually the first player/side to 100.&lt;br/&gt;&lt;br/&gt;Alternately, play is set at &amp;quot;Match Scoring&amp;quot; where the winner of each round scores 2 points, and if a tie, each player scores 1 point. A &amp;quot;game&amp;quot; is usually played to four rounds, with the winner of each &amp;quot;game&amp;quot; being the one with the most points. The numbers of &amp;quot;games&amp;quot; in a match is set by the tournament.&lt;br/&gt;&lt;br/&gt;The World Crokinole Championship uses &amp;quot;Match Scoring.&amp;quot;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/7ejbxsn-UtLl3ehamuAEdw__thumb/img/AX0pNTuAzpUfxlvtwirM6zAK4ws=/fit-in/200x150/filters:strip_icc()/pic79413.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/7ejbxsn-UtLl3ehamuAEdw__original/img/HJOZG6y87_skppfIqX-voRlhNxE=/0x0/filters:format(jpeg)/pic79413.jpg</image>
+						
+												<boardgamepublisher objectid="171">(Public Domain)</boardgamepublisher>
+															<boardgamepodcastepisode objectid="416720">#31 - Jeremy Tracey Crokinole</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="287747">#65: Board Games and Chill</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="305693">#83: Dexterous Laboratory</boardgamepodcastepisode>
+															<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamepublisher objectid="3320">(Unknown)</boardgamepublisher>
+															<boardgamepodcastepisode objectid="235167">92 – The Family Gamers Podcast – Games to Get You Moving</boardgamepodcastepisode>
+																						<boardgamecategory objectid="1032">Action / Dexterity</boardgamecategory>
+															<boardgamepodcastepisode objectid="104552">AP Podcast – Episodio 11: Zombicide</boardgamepodcastepisode>
+																						<boardgamepodcastepisode objectid="177525">BGA Episode 100 - Top 100 Games of All Time</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="20543">BGTG - June 11, 2005 (SR: Tonga Bonga, Crokinole, Fairy Tale)</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="86304">BGTG - May 14, 2005 (SR: Crokinole, Schrille Stille, Star Wars Attack of the Clones, Puerto Rico, Traumfabrik)</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="3318">BGWS 065 – Flicking Games and Catacombs</boardgamepodcastepisode>
+															<boardgamepublisher objectid="47309">BrownCastle Games</boardgamepublisher>
+																													<boardgamepublisher objectid="755">Carrom Company</boardgamepublisher>
+															<boardgameversion objectid="221497">Cogitate cherry board</boardgameversion>
+															<boardgameversion objectid="221500">Cogitate ebony board</boardgameversion>
+															<boardgamepublisher objectid="25960">Cogitate Games</boardgamepublisher>
+															<boardgameversion objectid="221502">Cogitate mini-board</boardgameversion>
+															<boardgameversion objectid="221498">Cogitate pine board</boardgameversion>
+															<boardgameversion objectid="221499">Cogitate steamed beech board</boardgameversion>
+															<boardgameversion objectid="221501">Cogitate walnut board</boardgameversion>
+																						<boardgamefamily objectid="68769">Components: Wooden pieces &amp; boards</boardgamefamily>
+															<videogamebg objectid="83264">Croke</videogamebg>
+																																																		<boardgameexpansion objectid="362719">Crokinole Cards</boardgameexpansion>
+															<boardgameexpansion objectid="363358">Crokinole Imperium</boardgameexpansion>
+																						<boardgamepublisher objectid="7804">Crokinole World</boardgamepublisher>
+																						<boardgameversion objectid="97946">Crokinole.de Wintersonne board</boardgameversion>
+																						<boardgameaccessory objectid="293314">Crokinole: Carrying Case</boardgameaccessory>
+															<boardgameaccessory objectid="201270">Crokinole: Quoits</boardgameaccessory>
+															<boardgamepodcastepisode objectid="188794">Cult of the New Board Game Podcast Episode 000 (2016) – Top 25 Games</boardgamepodcastepisode>
+																													<boardgamepodcastepisode objectid="273537">Ep.30 Crokinole, 2018 Recap, and 2019 Plans</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="298162">Episode 106 :: Best Boardgames - Brawling Brothers Blend 2019</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="177903">Episode 10: Cosmic Encounter/Crokinole - Filler Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="372569">Episode 118 - Games We’ve Never Discussed</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="332372">Episode 119 :: ATBcon 2020 Recap</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="334192">Episode 120 :: Top 20 Board Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="82462">Episode 17 - Is That A Meeple In Your Pocket?</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="186462">Episode 32 : Spartacus Board Game Review + Black Maple Hill</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="253545">Episode 36 - Gen Con 2018 Recap</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="199343">Episode 41 - Legendary Encounters: An Alien Deck Building Game Review</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="272358">Episode 45 - Pax Unplugged And Holiday Spirit</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="205747">Episode 50 :: Top 20 Board Games of All-Time + Big Bad Celebration Giveaway</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="233788">Episode 70 :: Zombicide Green Horde Review + Questions from the Hat with Cat</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="161332">Ep_006 – The Crew is Forced to Choose 5 Board Games</boardgamepodcastepisode>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamepublisher objectid="5686">Felsberger</boardgamepublisher>
+															<boardgamepublisher objectid="1562">Ferti</boardgamepublisher>
+															<boardgameversion objectid="277629">Ferti burgundy edition</boardgameversion>
+															<boardgameversion objectid="130617">Ferti edition</boardgameversion>
+																													<boardgamemechanic objectid="2860">Flicking</boardgamemechanic>
+																						<boardgamepodcastepisode objectid="76212">Game Glimpse #8: Crokinole</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="10853">GameBreak Audio: Episode #005 - Get your head, hands and more in the game!</boardgamepodcastepisode>
+															<boardgameversion objectid="414352">Gameland Chinese edition</boardgameversion>
+															<boardgamepublisher objectid="38209">Gameland 游戏大陆</boardgamepublisher>
+																																				<boardgamepodcastepisode objectid="170757">Heavy Cardboard Episode 39 – Top 50 Favorite Games of Right Now</boardgamepodcastepisode>
+															<boardgamepublisher objectid="18842">Hilinski Brothers</boardgamepublisher>
+															<boardgameversion objectid="131094">Hilinski custom-built edition</boardgameversion>
+															<boardgamepodcastepisode objectid="189574">HLG 10: Meer Essen</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="197119">HLG 15: Geluk &amp;amp; Fillers</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="181466">HLG 5: Patchwork</boardgamepodcastepisode>
+																						<boardgamepublisher objectid="9942">Industries Prince, Inc.</boardgamepublisher>
+																													<boardgameversion objectid="555690">Japanese edition</boardgameversion>
+															<boardgameversion objectid="80425">Jaques of London Grand Luxury board edition</boardgameversion>
+															<boardgamepublisher objectid="5722">John Jaques of London</boardgamepublisher>
+															<boardgameartist objectid="84274">Allison Litchfield</boardgameartist>
+															<boardgamepublisher objectid="45738">M. B. Ross</boardgamepublisher>
+															<boardgameversion objectid="510654">M. B. Ross edition</boardgameversion>
+															<boardgameversion objectid="161375">Mayday beech hardwood tournament edition</boardgameversion>
+															<boardgameversion objectid="197294">Mayday Cherry Hardwood edition</boardgameversion>
+															<boardgamepublisher objectid="9552">Mayday Games</boardgamepublisher>
+															<boardgameversion objectid="37037">Mayday Games edition</boardgameversion>
+															<boardgameversion objectid="99643">Mayday Games hardwood tournament edition</boardgameversion>
+															<boardgameversion objectid="338408">Mayday hardwood edition</boardgameversion>
+															<boardgameversion objectid="161376">Mayday mahogany hardwood tournament edition</boardgameversion>
+															<boardgameversion objectid="468127">Mayday maple edition</boardgameversion>
+															<boardgameversion objectid="468128">Mayday rosewood edition</boardgameversion>
+															<boardgameversion objectid="625340">Mayday rosewood hardwood tournament edition 2022</boardgameversion>
+															<boardgameversion objectid="197295">Mayday Sapele Hardwood edition</boardgameversion>
+															<boardgamefamily objectid="5552">Mechanism: Finger Flicking Games</boardgamefamily>
+															<boardgamepublisher objectid="6261">Mitra</boardgamepublisher>
+															<boardgameversion objectid="236190">Mitra edition</boardgameversion>
+															<boardgameversion objectid="259943">Mitra Portuguese edition</boardgameversion>
+															<boardgameversion objectid="259944">Mitra Portuguese mini edition</boardgameversion>
+															<boardgamepublisher objectid="5691">Mr. Crokinole</boardgamepublisher>
+															<boardgameversion objectid="92783">Mr. Crokinole Eagle Board</boardgameversion>
+															<boardgameversion objectid="487086">Muzzies Melvern Tournament board</boardgameversion>
+															<boardgamepublisher objectid="18843">Muzzies&#039; Country Lane Woodshop</boardgamepublisher>
+															<boardgameversion objectid="131142">Muzzies&#039; edition</boardgameversion>
+																						<boardgameversion objectid="300829">Noris edition</boardgameversion>
+															<boardgamepublisher objectid="304">Noris Spiele</boardgamepublisher>
+															<boardgamepodcastepisode objectid="17026">OBG 050: It&#039;s Epic</boardgamepodcastepisode>
+																													<boardgameartist objectid="12965">Orlando Ramirez</boardgameartist>
+																																																																<boardgamemechanic objectid="2019">Team-Based Game</boardgamemechanic>
+															<boardgameversion objectid="279473">Tischlerei Knels &amp; Jeske Blue Moon edition</boardgameversion>
+															<boardgamepublisher objectid="30166">Tischlerei Knels &amp; Jeske GmbH</boardgamepublisher>
+															<boardgamepublisher objectid="40273">Tracey Boards</boardgamepublisher>
+															<boardgameversion objectid="545834">Tracey Tour Board edition</boardgameversion>
+															<boardgameversion objectid="604165">Tracey Tour Crokinole Board (Red)</boardgameversion>
+															<boardgamefamily objectid="24752">Traditional Games: Crokinole</boardgamefamily>
+																													<boardgamepublisher objectid="7867">Willard</boardgamepublisher>
+															<boardgameversion objectid="165191">Willard Pro edition</boardgameversion>
+															<boardgameversion objectid="104243">Willard Round World Championship edition</boardgameversion>
+																						<boardgamepublisher objectid="45938">Wooden Games Crokinole</boardgamepublisher>
+															<boardgameversion objectid="514468">Wooden Games Crokinole Polish edition</boardgameversion>
+															<boardgamepublisher objectid="40102">Wooden You Know Crokinole Boards</boardgamepublisher>
+															<boardgameversion objectid="575538">Wooden You Know edition</boardgameversion>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="211">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="131" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="146" />
+					<result value="Recommended" numvotes="55" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="50" />
+					<result value="Not Recommended" numvotes="103" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="136" />
+					<result value="Recommended" numvotes="54" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="132" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="56">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="55" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="53">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="5" />
+					<result value="5" numvotes="3" />
+					<result value="6" numvotes="35" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>14478</usersrated>
+					<average>7.9752</average>
+					<bayesaverage>7.69993</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="58" bayesaverage="7.69993" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="6" bayesaverage="7.75962" />
+												
+											</ranks>
+					
+					<stddev>1.6188</stddev>
+					<median>0</median>
+					<owned>13200</owned>
+					<trading>47</trading>
+					<wanting>741</wanting>
+					<wishing>5140</wishing>
+					<numcomments>3044</numcomments>
+					<numweights>626</numweights>
+					<averageweight>1.246</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

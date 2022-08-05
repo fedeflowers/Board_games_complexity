@@ -171,16 +171,16 @@
 															<boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
 																						<boardgamepublisher objectid="22609">テンデイズゲームズ(TendaysGames)</boardgamepublisher>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="484">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="485">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="96" />
-					<result value="Recommended" numvotes="245" />
-					<result value="Not Recommended" numvotes="37" />
+					<result value="Recommended" numvotes="244" />
+					<result value="Not Recommended" numvotes="38" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="172" />
+					<result value="Best" numvotes="173" />
 					<result value="Recommended" numvotes="230" />
 					<result value="Not Recommended" numvotes="11" />
 				</results>					
@@ -200,7 +200,7 @@
 		<results numplayers="4+">		
 					<result value="Best" numvotes="2" />
 					<result value="Recommended" numvotes="6" />
-					<result value="Not Recommended" numvotes="216" />
+					<result value="Not Recommended" numvotes="217" />
 				</results>					
 	</poll>
 
@@ -237,28 +237,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>22631</usersrated>
-					<average>8.19737</average>
-					<bayesaverage>7.9545</bayesaverage>
+					<usersrated>22662</usersrated>
+					<average>8.19751</average>
+					<bayesaverage>7.95505</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22" bayesaverage="7.9545" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22" bayesaverage="7.95505" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="18" bayesaverage="7.99039" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="18" bayesaverage="7.99093" />
 												
 											</ranks>
 					
-					<stddev>1.35674</stddev>
+					<stddev>1.35665</stddev>
 					<median>0</median>
-					<owned>29694</owned>
-					<trading>202</trading>
-					<wanting>1918</wanting>
-					<wishing>12031</wishing>
+					<owned>29732</owned>
+					<trading>201</trading>
+					<wanting>1923</wanting>
+					<wishing>12041</wishing>
 					<numcomments>3532</numcomments>
-					<numweights>834</numweights>
-					<averageweight>3.8465</averageweight>
+					<numweights>835</numweights>
+					<averageweight>3.8467</averageweight>
 				</ratings>
 															</statistics>
 		

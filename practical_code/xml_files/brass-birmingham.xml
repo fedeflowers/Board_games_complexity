@@ -154,7 +154,7 @@
 																						<boardgamedesigner objectid="6">Martin Wallace</boardgamedesigner>
 															<boardgameimplementation objectid="28720" inbound="true">Brass: Lancashire</boardgameimplementation>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="704">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="707">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="0" />
@@ -163,19 +163,19 @@
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="68" />
-					<result value="Recommended" numvotes="457" />
+					<result value="Best" numvotes="69" />
+					<result value="Recommended" numvotes="459" />
 					<result value="Not Recommended" numvotes="77" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="377" />
-					<result value="Recommended" numvotes="227" />
+					<result value="Best" numvotes="379" />
+					<result value="Recommended" numvotes="228" />
 					<result value="Not Recommended" numvotes="5" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="333" />
+					<result value="Best" numvotes="336" />
 					<result value="Recommended" numvotes="224" />
 					<result value="Not Recommended" numvotes="26" />
 				</results>					
@@ -220,28 +220,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>29764</usersrated>
-					<average>8.65508</average>
-					<bayesaverage>8.42681</bayesaverage>
+					<usersrated>29832</usersrated>
+					<average>8.65567</average>
+					<bayesaverage>8.42748</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3" bayesaverage="8.42681" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2" bayesaverage="8.42748" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1" bayesaverage="8.45554" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1" bayesaverage="8.45606" />
 												
 											</ranks>
 					
-					<stddev>1.24993</stddev>
+					<stddev>1.25174</stddev>
 					<median>0</median>
-					<owned>44100</owned>
-					<trading>150</trading>
-					<wanting>1577</wanting>
+					<owned>44188</owned>
+					<trading>149</trading>
+					<wanting>1582</wanting>
 					<wishing>12871</wishing>
-					<numcomments>4338</numcomments>
-					<numweights>1430</numweights>
-					<averageweight>3.914</averageweight>
+					<numcomments>4348</numcomments>
+					<numweights>1438</numweights>
+					<averageweight>3.9131</averageweight>
 				</ratings>
 															</statistics>
 		

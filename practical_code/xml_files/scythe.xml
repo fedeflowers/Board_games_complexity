@@ -390,42 +390,42 @@
 															<boardgamemechanic objectid="2974">Zone of Control</boardgamemechanic>
 															<boardgamepodcastepisode objectid="190383">[Jeux du mois] Octobre 2016 &amp;ndash; Captain Sonar &amp;amp; Scythe</boardgamepodcastepisode>
 																				
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1236">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1239">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="56" />
-					<result value="Recommended" numvotes="470" />
+					<result value="Recommended" numvotes="471" />
 					<result value="Not Recommended" numvotes="281" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="50" />
-					<result value="Recommended" numvotes="598" />
+					<result value="Recommended" numvotes="600" />
 					<result value="Not Recommended" numvotes="329" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="280" />
-					<result value="Recommended" numvotes="637" />
+					<result value="Best" numvotes="281" />
+					<result value="Recommended" numvotes="639" />
 					<result value="Not Recommended" numvotes="80" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="762" />
+					<result value="Best" numvotes="764" />
 					<result value="Recommended" numvotes="268" />
 					<result value="Not Recommended" numvotes="17" />
 				</results>					
 			
 		<results numplayers="5">		
 					<result value="Best" numvotes="327" />
-					<result value="Recommended" numvotes="497" />
+					<result value="Recommended" numvotes="499" />
 					<result value="Not Recommended" numvotes="105" />
 				</results>					
 			
 		<results numplayers="5+">		
 					<result value="Best" numvotes="44" />
 					<result value="Recommended" numvotes="205" />
-					<result value="Not Recommended" numvotes="409" />
+					<result value="Not Recommended" numvotes="410" />
 				</results>					
 	</poll>
 
@@ -440,7 +440,7 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="266">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="267">
 			<results>		
 					<result value="2" numvotes="2" />
 					<result value="3" numvotes="0" />
@@ -450,7 +450,7 @@
 					<result value="8" numvotes="13" />
 					<result value="10" numvotes="48" />
 					<result value="12" numvotes="92" />
-					<result value="14" numvotes="89" />
+					<result value="14" numvotes="90" />
 					<result value="16" numvotes="16" />
 					<result value="18" numvotes="2" />
 					<result value="21 and up" numvotes="0" />
@@ -462,28 +462,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>69545</usersrated>
-					<average>8.20153</average>
-					<bayesaverage>8.04803</bayesaverage>
+					<usersrated>69602</usersrated>
+					<average>8.2013</average>
+					<bayesaverage>8.04772</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16" bayesaverage="8.04803" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16" bayesaverage="8.04772" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="15" bayesaverage="8.01814" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="15" bayesaverage="8.01779" />
 												
 											</ranks>
 					
-					<stddev>1.43791</stddev>
+					<stddev>1.43789</stddev>
 					<median>0</median>
-					<owned>93347</owned>
-					<trading>649</trading>
-					<wanting>1871</wanting>
-					<wishing>20229</wishing>
-					<numcomments>10517</numcomments>
-					<numweights>2759</numweights>
-					<averageweight>3.4299</averageweight>
+					<owned>93446</owned>
+					<trading>656</trading>
+					<wanting>1873</wanting>
+					<wishing>20249</wishing>
+					<numcomments>10522</numcomments>
+					<numweights>2760</numweights>
+					<averageweight>3.4301</averageweight>
 				</ratings>
 															</statistics>
 		

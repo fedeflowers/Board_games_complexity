@@ -159,16 +159,16 @@
 																						<boardgameeditor objectid="67958">Joshua Yearsley</boardgameeditor>
 																						<boardgamepodcastepisode objectid="448800">[T’as joué à quoi ?] Objection ! – Marvel Champions – Mystères ?</boardgamepodcastepisode>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="556">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="557">
 			
 		<results numplayers="1">		
-					<result value="Best" numvotes="339" />
+					<result value="Best" numvotes="340" />
 					<result value="Recommended" numvotes="159" />
 					<result value="Not Recommended" numvotes="25" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="358" />
+					<result value="Best" numvotes="359" />
 					<result value="Recommended" numvotes="140" />
 					<result value="Not Recommended" numvotes="6" />
 				</results>					
@@ -225,28 +225,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>16955</usersrated>
-					<average>8.18726</average>
-					<bayesaverage>7.81713</bayesaverage>
+					<usersrated>16994</usersrated>
+					<average>8.18722</average>
+					<bayesaverage>7.81783</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="36" bayesaverage="7.81713" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="36" bayesaverage="7.81783" />
 												
 							
-														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="2" bayesaverage="7.84471" />
+														<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="2" bayesaverage="7.84605" />
 												
 											</ranks>
 					
-					<stddev>1.42882</stddev>
+					<stddev>1.42879</stddev>
 					<median>0</median>
-					<owned>29049</owned>
-					<trading>299</trading>
-					<wanting>585</wanting>
-					<wishing>4566</wishing>
-					<numcomments>2284</numcomments>
-					<numweights>535</numweights>
-					<averageweight>2.8879</averageweight>
+					<owned>29115</owned>
+					<trading>295</trading>
+					<wanting>584</wanting>
+					<wishing>4572</wishing>
+					<numcomments>2289</numcomments>
+					<numweights>537</numweights>
+					<averageweight>2.8883</averageweight>
 				</ratings>
 															</statistics>
 		

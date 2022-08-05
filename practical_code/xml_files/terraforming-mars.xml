@@ -412,42 +412,42 @@
 															<boardgamepodcastepisode objectid="370635">WWG Podcast #1: Jak stracić głowę i przyjaciół?</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="329286">Yin Yang, Anubixx en Miyabi</boardgamepodcastepisode>
 																				
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2102">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2105">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="180" />
-					<result value="Recommended" numvotes="933" />
-					<result value="Not Recommended" numvotes="351" />
+					<result value="Recommended" numvotes="934" />
+					<result value="Not Recommended" numvotes="352" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="406" />
+					<result value="Best" numvotes="408" />
 					<result value="Recommended" numvotes="1154" />
-					<result value="Not Recommended" numvotes="191" />
+					<result value="Not Recommended" numvotes="192" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="1217" />
+					<result value="Best" numvotes="1220" />
 					<result value="Recommended" numvotes="525" />
 					<result value="Not Recommended" numvotes="33" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="701" />
-					<result value="Recommended" numvotes="843" />
+					<result value="Best" numvotes="702" />
+					<result value="Recommended" numvotes="845" />
 					<result value="Not Recommended" numvotes="140" />
 				</results>					
 			
 		<results numplayers="5">		
 					<result value="Best" numvotes="91" />
 					<result value="Recommended" numvotes="556" />
-					<result value="Not Recommended" numvotes="817" />
+					<result value="Not Recommended" numvotes="819" />
 				</results>					
 			
 		<results numplayers="5+">		
 					<result value="Best" numvotes="10" />
 					<result value="Recommended" numvotes="6" />
-					<result value="Not Recommended" numvotes="939" />
+					<result value="Not Recommended" numvotes="940" />
 				</results>					
 	</poll>
 
@@ -484,27 +484,27 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>80549</usersrated>
-					<average>8.40239</average>
-					<bayesaverage>8.2574</bayesaverage>
+					<usersrated>80630</usersrated>
+					<average>8.40229</average>
+					<bayesaverage>8.25744</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5" bayesaverage="8.2574" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5" bayesaverage="8.25744" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="7" bayesaverage="8.23704" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="7" bayesaverage="8.23699" />
 												
 											</ranks>
 					
-					<stddev>1.39362</stddev>
+					<stddev>1.39318</stddev>
 					<median>0</median>
-					<owned>110901</owned>
-					<trading>647</trading>
-					<wanting>1937</wanting>
-					<wishing>19985</wishing>
-					<numcomments>11654</numcomments>
-					<numweights>3318</numweights>
+					<owned>111028</owned>
+					<trading>649</trading>
+					<wanting>1936</wanting>
+					<wishing>19996</wishing>
+					<numcomments>11662</numcomments>
+					<numweights>3319</numweights>
 					<averageweight>3.248</averageweight>
 				</ratings>
 															</statistics>

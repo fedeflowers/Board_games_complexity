@@ -250,36 +250,36 @@
 															<boardgamepodcastepisode objectid="381529">[Tellement Je Thème] Root</boardgamepodcastepisode>
 															<boardgamepodcastepisode objectid="448728">[T’as joué à quoi au Week-End Proxi-Jeux ?] Édition 2022</boardgamepodcastepisode>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="781">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="784">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="1" />
 					<result value="Recommended" numvotes="70" />
-					<result value="Not Recommended" numvotes="460" />
+					<result value="Not Recommended" numvotes="463" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="14" />
 					<result value="Recommended" numvotes="220" />
-					<result value="Not Recommended" numvotes="377" />
+					<result value="Not Recommended" numvotes="380" />
 				</results>					
 			
 		<results numplayers="3">		
 					<result value="Best" numvotes="138" />
-					<result value="Recommended" numvotes="479" />
+					<result value="Recommended" numvotes="481" />
 					<result value="Not Recommended" numvotes="49" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="622" />
+					<result value="Best" numvotes="625" />
 					<result value="Recommended" numvotes="100" />
 					<result value="Not Recommended" numvotes="9" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="43" />
-					<result value="Recommended" numvotes="159" />
-					<result value="Not Recommended" numvotes="264" />
+					<result value="Recommended" numvotes="160" />
+					<result value="Not Recommended" numvotes="265" />
 				</results>					
 	</poll>
 
@@ -316,29 +316,29 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>36553</usersrated>
-					<average>8.09484</average>
-					<bayesaverage>7.89303</bayesaverage>
+					<usersrated>36628</usersrated>
+					<average>8.09472</average>
+					<bayesaverage>7.89298</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="28" bayesaverage="7.89303" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="28" bayesaverage="7.89298" />
 												
 							
-														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="13" bayesaverage="7.73568" />
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="29" bayesaverage="7.87697" />
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="14" bayesaverage="7.73554" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="29" bayesaverage="7.87685" />
 												
 											</ranks>
 					
-					<stddev>1.43324</stddev>
+					<stddev>1.4334</stddev>
 					<median>0</median>
-					<owned>55885</owned>
-					<trading>358</trading>
+					<owned>55984</owned>
+					<trading>359</trading>
 					<wanting>1722</wanting>
-					<wishing>16095</wishing>
-					<numcomments>5435</numcomments>
-					<numweights>1471</numweights>
-					<averageweight>3.743</averageweight>
+					<wishing>16114</wishing>
+					<numcomments>5439</numcomments>
+					<numweights>1475</numweights>
+					<averageweight>3.7444</averageweight>
 				</ratings>
 															</statistics>
 		

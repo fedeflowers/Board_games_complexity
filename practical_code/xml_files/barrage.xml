@@ -1,0 +1,245 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="251247">
+			<yearpublished>2019</yearpublished>
+			<minplayers>1</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>120</playingtime>
+			<minplaytime>60</minplaytime>
+			<maxplaytime>120</maxplaytime>
+			<age>14</age>
+
+							<name primary="true" sortindex="1">Barrage</name>
+							<name  sortindex="1">Duzzasztómű</name>
+							<name  sortindex="1">Wasserkraft</name>
+							<name  sortindex="1">Плотина</name>
+							<name  sortindex="1">バラージ</name>
+							<name  sortindex="1">强国争坝</name>
+							<name  sortindex="1">버라지</name>
+									
+			<description>In the dystopic 1930s, the industrial revolution pushed the exploitation of fossil-based resources to the limit, and now the only thing powerful enough to quench the thirst for power of the massive machines and of the unstoppable engineering progress is the unlimited hydroelectric energy provided by the rivers.&lt;br/&gt;&lt;br/&gt;Barrage is a resource management strategic game in which players compete to build their majestic dams, raise them to increase their storing capacity, and deliver all the potential power through pressure tunnels connected to the energy turbines of their powerhouses.&lt;br/&gt;&lt;br/&gt;Each player represents one of the four international companies who are gathering machinery, innovative patents and brilliant engineers to claim the best locations to collect and exploit the water of a contested Alpine region crossed by rivers.&lt;br/&gt;&lt;br/&gt;Barrage includes two innovative and challenging mechanisms. First, the players must carefully plan their actions and handle their machinery, since both their action tokens and resources are stored on a Construction Wheel and will only be available after a full turn of the wheel. The better you manage your wheel, the earlier your resources and actions come back to you.&lt;br/&gt;&lt;br/&gt;Second, the water flow on the rivers depicted on the board is a shared and contested resource. Players have to intercept and store as much of the water as they can, build dams (upstream dams are expensive but can block part of the water before it reaches the downstream dams), raise the dams to increase their capacity, and build long tunnels to channel the water to their powerhouses. Water is never consumed &amp;mdash; its flow is just used to produce energy &amp;mdash;, it is instead released back to the rivers, so you have to strategically place your dams to recover the water diverted by you and the other players.&lt;br/&gt;&lt;br/&gt;Over five rounds, the players must fulfill power requirements represented by a common competitive power track and meet specific requests of personal contracts. At the same time, by placing a limited number of engineers, they attempt to enhance their machinery to acquire new and more efficient construction actions and to build and activate special unique-effect buildings to forward their own developing strategy.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__thumb/img/kMLIpeqA6UcUvQg2AdMwwQoEIfU=/fit-in/200x150/filters:strip_icc()/pic4336469.png</thumbnail>
+				<image>https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__original/img/rkHKwkUqpQC7PAGG7n2gbrcQiUY=/0x0/filters:format(png)/pic4336469.png</image>
+						
+												<boardgameaccessory objectid="332735">Barrage: reDrewno Insert</boardgameaccessory>
+															<boardgamepublisher objectid="10768">Cranio Creations</boardgamepublisher>
+																													<boardgamepodcastepisode objectid="355898">#124: Rondels</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="265307">#87: Cryptid six-pack &amp;amp; on tap, Terraforming Mars Digital, Orbis, Carcassonne: The Catapult</boardgamepodcastepisode>
+															<boardgamehonor objectid="63851">2019 Board Game Quest Awards Best Strategy/Euro Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="63862">2019 Board Game Quest Awards Best Strategy/Euro Game Winner</boardgamehonor>
+															<boardgamehonor objectid="63857">2019 Board Game Quest Awards Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="60663">2019 Cardboard Republic Tactician Laurel Nominee</boardgamehonor>
+															<boardgamehonor objectid="61346">2019 Cardboard Republic Tactician Laurel Winner</boardgamehonor>
+															<boardgamehonor objectid="61434">2019 Golden Geek Best Strategy Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="61431">2019 Golden Geek Board Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="61424">2019 Golden Geek Most Innovative Board Game Nominee</boardgamehonor>
+															<boardgamehonor objectid="64693">2019 Meeples&#039; Choice Nominee</boardgamehonor>
+															<boardgamehonor objectid="64676">2019 The Golden Elephant Award Finalist</boardgamehonor>
+															<boardgamehonor objectid="73347">2020 American Tabletop Complex Games Recommended</boardgamehonor>
+															<boardgamehonor objectid="62967">2020 Goblin Magnifico Nominee</boardgamehonor>
+															<boardgamehonor objectid="62966">2020 Goblin Magnifico Winner</boardgamehonor>
+															<boardgamehonor objectid="66547">2020 International Gamers Award - General Strategy Nominee</boardgamehonor>
+															<boardgamehonor objectid="66549">2020 International Gamers Award - General Strategy Winner</boardgamehonor>
+															<boardgamehonor objectid="70400">2020 Japan Boardgame Prize Voters&#039; Selection Nominee</boardgamehonor>
+															<boardgamehonor objectid="70580">2020 Japan Boardgame Prize Voters&#039; Selection Nominee</boardgamehonor>
+															<boardgamehonor objectid="64137">2020 Jogo do Ano Nominee</boardgamehonor>
+															<boardgamehonor objectid="70402">2020 Jogo do Ano Winner</boardgamehonor>
+															<boardgamehonor objectid="62969">2020 Scelto dai Goblin Winner</boardgamehonor>
+															<boardgamehonor objectid="65003">2020 Spiel der Spiele Hit für Experten Recommended</boardgamehonor>
+															<boardgamehonor objectid="70446">2020 Tric Trac Nominee</boardgamehonor>
+															<boardgamehonor objectid="72327">2021 Gra Roku Advanced Game of the Year Nominee</boardgamehonor>
+															<boardgamehonor objectid="73411">2021 Gra Roku Advanced Game of the Year Winner</boardgamehonor>
+															<boardgamehonor objectid="70798">2021 Kennerspiel des Jahres Recommended</boardgamehonor>
+															<boardgamemechanic objectid="2838">Action Drafting</boardgamemechanic>
+															<boardgameartist objectid="112087">Mauro Alocci</boardgameartist>
+															<boardgamegraphicdesigner objectid="95148">Ruslan Audia</boardgamegraphicdesigner>
+																																																																							<boardgameexpansion objectid="304453">Barrage: 5-Player Expansion</boardgameexpansion>
+															<boardgameexpansion objectid="346071">Barrage: Executive Officer Promo C</boardgameexpansion>
+															<boardgameexpansion objectid="363533">Barrage: Executive Officer Promo D</boardgameexpansion>
+															<boardgameexpansion objectid="318010">Barrage: Executive Officers Pack A</boardgameexpansion>
+															<boardgameexpansion objectid="304458">Barrage: Executive Officers Pack B</boardgameexpansion>
+															<boardgameaccessory objectid="312897">Barrage: Folded Space Insert</boardgameaccessory>
+															<boardgameaccessory objectid="349830">Barrage: GolonkoCrafts Water Droplets</boardgameaccessory>
+															<boardgameexpansion objectid="287521">Barrage: Kickstarter Exclusive Box</boardgameexpansion>
+															<boardgameaccessory objectid="326749">Barrage: Laserox Barrage Organizer</boardgameaccessory>
+															<boardgameaccessory objectid="313597">Barrage: Meeple Realty Wooden Wheels</boardgameaccessory>
+															<boardgameaccessory objectid="340076">Barrage: Metal Coins</boardgameaccessory>
+																						<boardgameaccessory objectid="359668">Barrage: Saim Lab Insert</boardgameaccessory>
+															<boardgameaccessory objectid="350984">Barrage: The GiftForge Insert</boardgameaccessory>
+															<boardgameexpansion objectid="263711">Barrage: The Leeghwater Project</boardgameexpansion>
+															<boardgameexpansion objectid="366469">Barrage: The Nile Affair Expansion</boardgameexpansion>
+															<boardgameaccessory objectid="365828">Barrage: Tower Rex Organizer</boardgameaccessory>
+															<boardgameaccessory objectid="318011">Barrage: Wooden Machineries pack</boardgameaccessory>
+															<boardgamedesigner objectid="108836">Tommaso Battista</boardgamedesigner>
+															<boardgamesolodesigner objectid="108836">Tommaso Battista</boardgamesolodesigner>
+																													<boardgameversion objectid="482657">Chinese edition</boardgameversion>
+															<boardgamefamily objectid="66553">Components: Control Boards</boardgamefamily>
+															<boardgamemechanic objectid="2912">Contracts</boardgamemechanic>
+															<boardgamepublisher objectid="34522">CrowD Games</boardgamepublisher>
+															<boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+															<boardgameartist objectid="83351">Antonio De Luca</boardgameartist>
+															<boardgamepublisher objectid="6194">Delta Vision Publishing</boardgamepublisher>
+															<boardgamepodcastepisode objectid="431296">Der Große Wurf #66 - Wasserkraft</boardgamepodcastepisode>
+															<boardgamefamily objectid="70360">Digital Implementations: Board Game Arena</boardgamefamily>
+															<boardgamefamily objectid="70948">Digital Implementations: Tabletopia</boardgamefamily>
+																						<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgamemechanic objectid="2875">End Game Bonuses</boardgamemechanic>
+															<boardgameversion objectid="549588">English-only edition</boardgameversion>
+															<boardgameversion objectid="403168">English/Italian edition</boardgameversion>
+															<boardgamecategory objectid="1084">Environmental</boardgamecategory>
+															<boardgamepodcastepisode objectid="295697">Ep 11- Origins Game Fair 2019</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="317143">Ep. 40 - Barrage Review</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="262083">Episode 108 - SHUX 2018</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="407417">Episode 122: Special Guest - Simone Luciani! Plus Cloudspire, Dune Imperium, Unsettled</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="446223">Episode 12: Top 5 BGG 100 Games We Want to Play</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="364092">Episode 133 :: JessupCon 2020</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="365555">Episode 134 :: Digital Gaming Goodness</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="317140">Episode 141- Glancing Blows Pre-Essen 2019 and Interview with Isaac Childres</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="353008">Episode 150: The Top 10 Games of 2019</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="339241">Episode 167: 7 Souls</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="430976">Episode 169: Empires of the North, Terra Mystica, Ark Nova</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="444856">Episode 177 -LoBsterCon XXII Frontline Report</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="341131">Episode 38: Sorcerer City, Kingdomino Duel, Barrage, Viticulture - 5 Games with Interesting Player Boards</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="370689">Episode 49 - Special Guest: Stephen Buonocore, Pandemic Legacy Season 1, The Quacks of Quedlinburg, Imperial Settlers: Rise of the Empire, Architects of the West Kingdom</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="430924">Episode 4: Top 5 Shelf of Shame Games</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="371413">Episode 51 - Special Guest: Phil Walker-Harding, Lowlands, Campy Creatures, Spicy, Onitama</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="378338">Episode 65:  Pipeline, Blackout: Hong Kong, Sleeping Gods</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="379027">Episode 67: Oriflamme, Paladins of the West Kingdom, Dwellings of Eldervale</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="380875">Episode 72: A War of Whispers, Dice Forge, Raiders of the North Sea</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="332503">ET145: Crisis de Fé o bancarrota?</boardgamepodcastepisode>
+															<boardgamepublisher objectid="22380">Feuerland Spiele</boardgamepublisher>
+															<boardgameversion objectid="465955">French edition</boardgameversion>
+															<boardgamepublisher objectid="15605">Galápagos Jogos</boardgamepublisher>
+															<boardgamepublisher objectid="12540">Game Harbor</boardgamepublisher>
+															<boardgamefamily objectid="57497">Game: Barrage</boardgamefamily>
+															<boardgamepodcastepisode objectid="318805">Garrett&#039;s Games 695 - Vinyl and Barrage</boardgamepodcastepisode>
+															<boardgameversion objectid="474135">German edition</boardgameversion>
+																																				<boardgameversion objectid="558759">Hungarian edition</boardgameversion>
+															<boardgamemechanic objectid="2902">Income</boardgamemechanic>
+															<boardgamecategory objectid="1088">Industry / Manufacturing</boardgamecategory>
+															<boardgamepublisher objectid="5380">Intrafin Games</boardgamepublisher>
+															<boardgameversion objectid="517882">Japanese edition</boardgameversion>
+															<boardgamepublisher objectid="8291">Korea Boardgames Co., Ltd.</boardgamepublisher>
+															<boardgameversion objectid="573499">Korea Boardgames Korean edition</boardgameversion>
+															<boardgameartist objectid="87749">Roman Roland Kuteynikov</boardgameartist>
+															<boardgamedesigner objectid="35418">Simone Luciani</boardgamedesigner>
+															<boardgamepublisher objectid="30677">Maldito Games</boardgamepublisher>
+															<boardgamemechanic objectid="2081">Network and Route Building</boardgamemechanic>
+															<boardgamepodcastepisode objectid="364768">Odcinek 229 a w nim dużo wrażeń z rozrywki w Barrage</boardgamepodcastepisode>
+																						<boardgamefamily objectid="5666">Players: Games with Solitaire Rules</boardgamefamily>
+															<boardgamepodcastepisode objectid="350150">Podcast: Episode 7 – Barrage</boardgamepodcastepisode>
+															<boardgameversion objectid="502543">Polish edition</boardgameversion>
+															<boardgamepublisher objectid="2726">Portal Games</boardgamepublisher>
+															<boardgameversion objectid="546965">Portuguese edition</boardgameversion>
+															<boardgamepodcastepisode objectid="292245">Round 2, Turn 2: &quot;Teotihuacan: City of Gods&quot; with Dmitry (and special guest Trey)</boardgamepodcastepisode>
+															<boardgamepodcastepisode objectid="310490">Round 3, Turn 7: &quot;Barrage&quot; with Jesse and Trey</boardgamepodcastepisode>
+																						<boardgameversion objectid="507315">Russian edition</boardgameversion>
+															<boardgamemechanic objectid="2819">Solo / Solitaire Game</boardgamemechanic>
+															<boardgameversion objectid="479470">Spanish edition</boardgameversion>
+															<boardgamepublisher objectid="39249">sternenschimmermeer</boardgamepublisher>
+															<boardgameversion objectid="455290">sternenschimmermeer Korean edition</boardgameversion>
+															<boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+															<boardgamepodcastepisode objectid="265247">The Game Pit - Episode 122: Essen 2018 Battle Report Part 2</boardgamepodcastepisode>
+															<boardgamefamily objectid="75455">Theme: Art style – Art Deco</boardgamefamily>
+															<boardgamefamily objectid="37870">Theme: Dieselpunk</boardgamefamily>
+															<boardgamemechanic objectid="2826">Turn Order: Stat-Based</boardgamemechanic>
+															<boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+															<boardgamemechanic objectid="2897">Variable Set-up</boardgamemechanic>
+																													<boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+															<boardgamepublisher objectid="22609">テンデイズゲームズ(TendaysGames)</boardgamepublisher>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="332">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="66" />
+					<result value="Not Recommended" numvotes="115" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="158" />
+					<result value="Not Recommended" numvotes="68" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="132" />
+					<result value="Recommended" numvotes="137" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="197" />
+					<result value="Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="93" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="23">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="21" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="47">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="13" />
+					<result value="14" numvotes="24" />
+					<result value="16" numvotes="6" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>11443</usersrated>
+					<average>8.21988</average>
+					<bayesaverage>7.81599</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="37" bayesaverage="7.81599" />
+												
+							
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="23" bayesaverage="7.90082" />
+												
+											</ranks>
+					
+					<stddev>1.43547</stddev>
+					<median>0</median>
+					<owned>15353</owned>
+					<trading>108</trading>
+					<wanting>816</wanting>
+					<wishing>5119</wishing>
+					<numcomments>1799</numcomments>
+					<numweights>708</numweights>
+					<averageweight>4.0692</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

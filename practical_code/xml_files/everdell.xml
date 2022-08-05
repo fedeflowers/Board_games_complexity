@@ -224,7 +224,7 @@
 															<boardgamepublisher objectid="8147">YOKA Games</boardgamepublisher>
 																						<boardgamepodcastepisode objectid="448726">[Le Pour et le Contre] Everdell</boardgamepodcastepisode>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="613">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="615">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="16" />
@@ -233,20 +233,20 @@
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="166" />
-					<result value="Recommended" numvotes="324" />
+					<result value="Best" numvotes="167" />
+					<result value="Recommended" numvotes="325" />
 					<result value="Not Recommended" numvotes="30" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="312" />
+					<result value="Best" numvotes="313" />
 					<result value="Recommended" numvotes="168" />
 					<result value="Not Recommended" numvotes="10" />
 				</results>					
 			
 		<results numplayers="4">		
 					<result value="Best" numvotes="96" />
-					<result value="Recommended" numvotes="267" />
+					<result value="Recommended" numvotes="268" />
 					<result value="Not Recommended" numvotes="83" />
 				</results>					
 			
@@ -290,29 +290,29 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>35509</usersrated>
-					<average>8.08384</average>
-					<bayesaverage>7.88174</bayesaverage>
+					<usersrated>35612</usersrated>
+					<average>8.08353</average>
+					<bayesaverage>7.88115</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="30" bayesaverage="7.88174" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="30" bayesaverage="7.88115" />
 												
 							
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="33" bayesaverage="7.8541" />
-														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3" bayesaverage="7.89904" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="33" bayesaverage="7.85343" />
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3" bayesaverage="7.89823" />
 												
 											</ranks>
 					
-					<stddev>1.28091</stddev>
+					<stddev>1.28136</stddev>
 					<median>0</median>
-					<owned>54277</owned>
-					<trading>312</trading>
-					<wanting>1509</wanting>
-					<wishing>15124</wishing>
-					<numcomments>4846</numcomments>
-					<numweights>1070</numweights>
-					<averageweight>2.8075</averageweight>
+					<owned>54405</owned>
+					<trading>311</trading>
+					<wanting>1510</wanting>
+					<wishing>15149</wishing>
+					<numcomments>4851</numcomments>
+					<numweights>1076</numweights>
+					<averageweight>2.8067</averageweight>
 				</ratings>
 															</statistics>
 		

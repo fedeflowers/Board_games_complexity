@@ -360,28 +360,28 @@
 															<boardgameintegration objectid="295770" inbound="true">Frosthaven</boardgameintegration>
 															<boardgameintegration objectid="291457" inbound="true">Gloomhaven: Jaws of the Lion</boardgameintegration>
 						
-			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1336">
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1338">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="129" />
 					<result value="Recommended" numvotes="577" />
-					<result value="Not Recommended" numvotes="308" />
+					<result value="Not Recommended" numvotes="309" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="326" />
-					<result value="Recommended" numvotes="734" />
+					<result value="Best" numvotes="327" />
+					<result value="Recommended" numvotes="735" />
 					<result value="Not Recommended" numvotes="79" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="648" />
-					<result value="Recommended" numvotes="448" />
+					<result value="Best" numvotes="649" />
+					<result value="Recommended" numvotes="449" />
 					<result value="Not Recommended" numvotes="32" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="411" />
+					<result value="Best" numvotes="412" />
 					<result value="Recommended" numvotes="514" />
 					<result value="Not Recommended" numvotes="150" />
 				</results>					
@@ -404,7 +404,7 @@
 				</results>					
 	</poll>
 
-			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="292">
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="293">
 			<results>		
 					<result value="2" numvotes="5" />
 					<result value="3" numvotes="0" />
@@ -413,7 +413,7 @@
 					<result value="6" numvotes="0" />
 					<result value="8" numvotes="6" />
 					<result value="10" numvotes="42" />
-					<result value="12" numvotes="83" />
+					<result value="12" numvotes="84" />
 					<result value="14" numvotes="133" />
 					<result value="16" numvotes="18" />
 					<result value="18" numvotes="2" />
@@ -426,28 +426,28 @@
 			
 						<statistics page="1">
 												<ratings >
-					<usersrated>51469</usersrated>
-					<average>8.70722</average>
-					<bayesaverage>8.47547</bayesaverage>
+					<usersrated>51524</usersrated>
+					<average>8.70727</average>
+					<bayesaverage>8.47524</bayesaverage>
 					
 					<ranks>
 							
-														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1" bayesaverage="8.47547" />
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1" bayesaverage="8.47524" />
 												
 							
-														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1" bayesaverage="8.45319" />
-														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2" bayesaverage="8.44133" />
+														<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1" bayesaverage="8.45261" />
+														<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2" bayesaverage="8.44122" />
 												
 											</ranks>
 					
-					<stddev>1.65592</stddev>
+					<stddev>1.65455</stddev>
 					<median>0</median>
-					<owned>83149</owned>
-					<trading>739</trading>
-					<wanting>1301</wanting>
-					<wishing>18384</wishing>
-					<numcomments>9089</numcomments>
-					<numweights>2201</numweights>
+					<owned>83225</owned>
+					<trading>740</trading>
+					<wanting>1299</wanting>
+					<wishing>18398</wishing>
+					<numcomments>9094</numcomments>
+					<numweights>2202</numweights>
 					<averageweight>3.8837</averageweight>
 				</ratings>
 															</statistics>
