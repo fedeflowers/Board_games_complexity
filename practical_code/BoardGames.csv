@@ -1,79 +1,163 @@
-"Name","Id","ruleBook"
-"Gloomhaven","174430","gloomhaven-rulebook.pdf"
-"austerlitz-1805-napoleons-greatest-victory","8571","aus_rules.pdf"
-"commands-colors-ancients","14105","CC-EPIC_Rules.pdf"
-"conquerors-alexander-great","13224","conq_alex_Rules.pdf"
-"dominant-species-card-game","96260","DSC_Rules-web_FINAL.pdf"
-"corsairs-and-hellcats","6506","corsairs.pdf"
-"downtown-air-war-over-hanoi-1965-1972","6613","Downtown_Scenarios_9_8_04.pdf"
-"barbarossa-kiev-rostov-1941","29875","KtRrules-3.pdf"
-"empire-sun","11825","eotsrulesv2.0.pdf"
-"europe-engulfed-wwii-european-theatre-block-game","6205","EE_PB_2nd_ed.pdf"
-"fading-glory","96749","FG_Rules_Final.pdf"
-"old-school-tactical-volume-1-fighting-eastern-fron","170669","FF-GD_Rulebook_FINAL.pdf"
-"formula-motor-racing","635","FormulaOne-2.pdf"
-"glory-iii","23928","glory3-rulebook-final.pdf"
-"grand-illusion-mirage-glory-1914","12282","GIRules091105.pdf"
-"great-battles-alexander-deluxe-edition","11057","Dalex.pdf"
-"spqr-deluxe-edition","21551","SPQR_Deluxe_Rules_3rdEd.pdf"
-"caesars-war-conquest-gaul-58-52-bc","129309","CCoG rules-2006.pdf"
-"chandragupta","26458","Chandragupta_Living_Rulebook.pdf"
-"devils-horsemen","11274","DH rules-5.pdf"
-"war-galley","1894","WG rules-2006.pdf"
-"samurai","3","Samurai-Rules-final.pdf"
-"ran","21947","RAN-rules-final.pdf"
-"chariots-fire","39932","Chariots-of-Fire-Rules-final-low-res.pdf"
-"great-war-europe-deluxe-edition","30216","GWiE_rules(3-4-09).pdf"
-"halls-montezuma","22604","HoMRules-9.pdf"
-"hellenes-campaigns-peloponnesian-war","10788","Hellenes-Rules-v3.pdf"
-"here-i-stand","17392","HIS-Rules-2010.pdf"
-"infidel","62225","Infidel_Rules_1.2.pdf"
-"ivanhoe","883","ivanrules.pdf"
-"kutuzov","20077","KUT_Rulebook.pdf"
-"labyrinth-war-terror-2001","62227","Labyrinth-Rules-2011.pdf"
-"manifest-destiny","12283","md_rules.pdf"
-"manoeuvre","17396","ManoeuvreRules-2010.pdf"
-"medieval","7239","Medieval_Rules_2-1-04.pdf"
-"men-iron","14683","Men_of_Iron_Rules 1_2.pdf"
-"mr-madisons-war-incredible-war-1812","63758","MMW_Rules_FINAL.pdf"
-"napoleonic-wars-second-edition","36399","TNW-Rules-2008.pdf"
-"no-retreat-russian-front","68264","NoRetreat-Rules-v2.pdf"
-"onward-christian-soldiers-crusades","18747","OCS_1C_Rules.pdf"
-"pacific-typhoon","20079","PacTyphoon-final.pdf"
-"paths-glory","91","POG_Rules-2010.pdf"
-"pax-baltica","42328","PaxBalRulesFINALLow-Res.pdf"
-"pax-romana","17393","Pax-Romana-Rulebook-LR01.pdf"
-"pq-17-arctic-naval-operations-1941-1943","26459","PQ17_Rules_v1.1.pdf"
-"prussias-glory-ii-four-battles-seven-years-war-175","17395","PG-II Scenarios-7.pdf"
-"prussias-glory-battles-frederick-great","3316","PGSeriesRules6.pdf"
-"reds-russian-civil-war-1918-1921","2998","REDS-RULES-2012.pdf"
-"risorgimento-1859-second-italian-war-independence","7831","Risorgimento_LR_Sept._2008.pdf"
-"roads-leningrad","11269","RTL_rules.pdf"
-"santa-fe-rails","3348","sf_rules.pdf"
-"sekigahara-unification-japan","25021","SekigaharaRules-2013.pdf"
-"space-empires-4x","84419","SE-LivingRules-Sept2011.pdf"
-"stalins-war","22677","SW_Living-Rules.pdf"
-"sword-rome","7480","SWORD_ROME RULES-2010_Vers2.pdf"
-"thirty-years-war-europe-agony-1618-1648","2748","tywrules.pdf"
-"tigers-mist-ardennes-offensive","4113","titm.pdf"
-"triumph-glory-battles-napoleonic-wars-1796-1809","7975","Borodino_Rules-8.pdf"
-"ukraine-43","3263","UK43_12_1_05.pdf"
-"unhappy-king-charles","18748","ukc_rulebook.pdf"
-"von-mansteins-backhand-blow","5357","vmbbrules.pdf"
-"washingtons-war","38996","WW_Playbook_Final_hi-res.pdf"
-"wilderness-war","1822","WILDERNESS-2010_Rules.pdf"
-"winds-plunder","7571","WoP_FullRules_english.pdf"
-"world-war-ii-barbarossa-berlin","3353","BtB rules-2006.pdf"
-"fury-dracula-thirdfourth-edition","181279","Fury_of_Dracula.pdf"
-"scythe","169786","6c-scythe-rulebook.pdf"
-"nemesis-lockdown","310100","Nemesis_LD_Rulebook_280x280mm_bleed3mm-32-pages.pdf"
-"root","237182","98-root-learn-to-play.pdf"
-"marvel-champions-card-game","285774","c2-marvel-champions-the-card-game-rules-reference.pdf"
-"ark-nova","342942","Ark-Nova-Rulebook.pdf"
-"brass-birmingham","224517","Brass-Birmingham-Rulebook-2018.11.20-highlights.pdf"
-"7-wonders-duel","173346","6b-7-wonders-duel-rules.pdf"
-"sumatra","313000","Sumatra_Rulebook-EN.pdf"
-"everdell","199792","everdell_rules.pdf"
-"monopoly-london","17250","27-monopoly-cthulhu-rulebook.pdf"
-"feast-odin","177736","ODIN_EN_rules-LR.pdf"
-"terraforming-mars","167791","fb-terraforming-mars-rule.pdf"
+Name,Id,ruleBook
+Gloomhaven,174430,gloomhaven-rulebook.pdf
+austerlitz-1805-napoleons-greatest-victory,8571,aus_rules.pdf
+commands-colors-ancients,14105,CC-EPIC_Rules.pdf
+conquerors-alexander-great,13224,conq_alex_Rules.pdf
+dominant-species-card-game,96260,DSC_Rules-web_FINAL.pdf
+corsairs-and-hellcats,6506,corsairs.pdf
+downtown-air-war-over-hanoi-1965-1972,6613,Downtown_Scenarios_9_8_04.pdf
+barbarossa-kiev-rostov-1941,29875,KtRrules-3.pdf
+empire-sun,11825,eotsrulesv2.0.pdf
+europe-engulfed-wwii-european-theatre-block-game,6205,EE_PB_2nd_ed.pdf
+fading-glory,96749,FG_Rules_Final.pdf
+old-school-tactical-volume-1-fighting-eastern-fron,170669,FF-GD_Rulebook_FINAL.pdf
+formula-motor-racing,635,FormulaOne-2.pdf
+glory-iii,23928,glory3-rulebook-final.pdf
+grand-illusion-mirage-glory-1914,12282,GIRules091105.pdf
+great-battles-alexander-deluxe-edition,11057,Dalex.pdf
+spqr-deluxe-edition,21551,SPQR_Deluxe_Rules_3rdEd.pdf
+caesars-war-conquest-gaul-58-52-bc,129309,CCoG rules-2006.pdf
+chandragupta,26458,Chandragupta_Living_Rulebook.pdf
+devils-horsemen,11274,DH rules-5.pdf
+war-galley,1894,WG rules-2006.pdf
+samurai,3,Samurai-Rules-final.pdf
+ran,21947,RAN-rules-final.pdf
+chariots-fire,39932,Chariots-of-Fire-Rules-final-low-res.pdf
+great-war-europe-deluxe-edition,30216,GWiE_rules(3-4-09).pdf
+halls-montezuma,22604,HoMRules-9.pdf
+hellenes-campaigns-peloponnesian-war,10788,Hellenes-Rules-v3.pdf
+here-i-stand,17392,HIS-Rules-2010.pdf
+infidel,62225,Infidel_Rules_1.2.pdf
+ivanhoe,883,ivanrules.pdf
+kutuzov,20077,KUT_Rulebook.pdf
+labyrinth-war-terror-2001,62227,Labyrinth-Rules-2011.pdf
+manifest-destiny,12283,md_rules.pdf
+manoeuvre,17396,ManoeuvreRules-2010.pdf
+medieval,7239,Medieval_Rules_2-1-04.pdf
+men-iron,14683,Men_of_Iron_Rules 1_2.pdf
+mr-madisons-war-incredible-war-1812,63758,MMW_Rules_FINAL.pdf
+napoleonic-wars-second-edition,36399,TNW-Rules-2008.pdf
+no-retreat-russian-front,68264,NoRetreat-Rules-v2.pdf
+onward-christian-soldiers-crusades,18747,OCS_1C_Rules.pdf
+pacific-typhoon,20079,PacTyphoon-final.pdf
+paths-glory,91,POG_Rules-2010.pdf
+pax-baltica,42328,PaxBalRulesFINALLow-Res.pdf
+pax-romana,17393,Pax-Romana-Rulebook-LR01.pdf
+pq-17-arctic-naval-operations-1941-1943,26459,PQ17_Rules_v1.1.pdf
+prussias-glory-ii-four-battles-seven-years-war-175,17395,PG-II Scenarios-7.pdf
+prussias-glory-battles-frederick-great,3316,PGSeriesRules6.pdf
+reds-russian-civil-war-1918-1921,2998,REDS-RULES-2012.pdf
+risorgimento-1859-second-italian-war-independence,7831,Risorgimento_LR_Sept._2008.pdf
+roads-leningrad,11269,RTL_rules.pdf
+santa-fe-rails,3348,sf_rules.pdf
+sekigahara-unification-japan,25021,SekigaharaRules-2013.pdf
+space-empires-4x,84419,SE-LivingRules-Sept2011.pdf
+stalins-war,22677,SW_Living-Rules.pdf
+sword-rome,7480,SWORD_ROME RULES-2010_Vers2.pdf
+thirty-years-war-europe-agony-1618-1648,2748,tywrules.pdf
+tigers-mist-ardennes-offensive,4113,titm.pdf
+triumph-glory-battles-napoleonic-wars-1796-1809,7975,Borodino_Rules-8.pdf
+ukraine-43,3263,UK43_12_1_05.pdf
+unhappy-king-charles,18748,ukc_rulebook.pdf
+von-mansteins-backhand-blow,5357,vmbbrules.pdf
+washingtons-war,38996,WW_Playbook_Final_hi-res.pdf
+wilderness-war,1822,WILDERNESS-2010_Rules.pdf
+winds-plunder,7571,WoP_FullRules_english.pdf
+world-war-ii-barbarossa-berlin,3353,BtB rules-2006.pdf
+fury-dracula-thirdfourth-edition,181279,Fury_of_Dracula.pdf
+scythe,169786,6c-scythe-rulebook.pdf
+nemesis-lockdown,310100,Nemesis_LD_Rulebook_280x280mm_bleed3mm-32-pages.pdf
+root,237182,98-root-learn-to-play.pdf
+marvel-champions-card-game,285774,c2-marvel-champions-the-card-game-rules-reference.pdf
+ark-nova,342942,Ark-Nova-Rulebook.pdf
+brass-birmingham,224517,Brass-Birmingham-Rulebook-2018.11.20-highlights.pdf
+7-wonders-duel,173346,6b-7-wonders-duel-rules.pdf
+sumatra,313000,Sumatra_Rulebook-EN.pdf
+everdell,199792,everdell_rules.pdf
+monopoly-london,17250,27-monopoly-cthulhu-rulebook.pdf
+feast-odin,177736,ODIN_EN_rules-LR.pdf
+terraforming-mars,167791,fb-terraforming-mars-rule.pdf
+pandemic-legacy-season-1,161936,aa-pandemic-legacy-season-1-rulebook.pdf
+gloomhaven-jaws-lion,291457,gloomhaven jaws of the lion rules.pdf
+twilight-imperium-fourth-edition,233078,ti4_living_rules_reference_v1_2.pdf
+star-wars-rebellion,187645,sw03_rules_reference_web.pdf
+gaia-project,220308,Gaia-Project-Rules-CG.0609sm2.pdf
+spirit-island,162886,SI_CORE_Rulebook.pdf
+war-ring-second-edition,115746,WotR_2nd_Edition_Rules.pdf
+through-ages-new-story-civilization,182028,Through_the_Ages_-_English_Rules.pdf
+great-western-trail,193738,Great Western Trail - rules.pdf
+twilight-struggle,12333,TS_Rules_Deluxe.pdf
+dune-imperium,316554,dune imperium rules.pdf
+castles-burgundy,84876,The castles of burgundy - rules.pdf
+nemesis,167355,NEMESIS_RULEBOOK_280x280mm_ENG.pdf
+concordia,124361,Concordia_rules_eng_1_1.pdf
+terra-mystica,120677,TerraMystica-rules.pdf
+wingspan,266192,4c-wingspan-rulebook.pdf
+clank-legacy-acquisitions-incorporated,266507,clank legacy acquisitions incorporated rules.pdf
+eclipse-second-dawn-galaxy,246900,eclipse-2nd-dawn-rules-eng-2020-03-13-web200-searchable.pdf
+viticulture-essential-edition,183394,Viticulture Essential Edition Rulebook.pdf
+orleans,164928,Orleans - rules.pdf
+lost-ruins-arnak,312484,0c-lost-ruins-of-arnak-rulebook.pdf
+mage-knight-board-game,96848,MK_rulebook_ENG_searchable-mar2012.pdf
+food-chain-magnate,175914,Food Chain Magnate - rules.pdf
+puerto-rico,3076,puerto-rico.pdf
+barrage,251247,87-barrage-rulebook.pdf
+too-many-bones,192135,TMB_Rulebook_1.0.2_Spreads_Online1.pdf
+caverna-cave-farmers,102794,6b-caverna-rulebook.pdf
+blood-rage,170216,c2-blood-rage-rulebook.pdf
+agricola,31260,en_agricolare.html_Rules_Agricola-RE_EN.pdf
+pax-pamir-second-edition,256960,Pax_Pamir_Second_Edition_Rulebook_(Second_Printing).pdf
+underwater-cities,247763,b7-underwater-cities-rulebook.pdf
+maracaibo,276025,Maracaibo_EN.pdf
+pandemic-legacy-season-2,221107,70-pandemic-legacy-season-2-rulebook.pdf
+anachrony,185343,anachrony rules.pdf
+mansions-madness-second-edition,205059,62-mansions-of-madness-second-edition-rulebook.pdf
+crew-quest-planet-nine,284083,09-the-crew-the-quest-for-planet-nine-rulebook.pdf
+tzolk-mayan-calendar,126163,8e-tzolkin-the-mayan-calendar-rulebook.pdf
+mars,184267,On_Mars_-_English_Rulebook_FINAL.pdf
+power-grid,2651,f6-power-grid-the-card-game-rulebook.pdf
+crew-mission-deep-sea,324856,41-the-crew-mission-deep-sea-rulebook.pdf
+clans-caledonia,216132,Clans of Caledonia - rules.pdf
+le-havre,35677,lehavre-rules.pdf
+star-wars-imperial-assault,164153,6f-star-wars-imperial-assault-rulebook.pdf
+mechs-vs-minions,209010,MvM_EN_Rulebook_Wave_2-0.pdf
+crokinole,521,crokinole_rules.pdf
+quacks-quedlinburg,244521,db-the-quacks-of-quedlinburg-rulebook.pdf
+gallerist,125153,The Gallerist - rules.pdf
+lisboa,161533,Lisboa rulebook v8_2020_lowrez s.pdf
+cascadia,295947,df-cascadia-rulebook.pdf
+paladins-west-kingdom,266810,91-paladins-of-the-west-kingdom-rulebook.pdf
+azul,230802,fd-azul-rulebook.pdf
+7th-continent,180263,The7thContinent_rulebook.pdf
+eclipse,72125,Eclipse_rules_EN_light.pdf
+android-netrunner,124742,42-android-netrunner-rulebook.pdf
+aeons-end,191189,9e-aeons-end-rulebook.pdf
+race-galaxy,28143,a4-race-for-the-galaxy-rulebook.pdf
+clank-deck-building-adventure,201808,ae-clank-a-deck-building-adventure-rulebook.pdf
+five-tribes,157354,86-five-tribes-rulebook.pdf
+fields-arle,159675,04-fields-of-arle-rulebook.pdf
+robinson-crusoe-adventures-cursed-island,121921,a2-robinson-crusoe-adventures-on-the-cursed-island-rulebook.pdf
+teotihuacan-city-gods,229853,c7-teotihuacan-city-of-gods-rulebook.pdf
+voyages-marco-polo,171623,the-voyages-of-marco-polo-rules.pdf
+grand-austria-hotel,182874,33-grand-austria-hotel-rulebook.pdf
+7-wonders,68448,88-7-wonders-rule.pdf
+lords-waterdeep,110327,DnD_LOW_Rulebook_EN_1.pdf
+dominant-species,62219,DomSpec_Rules_FINAL.pdf
+kanban-ev,284378,Kanban EV Rules v10_lowres.pdf
+tainted-grail-fall-avalon,264220,rulebook_web.pdf
+architects-west-kingdom,236457,3d-architects-of-the-west-kingdom-rulebook.pdf
+el-grande,93,elgrande_uk.pdf
+keyflower,122515,80-keyflower-rulebook.pdf
+caylus,18602,CayUS.pdf
+sleeping-gods,255984,sleeping gods rules.pdf
+battlestar-galactica-board-game,37111,bsg-rulebook-web.pdf
+mombasa,172386,Mombasa - rules.pdf
+troyes,73439,TROYES_RULES_ENG_04_04_17LD.pdf
+dominion-intrigue,40834,df-dominion-intrigue-rulebook.pdf
+twilight-imperium-third-edition,12493,ti3rules.pdf
+lord-rings-journeys-middle-earth,269385,journeys_in_middle-earth_learn_to_play.pdf
+raiders-north-sea,170042,Raiders of the North Sea - rules.pdf
+eldritch-horror,146021,17-eldritch-horror-rulebook.pdf
+lorenzo-il-magnifico,203993,00-lorenzo-il-magnifico-rulebook.pdf
+tigris-euphrates,42,kn25_rulebook_web.pdf
+beyond-sun,317985,54-beyond-the-sun-rulebook.pdf
